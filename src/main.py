@@ -37,9 +37,6 @@ def fetch_strategy_1(url:str) -> list:
             logging.warning(f"Title mismatch: {title} != {arxiv_paper['title']}")
         papers.append(arxiv_paper)
 
-        if len(papers) > 3:
-            break
-
     return papers
 
 def fetch_strategy_2(url:str) -> list:
@@ -65,9 +62,6 @@ def fetch_strategy_2(url:str) -> list:
         if title.lower() != arxiv_paper['title'].lower():
             logging.warning(f"Title mismatch: {title} != {arxiv_paper['title']}")
         papers.append(arxiv_paper)
-
-        if len(papers) > 3:
-            break
 
     return papers
 
