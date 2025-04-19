@@ -1,0 +1,11 @@
+services:
+  app:
+    build: .
+    image: ai-papers-crawler-image
+    container_name: ai-papers-crawler-container
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"
+    stdin_open: true
+    tty: true
