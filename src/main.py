@@ -1,8 +1,10 @@
+from .utils import logging
+
 def main():
     """
     Entry point for the application.
     """
-    print("Welcome to the AI Papers Crawler!")
+    logging.info("Welcome to the AI Papers Crawler!")
 
 if __name__ == "__main__":
     main()
