@@ -1,0 +1,1047 @@
+{"title": "IAG: Induction-Augmented Generation Framework for Answering Reasoning Questions"}
+{"title": "Absolute Position Embedding Learns Sinusoid-like Waves for Attention Based on Relative Position"}
+{"title": "Chinese Lexical Substitution: Dataset and Method"}
+{"title": "Decoding the Silent Majority: Inducing Belief Augmented Social Graph with Large Language Model for Response Forecasting"}
+{"title": "Holistic Inter-Annotator Agreement and Corpus Coherence Estimation in a Large-scale Multilingual Annotation Campaign"}
+{"title": "PHD: Pixel-Based Language Modeling of Historical Documents"}
+{"title": "Evaluating the Rationale Understanding of Critical Reasoning in Logical Reading Comprehension"}
+{"title": "Evaluating and Modeling Attribution for Cross-Lingual Question Answering"}
+{"title": "Sparse Universal Transformer"}
+{"title": "Theory of Mind for Multi-Agent Collaboration via Large Language Models"}
+{"title": "Let\u2019s Think Frame by Frame with VIP: A Video Infilling and Prediction Dataset for Evaluating Video Chain-of-Thought"}
+{"title": "GPTAraEval: A Comprehensive Evaluation of ChatGPT on Arabic NLP"}
+{"title": "Dual-Channel Span for Aspect Sentiment Triplet Extraction"}
+{"title": "Cultural Concept Adaptation on Multimodal Reasoning"}
+{"title": "Understanding Compositional Data Augmentation in Typologically Diverse Morphological Inflection"}
+{"title": "Evaluating Object Hallucination in Large Vision-Language Models"}
+{"title": "Event Ontology Completion with Hierarchical Structure Evolution Networks"}
+{"title": "Parameter-efficient Tuning for Large Language Model without Calculating Its Gradients"}
+{"title": "Discourse Structures Guided Fine-grained Propaganda Identification"}
+{"title": "CompoundPiece: Evaluating and Improving Decompounding Performance of Language Models"}
+{"title": "Improving Image Captioning via Predicting Structured Concepts"}
+{"title": "GATITOS: Using a New Multilingual Lexicon for Low-resource Machine Translation"}
+{"title": "Continually Improving Extractive QA via Human Feedback"}
+{"title": "Using Interpretation Methods for Model Enhancement"}
+{"title": "An Expression Tree Decoding Strategy for Mathematical Equation Generation"}
+{"title": "Diversity Enhanced Narrative Question Generation for Storybooks"}
+{"title": "Debiasing Made State-of-the-art: Revisiting the Simple Seed-based Weak Supervision for Text Classification"}
+{"title": "How to Enhance Causal Discrimination of Utterances: A Case on Affective Reasoning"}
+{"title": "Compressing and Debiasing Vision-Language Pre-Trained Models for Visual Question Answering"}
+{"title": "Selectively Answering Ambiguous Questions"}
+{"title": "Temporal Knowledge Graph Forecasting Without Knowledge Using In-Context Learning"}
+{"title": "Knowledge Graph Compression Enhances Diverse Commonsense Generation"}
+{"title": "Pragmatic Reasoning Unlocks Quantifier Semantics for Foundation Models"}
+{"title": "LLM-FP4: 4-Bit Floating-Point Quantized Transformers"}
+{"title": "Improving Biomedical Abstractive Summarisation with Knowledge Aggregation from Citation Papers"}
+{"title": "Explanation Selection Using Unlabeled Data for Chain-of-Thought Prompting"}
+{"title": "HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation"}
+{"title": "Gradient-based Gradual Pruning for Language-Specific Multilingual Neural Machine Translation"}
+{"title": "LLM-powered Data Augmentation for Enhanced Cross-lingual Performance"}
+{"title": "Prompt-based Logical Semantics Enhancement for Implicit Discourse Relation Recognition"}
+{"title": "VLIS: Unimodal Language Models Guide Multimodal Language Generation"}
+{"title": "Conceptual structure coheres in human cognition but not in large language models"}
+{"title": "Towards LLM-driven Dialogue State Tracking"}
+{"title": "Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis"}
+{"title": "Multitask Multimodal Prompted Training for Interactive Embodied Task Completion"}
+{"title": "We\u2019re Afraid Language Models Aren\u2019t Modeling Ambiguity"}
+{"title": "Linear-Time Modeling of Linguistic Structure: An Order-Theoretic Perspective"}
+{"title": "GEMINI: Controlling The Sentence-Level Summary Style in Abstractive Text Summarization"}
+{"title": "Analyzing Norm Violations in Live-Stream Chat"}
+{"title": "Coarse-to-Fine Contrastive Learning in Image-Text-Graph Space for Improved Vision-Language Compositionality"}
+{"title": "Reading Books is Great, But Not if You Are Driving! Visually Grounded Reasoning about Defeasible Commonsense Norms"}
+{"title": "Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus"}
+{"title": "FactKB: Generalizable Factuality Evaluation using Language Models Enhanced with Factual Knowledge"}
+{"title": "Mitigating Backdoor Poisoning Attacks through the Lens of Spurious Correlation"}
+{"title": "Symbol tuning improves in-context learning in language models"}
+{"title": "The neural dynamics of word recognition and integration"}
+{"title": "Incorporating Worker Perspectives into MTurk Annotation Practices for NLP"}
+{"title": "Predict the Future from the Past? On the Temporal Data Distribution Shift in Financial Sentiment Classifications"}
+{"title": "Look-back Decoding for Open-Ended Text Generation"}
+{"title": "Large Language Models Can Self-Improve"}
+{"title": "CodeT5+: Open Code Large Language Models for Code Understanding and Generation"}
+{"title": "Structural generalization in COGS: Supertagging is (almost) all you need"}
+{"title": "BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations"}
+{"title": "SeqXGPT: Sentence-Level AI-Generated Text Detection"}
+{"title": "QTSumm: Query-Focused Summarization over Tabular Data"}
+{"title": "From Wrong To Right: A Recursive Approach Towards Vision-Language Explanation"}
+{"title": "`Don\u2019t Get Too Technical with Me\u2019: A Discourse Structure-Based Framework for Automatic Science Journalism"}
+{"title": "LACMA: Language-Aligning Contrastive Learning with Meta-Actions for Embodied Instruction Following"}
+{"title": "Towards Robust Pruning: An Adaptive Knowledge-Retention Pruning Strategy for Language Models"}
+{"title": "Clinical Contradiction Detection"}
+{"title": "Vera: A General-Purpose Plausibility Estimation Model for Commonsense Statements"}
+{"title": "Text-Transport: Toward Learning Causal Effects of Natural Language"}
+{"title": "How Does Generative Retrieval Scale to Millions of Passages?"}
+{"title": "Unveiling the Implicit Toxicity in Large Language Models"}
+{"title": "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?"}
+{"title": "Length is a Curse and a Blessing for Document-level Semantics"}
+{"title": "ALCUNA: Large Language Models Meet New Knowledge"}
+{"title": "Location-Aware Visual Question Generation with Lightweight Models"}
+{"title": "MemeCap: A Dataset for Captioning and Interpreting Memes"}
+{"title": "Where to start? Analyzing the potential value of intermediate models"}
+{"title": "Transcending Scaling Laws with 0.1% Extra Compute"}
+{"title": "CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation"}
+{"title": "Optimizing Retrieval-augmented Reader Models via Token Elimination"}
+{"title": "WSDMS: Debunk Fake News via Weakly Supervised Detection of Misinforming Sentences with Contextualized Social Wisdom"}
+{"title": "Robust Prompt Optimization for Large Language Models Against Distribution Shifts"}
+{"title": "Exploiting Asymmetry for Synthetic Training Data Generation: SynthIE and the Case of Information Extraction"}
+{"title": "Condensing Multilingual Knowledge with Lightweight Language-Specific Modules"}
+{"title": "The Framework Tax: Disparities Between Inference Efficiency in NLP Research and Deployment"}
+{"title": "Evaluating Cross-Domain Text-to-SQL Models and Benchmarks"}
+{"title": "Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs"}
+{"title": "Memory-Based Invariance Learning for Out-of-Domain Text Classification"}
+{"title": "Outlier Suppression+: Accurate quantization of large language models by equivalent and effective shifting and scaling"}
+{"title": "Three Stream Based Multi-level Event Contrastive Learning for Text-Video Event Extraction"}
+{"title": "Diversify Question Generation with Retrieval-Augmented Style Transfer"}
+{"title": "Fast and Accurate Factual Inconsistency Detection Over Long Documents"}
+{"title": "Interpreting Embedding Spaces by Conceptualization"}
+{"title": "Knowledge-Augmented Language Model Verification"}
+{"title": "A Generation-based Deductive Method for Math Word Problems"}
+{"title": "Failures Pave the Way: Enhancing Large Language Models through Tuning-free Rule Accumulation"}
+{"title": "Building Persona Consistent Dialogue Agents with Offline Reinforcement Learning"}
+{"title": "Augmenting Zero-Shot Dense Retrievers with Plug-in Mixture-of-Memories"}
+{"title": "Active Instruction Tuning: Improving Cross-Task Generalization by Training on Prompt Sensitive Tasks"}
+{"title": "Towards Example-Based NMT with Multi-Levenshtein Transformers"}
+{"title": "DUnE: Dataset for Unified Editing"}
+{"title": "``Fifty Shades of Bias\u2019\u2019: Normative Ratings of Gender Bias in GPT Generated English Text"}
+{"title": "Hybrid Inverted Index Is a Robust Accelerator for Dense Retrieval"}
+{"title": "ChatGPT to Replace Crowdsourcing of Paraphrases for Intent Classification: Higher Diversity and Comparable Model Robustness"}
+{"title": "Query-as-context Pre-training for Dense Passage Retrieval"}
+{"title": "A Suite of Generative Tasks for Multi-Level Multimodal Webpage Understanding"}
+{"title": "Democratizing Reasoning Ability: Tailored Learning from Large Language Model"}
+{"title": "OpenAsp: A Benchmark for Multi-document Open Aspect-based Summarization"}
+{"title": "Byte Pair Encoding for Symbolic Music"}
+{"title": "Combining Denoising Autoencoders with Contrastive Learning to fine-tune Transformer Models"}
+{"title": "Self-Influence Guided Data Reweighting for Language Model Pre-training"}
+{"title": "TrueTeacher: Learning Factual Consistency Evaluation with Large Language Models"}
+{"title": "Tagging-Assisted Generation Model with Encoder and Decoder Supervision for Aspect Sentiment Triplet Extraction"}
+{"title": "Norm of Word Embedding Encodes Information Gain"}
+{"title": "CRT-QA: A Dataset of Complex Reasoning Question Answering over Tabular Data"}
+{"title": "Promoting Topic Coherence and Inter-Document Consorts in Multi-Document Summarization via Simplicial Complex and Sheaf Graph"}
+{"title": "MAGNIFICo: Evaluating the In-Context Learning Ability of Large Language Models to Generalize to Novel Interpretations"}
+{"title": "Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency"}
+{"title": "Counter Turing Test (CT2): AI-Generated Text Detection is Not as Easy as You May Think - Introducing AI Detectability Index (ADI)"}
+{"title": "Revisiting the Optimality of Word Lengths"}
+{"title": "Document-level Relationship Extraction by Bidirectional Constraints of Beta Rules"}
+{"title": "Instructed Language Models with Retrievers Are Powerful Entity Linkers"}
+{"title": "Towards Noise-Tolerant Speech-Referring Video Object Segmentation: Bridging Speech and Text"}
+{"title": "PROSE: A Pronoun Omission Solution for Chinese-English Spoken Language Translation"}
+{"title": "A Diachronic Analysis of Paradigm Shifts in NLP Research: When, How, and Why?"}
+{"title": "Does the Correctness of Factual Knowledge Matter for Factual Knowledge-Enhanced Pre-trained Language Models?"}
+{"title": "Syntactic Substitutability as Unsupervised Dependency Syntax"}
+{"title": "MProto: Multi-Prototype Network with Denoised Optimal Transport for Distantly Supervised Named Entity Recognition"}
+{"title": "The Shifted and The Overlooked: A Task-oriented Investigation of User-GPT Interactions"}
+{"title": "Learning the Visualness of Text Using Large Vision-Language Models"}
+{"title": "The Past, Present and Better Future of Feedback Learning in Large Language Models for Subjective Human Preferences and Values"}
+{"title": "TempTabQA: Temporal Question Answering for Semi-Structured Tables"}
+{"title": "Task-Level Thinking Steps Help Large Language Models for Challenging Classification Task"}
+{"title": "RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation"}
+{"title": "Influence Scores at Scale for Efficient Language Data Sampling"}
+{"title": "G-Eval: NLG Evaluation using Gpt-4 with Better Human Alignment"}
+{"title": "Learning Retrieval Augmentation for Personalized Dialogue Generation"}
+{"title": "The Troubling Emergence of Hallucination in Large Language Models - An Extensive Definition, Quantification, and Prescriptive Remediations"}
+{"title": "NAIL: Lexical Retrieval Indices with Efficient Non-Autoregressive Decoders"}
+{"title": "Analyzing Modular Approaches for Visual Question Decomposition"}
+{"title": "Improving Summarization with Human Edits"}
+{"title": "The Skipped Beat: A Study of Sociopragmatic Understanding in LLMs for 64 Languages"}
+{"title": "BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology"}
+{"title": "Cross-lingual Prompting: Improving Zero-shot Chain-of-Thought Reasoning across Languages"}
+{"title": "FinGPT: Large Generative Models for a Small Language"}
+{"title": "Boosting Summarization with Normalizing Flows and Aggressive Training"}
+{"title": "Indicative Summarization of Long Discussions"}
+{"title": "A Framework for Vision-Language Warm-up Tasks in Multimodal Dialogue Models"}
+{"title": "Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts"}
+{"title": "GLEN: General-Purpose Event Detection for Thousands of Types"}
+{"title": "Hierarchical Pretraining on Multimodal Electronic Health Records"}
+{"title": "Bridging the Gap between Synthetic and Authentic Images for Multimodal Machine Translation"}
+{"title": "DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models"}
+{"title": "Can Language Models Laugh at YouTube Short-form Videos?"}
+{"title": "Random Entity Quantization for Parameter-Efficient Compositional  Knowledge Graph Representation"}
+{"title": "Exploring All-In-One Knowledge Distillation Framework for Neural Machine Translation"}
+{"title": "HistAlign: Improving Context Dependency in Language Generation by Aligning with History"}
+{"title": "CombLM: Adapting Black-Box Language Models through Small Fine-Tuned Models"}
+{"title": "Image Manipulation via Multi-Hop Instructions - A New Dataset and Weakly-Supervised Neuro-Symbolic Approach"}
+{"title": "Generative Spoken Language Model based on continuous word-sized audio tokens"}
+{"title": "Enhancing Chat Language Models by Scaling High-quality Instructional Conversations"}
+{"title": "Weakly-Supervised Learning of Visual Relations in Multimodal Pretraining"}
+{"title": "Unsupervised Grammatical Error Correction Rivaling Supervised Methods"}
+{"title": "S2abEL: A Dataset for Entity Linking from Scientific Tables"}
+{"title": "API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs"}
+{"title": "Language and Mental Health: Measures of Emotion Dynamics from Text as Linguistic Biosocial Markers"}
+{"title": "Lion: Adversarial Distillation of Proprietary Large Language Models"}
+{"title": "Evaluating Large Language Models on Controlled Generation Tasks"}
+{"title": "DeSIQ: Towards an Unbiased, Challenging Benchmark for Social Intelligence Understanding"}
+{"title": "Why LLMs Hallucinate, and How to Get (Evidential) Closure: Perceptual, Intensional, and Extensional Learning for Faithful Natural Language Generation"}
+{"title": "A Question Answering Framework for Decontextualizing User-facing Snippets from Scientific Documents"}
+{"title": "SLOG: A Structural Generalization Benchmark for Semantic Parsing"}
+{"title": "Pushdown Layers: Encoding Recursive Structure in Transformer Language Models"}
+{"title": "Can LLMs Facilitate Interpretation of Pre-trained Language Models?"}
+{"title": "Enhancing Low-resource Fine-grained Named Entity Recognition by Leveraging Coarse-grained Datasets"}
+{"title": "Non-Autoregressive Math Word Problem Solver with Unified Tree Structure"}
+{"title": "Improving Chinese Pop Song and Hokkien Gezi Opera Singing Voice Synthesis by Enhancing Local Modeling"}
+{"title": "What Else Do I Need to Know? The Effect of Background Information on Users\u2019 Reliance on QA Systems"}
+{"title": "VIBE: Topic-Driven Temporal Adaptation for Twitter Classification"}
+{"title": "TOD-Flow: Modeling the Structure of Task-Oriented Dialogues"}
+{"title": "TopWORDS-Poetry: Simultaneous Text Segmentation and Word Discovery for Classical Chinese Poetry via Bayesian Inference"}
+{"title": "Knowledge Rumination for Pre-trained Language Models"}
+{"title": "Struct-XLM: A Structure Discovery Multilingual Language Model for Enhancing Cross-lingual Transfer through Reinforcement Learning"}
+{"title": "AdaSent: Efficient Domain-Adapted Sentence Embeddings for Few-Shot Classification"}
+{"title": "Interview Evaluation: A Novel Approach for Automatic Evaluation of Conversational Question Answering Models"}
+{"title": "TCFLE-8: a Corpus of Learner Written Productions for French as a Foreign Language and its Application to Automated Essay Scoring"}
+{"title": "Dancing Between Success and Failure: Edit-level Simplification Evaluation using SALSA"}
+{"title": "Confidence-based Ensembling of Perspective-aware Models"}
+{"title": "ToViLaG: Your Visual-Language Generative Model is Also An Evildoer"}
+{"title": "GPT-RE: In-context Learning for Relation Extraction using Large Language Models"}
+{"title": "Sociocultural Norm Similarities and Differences via Situational Alignment and Explainable Textual Entailment"}
+{"title": "INFORM : Information eNtropy based multi-step reasoning FOR large language Models"}
+{"title": "Adaptive Gating in Mixture-of-Experts based Language Models"}
+{"title": "On the Automatic Generation and Simplification of Children\u2019s Stories"}
+{"title": "The Curious Case of Hallucinatory (Un)answerability: Finding Truths in the Hidden States of Over-Confident Large Language Models"}
+{"title": "Identifying Informational Sources in News Articles"}
+{"title": "Retrofitting Light-weight Language Models for Emotions using Supervised Contrastive Learning"}
+{"title": "Longtriever: a Pre-trained Long Text Encoder for Dense Document Retrieval"}
+{"title": "Small Language Models Fine-tuned to Coordinate Larger Language Models improve Complex Reasoning"}
+{"title": "Structural Priming Demonstrates Abstract Grammatical Representations in Multilingual Language Models"}
+{"title": "ReasoningLM: Enabling Structural Subgraph Reasoning  in Pre-trained Language Models for Question Answering over Knowledge Graph"}
+{"title": "Deep Natural Language Feature Learning for Interpretable Prediction"}
+{"title": "ROBBIE: Robust Bias Evaluation of Large Generative Language Models"}
+{"title": "Enhancing Task-oriented Dialogue Systems with Generative Post-processing Networks"}
+{"title": "Adapting Language Models to Compress Contexts"}
+{"title": "Selective Labeling: How to Radically Lower Data-Labeling Costs for Document Extraction Models"}
+{"title": "TRAVEL: Tag-Aware Conversational FAQ Retrieval via Reinforcement Learning"}
+{"title": "Continual Dialogue State Tracking via Example-Guided Question Answering"}
+{"title": "Lost in Translation, Found in Spans: Identifying Claims in Multilingual Social Media"}
+{"title": "COVID-19 Vaccine Misinformation in Middle Income Countries"}
+{"title": "Contrastive Learning of Sentence Embeddings from Scratch"}
+{"title": "A Rose by Any Other Name would not Smell as Sweet: Social Bias in Names Mistranslation"}
+{"title": "Investigating Efficiently Extending Transformers for Long Input Summarization"}
+{"title": "CS2W: A Chinese Spoken-to-Written Style Conversion Dataset with Multiple Conversion Types"}
+{"title": "Unifying Cross-Lingual Transfer across Scenarios of Resource Scarcity"}
+{"title": "A Tale of Pronouns: Interpretability Informs Gender Bias Mitigation for Fairer Instruction-Tuned Machine Translation"}
+{"title": "DisCo: Distilled Student Models Co-training for Semi-supervised Text Mining"}
+{"title": "Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation"}
+{"title": "Language Model is Suitable for Correction of Handwritten Mathematical Expressions Recognition"}
+{"title": "Vicinal Risk Minimization for Few-Shot Cross-lingual Transfer in Abusive Language Detection"}
+{"title": "SuperDialseg: A Large-scale Dataset for Supervised Dialogue Segmentation"}
+{"title": "ATFormer: A Learned Performance Model with Transfer Learning Across Devices for Deep Learning Tensor Programs"}
+{"title": "mRedditSum: A Multimodal Abstractive Summarization Dataset of Reddit Threads with Images"}
+{"title": "Sparse Low-rank Adaptation of Pre-trained Language Models"}
+{"title": "Human Learning by Model Feedback: The Dynamics of Iterative Prompting with Midjourney"}
+{"title": "The Art of SOCRATIC QUESTIONING: Recursive Thinking with Large Language Models"}
+{"title": "Ideology Takes Multiple Looks: A High-Quality Dataset for Multifaceted Ideology Detection"}
+{"title": "Transductive Learning for Textual Few-Shot Classification in API-based Embedding Models"}
+{"title": "MEGA: Multilingual Evaluation of Generative AI"}
+{"title": "Support or Refute: Analyzing the Stance of Evidence to Detect Out-of-Context Mis- and Disinformation"}
+{"title": "Video-Helpful Multimodal Machine Translation"}
+{"title": "Large Language Models are Temporal and Causal Reasoners for Video Question Answering"}
+{"title": "Prompting Large Language Models with Chain-of-Thought for Few-Shot Knowledge Base Question Generation"}
+{"title": "TrojanSQL: SQL Injection against Natural Language Interface to Database"}
+{"title": "Preserving Privacy Through Dememorization:  An Unlearning Technique For Mitigating Memorization Risks In Language Models"}
+{"title": "MingOfficial: A Ming Official Career Dataset and a Historical Context-Aware Representation Learning Framework"}
+{"title": "DPP-TTS: Diversifying prosodic features of speech via determinantal point processes"}
+{"title": "Meta-Learning Online Adaptation of Language Models"}
+{"title": "Self-Detoxifying Language Models via Toxification Reversal"}
+{"title": "Interactive Text Generation"}
+{"title": "NeuSTIP: A Neuro-Symbolic Model for Link and Time Prediction in Temporal Knowledge Graphs"}
+{"title": "Standardizing Distress Analysis: Emotion-Driven Distress Identification and Cause Extraction (DICE) in Multimodal Online Posts"}
+{"title": "Out-of-Distribution Generalization in Natural Language Processing: Past, Present, and Future"}
+{"title": "Can Large Language Models Capture Dissenting Human Voices?"}
+{"title": "DecoMT: Decomposed Prompting for Machine Translation Between Related Languages using Large Language Models"}
+{"title": "Prototype-based HyperAdapter for Sample-Efficient Multi-task Tuning"}
+{"title": "Towards Building More Robust NER datasets: An Empirical Study on NER Dataset Bias from a Dataset Difficulty View"}
+{"title": "GradSim: Gradient-Based Language Grouping for Effective Multilingual Training"}
+{"title": "Discovering Universal Geometry in Embeddings with ICA"}
+{"title": "Toward a Critical Toponymy Framework for Named Entity Recognition: A Case Study of Airbnb in New York City"}
+{"title": "Well Begun is Half Done: Generator-agnostic Knowledge Pre-Selection for Knowledge-Grounded Dialogue"}
+{"title": "Merging Generated and Retrieved Knowledge for Open-Domain QA"}
+{"title": "Text Fact Transfer"}
+{"title": "A Cheaper and Better Diffusion Language Model with Soft-Masked Noise"}
+{"title": "Mirages. On Anthropomorphism in Dialogue Systems"}
+{"title": "KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing"}
+{"title": "Adaptive Policy with Wait-k Model for Simultaneous Translation"}
+{"title": "Cross-Document Event Coreference Resolution on Discourse Structure"}
+{"title": "Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations"}
+{"title": "Can We Edit Factual Knowledge by In-Context Learning?"}
+{"title": "EDIS: Entity-Driven Image Search over Multimodal Web Content"}
+{"title": "Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models"}
+{"title": "Text encoders bottleneck compositionality in contrastive vision-language models"}
+{"title": "Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs Through a Global Prompt Hacking Competition"}
+{"title": "MMNMT: Modularizing Multilingual Neural Machine Translation with Flexibly Assembled MoE and Dense Blocks"}
+{"title": "Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge"}
+{"title": "Introducing Rhetorical Parallelism Detection: A New Task with Datasets, Metrics, and Baselines"}
+{"title": "Prompting is not a substitute for probability measurements in large language models"}
+{"title": "Parameter-Efficient Language Model Tuning with Active Learning in Low-Resource Settings"}
+{"title": "CoLT5: Faster Long-Range Transformers with Conditional Computation"}
+{"title": "DiSTRICT: Dialogue State Tracking with Retriever Driven In-Context Tuning"}
+{"title": "Cross-Cultural Analysis of Human Values, Morals, and Biases in Folk Tales"}
+{"title": "Non-Programmers Can Label Programs Indirectly via Active Examples: A Case Study with Text-to-SQL"}
+{"title": "LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers"}
+{"title": "Non-autoregressive Streaming Transformer for Simultaneous Translation"}
+{"title": "ViSoBERT: A Pre-Trained Language Model for Vietnamese Social Media Text Processing"}
+{"title": "RAPL: A Relation-Aware Prototype Learning Approach for Few-Shot Document-Level Relation Extraction"}
+{"title": "GeoLM: Empowering Language Models for Geospatially Grounded Language Understanding"}
+{"title": "Cross-Modal Conceptualization in Bottleneck Models"}
+{"title": "LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models"}
+{"title": "DREAM: Deployment of Recombination and Ensembles in Argument Mining"}
+{"title": "Query Rewriting in Retrieval-Augmented Large Language Models"}
+{"title": "PromptMix: A Class Boundary Augmentation Method for Large Language Model Distillation"}
+{"title": "COHESENTIA: A Novel Benchmark of Incremental versus Holistic Assessment of Coherence in Generated Texts"}
+{"title": "QUDeval: The Evaluation of Questions Under Discussion Discourse Parsing"}
+{"title": "PRCA: Fitting Black-Box Large Language Models for Retrieval Question Answering via Pluggable Reward-Driven Contextual Adapter"}
+{"title": "Exploring Chain of Thought Style Prompting for Text-to-SQL"}
+{"title": "Efficient Algorithms for Recognizing Weighted Tree-Adjoining Languages"}
+{"title": "Harnessing Black-Box Control to Boost Commonsense in LM\u2019s Generation"}
+{"title": "Representative Demonstration Selection for In-Context Learning with Two-Stage Determinantal Point Process"}
+{"title": "The Effect of Scaling, Retrieval Augmentation and Form on the Factual Consistency of Language Models"}
+{"title": "ViPE: Visualise Pretty-much Everything"}
+{"title": "Navigating the Grey Area: How Expressions of Uncertainty and Overconfidence Affect Language Models"}
+{"title": "Elaborative Simplification as Implicit Questions Under Discussion"}
+{"title": "SciRepEval: A Multi-Format Benchmark for Scientific Document Representations"}
+{"title": "A Diachronic Perspective on User Trust in AI under Uncertainty"}
+{"title": "CT-GAT: Cross-Task Generative Adversarial Attack based on Transferability"}
+{"title": "Improving Long Document Topic Segmentation Models With Enhanced Coherence Modeling"}
+{"title": "Dialogue Chain-of-Thought Distillation for Commonsense-aware Conversational Agents"}
+{"title": "Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives"}
+{"title": "Generating Commonsense Counterfactuals for Stable Relation Extraction"}
+{"title": "C-STS: Conditional Semantic Textual Similarity"}
+{"title": "Cross-lingual Transfer Can Worsen Bias in Sentiment Analysis"}
+{"title": "Rumor Detection on Social Media with Crowd Intelligence and ChatGPT-Assisted Networks"}
+{"title": "Grounding Visual Illusions in Language: Do Vision-Language Models Perceive Illusions Like Humans?"}
+{"title": "Controllable Contrastive Generation for Multilingual Biomedical Entity Linking"}
+{"title": "MediaHG: Rethinking Eye-catchy Features in Social Media Headline Generation"}
+{"title": "Fine-tuned LLMs Know More, Hallucinate Less with Few-Shot Sequence-to-Sequence Semantic Parsing over Wikidata"}
+{"title": "Efficient Grammatical Error Correction Via Multi-Task Training and Optimized Training Schedule"}
+{"title": "The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models"}
+{"title": "RainProof: An Umbrella to Shield Text Generator from Out-Of-Distribution Data"}
+{"title": "KEPL: Knowledge Enhanced Prompt Learning for Chinese Hypernym-Hyponym Extraction"}
+{"title": "Preserving Knowledge Invariance: Rethinking Robustness Evaluation of Open Information Extraction"}
+{"title": "Why Should This Article Be Deleted? Transparent Stance Detection in Multilingual Wikipedia Editor Discussions"}
+{"title": "Fast and Robust Early-Exiting Framework for Autoregressive Language Models with Synchronized Parallel Decoding"}
+{"title": "End-to-end Task-oriented Dialogue: A Survey of Tasks, Methods, and Future Directions"}
+{"title": "Answering Questions by Meta-Reasoning over Multiple Chains of Thought"}
+{"title": "INSTRUCTSCORE: Towards Explainable Text Generation Evaluation with Automatic Feedback"}
+{"title": "Multi-level Contrastive Learning for Script-based Character Understanding"}
+{"title": "CHEF in the Language Kitchen: A Generative Data Augmentation Leveraging Korean Morpheme Ingredients"}
+{"title": "Automatic Debate Evaluation with Argumentation Semantics and Natural Language Argument Graph Networks"}
+{"title": "Transfer-Free Data-Efficient Multilingual Slot Labeling"}
+{"title": "Towards Interpretable Mental Health Analysis with Large Language Models"}
+{"title": "Learning to Rank Generation with Pairwise Partial Rewards"}
+{"title": "GreedyCAS: Unsupervised Scientific Abstract Segmentation with Normalized Mutual Information"}
+{"title": "Multimodal Embodied Plan Prediction Augmented with Synthetic Embodied Dialogue"}
+{"title": "GEM: Gestalt Enhanced Markup Language Model for Web Understanding via Render Tree"}
+{"title": "Abstractive Open Information Extraction"}
+{"title": "CoSyn: Detecting Implicit Hate Speech in Online Conversations Using a Context Synergized Hyperbolic Network"}
+{"title": "CLEME: Debiasing Multi-reference Evaluation for Grammatical Error Correction"}
+{"title": "SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams"}
+{"title": "HyperNetwork-based Decoupling  to Improve Model Generalization for Few-Shot Relation Extraction"}
+{"title": "Solving Hard Analogy Questions with Relation Embedding Chains"}
+{"title": "Modeling Empathic Similarity in Personal Narratives"}
+{"title": "Tree Prompting: Efficient Task Adaptation without Fine-Tuning"}
+{"title": "Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data"}
+{"title": "Empathy Intent Drives Empathy Detection"}
+{"title": "Adaptive End-to-End Metric Learning for Zero-Shot Cross-Domain Slot Filling"}
+{"title": "ReTAG: Reasoning Aware Table to Analytic Text Generation"}
+{"title": "Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators"}
+{"title": "Compressing Context to Enhance Inference Efficiency of Large Language Models"}
+{"title": "MoT: Memory-of-Thought Enables ChatGPT to Self-Improve"}
+{"title": "Can You Follow Me? Testing Situational Understanding for ChatGPT"}
+{"title": "Towards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4"}
+{"title": "Advancements in Arabic Grammatical Error Detection and Correction: An Empirical Investigation"}
+{"title": "HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models"}
+{"title": "Enabling Large Language Models to Generate Text with Citations"}
+{"title": "Revisiting Machine Translation for Cross-lingual Classification"}
+{"title": "Counting the Bugs in ChatGPT\u2019s Wugs: A Multilingual Investigation into the Morphological Capabilities of a Large Language Model"}
+{"title": "Adapt in Contexts: Retrieval-Augmented Domain Adaptation via In-Context Learning"}
+{"title": "Dual-Feedback Knowledge Retrieval for Task-Oriented Dialogue Systems"}
+{"title": "MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models"}
+{"title": "Granularity Matters: Pathological Graph-driven Cross-modal Alignment for Brain CT Report Generation"}
+{"title": "Enhancing Structured Evidence Extraction for Fact Verification"}
+{"title": "Rethinking Model Selection and Decoding for Keyphrase Generation with Pre-trained Sequence-to-Sequence Models"}
+{"title": "A Fair and In-Depth Evaluation of Existing End-to-End Entity Linking Systems"}
+{"title": "A Multi-Task Dataset for Assessing Discourse Coherence in Chinese Essays: Structure, Theme, and Logic Analysis"}
+{"title": "SKD-NER: Continual Named Entity Recognition via Span-based Knowledge Distillation with Reinforcement Learning"}
+{"title": "Lifelong Sequence Generation with Dynamic Module Expansion and Adaptation"}
+{"title": "When the Majority is Wrong: Modeling Annotator Disagreement for Subjective Tasks"}
+{"title": "Lazy-k Decoding: Constrained Decoding for Information Extraction"}
+{"title": "Personalized Distillation: Empowering Open-Sourced LLMs with Adaptive Learning for Code Generation"}
+{"title": "Do Language Models Have a Common Sense regarding Time? Revisiting Temporal Commonsense Reasoning in the Era of Large Language Models"}
+{"title": "Comparing Styles across Languages"}
+{"title": "Event Causality Extraction via Implicit Cause-Effect Interactions"}
+{"title": "Evaluation of African American Language Bias in Natural Language Generation"}
+{"title": "A Systematic Study of Performance Disparities in Multilingual Task-Oriented Dialogue Systems"}
+{"title": "Cognate Transformer for Automated Phonological Reconstruction and Cognate Reflex Prediction"}
+{"title": "Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning"}
+{"title": "Weakly Supervised Semantic Parsing with Execution-based Spurious Program Filtering"}
+{"title": "Taxonomy Expansion for Named Entity Recognition"}
+{"title": "Rather a Nurse than a Physician - Contrastive Explanations under Investigation"}
+{"title": "An Investigation of LLMs\u2019 Inefficacy in Understanding Converse Relations"}
+{"title": "Towards Low-Resource Automatic Program Repair with Meta-Learning and Pretrained Language Models"}
+{"title": "ZGUL: Zero-shot Generalization to Unseen Languages using Multi-source Ensembling of Language Adapters"}
+{"title": "Log-FGAER: Logic-Guided Fine-Grained Address Entity Recognition from Multi-Turn Spoken Dialogue"}
+{"title": "Unified Low-Resource Sequence Labeling by Sample-Aware Dynamic Sparse Finetuning"}
+{"title": "On the Representational Capacity of Recurrent Neural Language Models"}
+{"title": "A Mechanistic Interpretation of Arithmetic Reasoning in Language Models using Causal Mediation Analysis"}
+{"title": "Benchmarking and Improving Text-to-SQL Generation under Ambiguity"}
+{"title": "Non-autoregressive Text Editing with Copy-aware Latent Alignments"}
+{"title": "Translating away Translationese without Parallel Data"}
+{"title": "CaseEncoder: A Knowledge-enhanced Pre-trained Model for Legal Case Encoding"}
+{"title": "HiddenTables and PyQTax: A Cooperative Game and Dataset For TableQA to Ensure Scale and Data Privacy Across a Myriad of Taxonomies"}
+{"title": "Causal Document-Grounded Dialogue Pre-training"}
+{"title": "Accented Speech Recognition With Accent-specific Codebooks"}
+{"title": "Linking Surface Facts to Large-Scale Knowledge Graphs"}
+{"title": "Sentiment Analysis on Streaming User Reviews via Dual-Channel Dynamic Graph Neural Network"}
+{"title": "DUMB: A Dutch Model Benchmark"}
+{"title": "OssCSE: Overcoming Surface Structure Bias in Contrastive Learning for Unsupervised Sentence Embedding"}
+{"title": "End-to-End Single-Channel Speaker-Turn Aware Conversational Speech Translation"}
+{"title": "A Fine-Grained Taxonomy of Replies to Hate Speech"}
+{"title": "JointMatch: A Unified Approach for Diverse and Collaborative Pseudo-Labeling to Semi-Supervised Text Classification"}
+{"title": "Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4"}
+{"title": "CiteBench: A Benchmark for Scientific Citation Text Generation"}
+{"title": "From Heuristic to Analytic: Cognitively Motivated Strategies for Coherent Physical Commonsense Reasoning"}
+{"title": "A Challenging Multimodal Video Summary: Simultaneously Extracting and Generating Keyframe-Caption Pairs from Video"}
+{"title": "Effects of sub-word segmentation on performance of transformer language models"}
+{"title": "Symbolic Planning and Code Generation for Grounded Dialogue"}
+{"title": "Universal Self-Adaptive Prompting"}
+{"title": "Content- and Topology-Aware Representation Learning for Scientific Multi-Literature"}
+{"title": "Joint Entity and Relation Extraction with Span Pruning and Hypergraph Neural Networks"}
+{"title": "Have LLMs Advanced Enough? A Challenging Problem Solving Benchmark For Large Language Models"}
+{"title": "StrAE: Autoencoding for Pre-Trained Embeddings using Explicit Structure"}
+{"title": "WiCE: Real-World Entailment for Claims in Wikipedia"}
+{"title": "Natural Disaster Tweets Classification Using Multimodal Data"}
+{"title": "On the Challenges of Using Black-Box APIs for Toxicity Evaluation in Research"}
+{"title": "RoBoCoP: A Comprehensive ROmance BOrrowing COgnate Package and Benchmark for Multilingual Cognate Identification"}
+{"title": "Instructive Dialogue Summarization with Query Aggregations"}
+{"title": "Semantic matching for text classification with complex class descriptions"}
+{"title": "MADNet: Maximizing Addressee Deduction Expectation for Multi-Party Conversation Generation"}
+{"title": "GLEN: Generative Retrieval via Lexical Index Learning"}
+{"title": "Turn-Level Active Learning for Dialogue State Tracking"}
+{"title": "ReSee: Responding through Seeing Fine-grained Visual Knowledge in Open-domain Dialogue"}
+{"title": "Modeling Conceptual Attribute Likeness and Domain Inconsistency for Metaphor Detection"}
+{"title": "Referring Image Segmentation via Joint Mask Contextual Embedding Learning and Progressive Alignment Network"}
+{"title": "Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study"}
+{"title": "SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables"}
+{"title": "Training Simultaneous Speech Translation with Robust and Random Wait-k-Tokens Strategy"}
+{"title": "SCENE: Self-Labeled Counterfactuals for Extrapolating to Negative Examples"}
+{"title": "Task-Agnostic Low-Rank Adapters for Unseen English Dialects"}
+{"title": "Federated Learning of Large Language Models with Parameter-Efficient Prompt Tuning and Adaptive Optimization"}
+{"title": "TheoremQA: A Theorem-driven Question Answering Dataset"}
+{"title": "Scalable-DSC: A Structural Template Prompt Approach to Scalable Dialogue State Correction"}
+{"title": "Don\u2019t Trust ChatGPT when your Question is not in English: A Study of Multilingual Abilities and Types of LLMs"}
+{"title": "Empirical Study of Zero-Shot NER with ChatGPT"}
+{"title": "Automatic Prompt Optimization with ``Gradient Descent\u2019\u2019 and Beam Search"}
+{"title": "Active Retrieval Augmented Generation"}
+{"title": "Multi-level Adaptive Contrastive Learning for Knowledge Internalization in Dialogue Generation"}
+{"title": "Enhancing Biomedical Lay Summarisation with External Knowledge Graphs"}
+{"title": "A Diffusion Weighted Graph Framework for New Intent Discovery"}
+{"title": "A Self-enhancement Multitask Framework for Unsupervised Aspect Category Detection"}
+{"title": "DialCoT Meets PPO: Decomposing and Exploring Reasoning Paths in Smaller Language Models"}
+{"title": "Recurrent Neural Language Models as Probabilistic Finite-state Automata"}
+{"title": "Revisiting Source Context in Nearest Neighbor Machine Translation"}
+{"title": "Find-2-Find: Multitask Learning for Anaphora Resolution and Object Localization"}
+{"title": "Background Summarization of Event Timelines"}
+{"title": "Superlim: A Swedish Language Understanding Evaluation Benchmark"}
+{"title": "Reasoning with Language Model is Planning with World Model"}
+{"title": "LLM-enhanced Self-training for Cross-domain Constituency Parsing"}
+{"title": "Continual Named Entity Recognition without Catastrophic Forgetting"}
+{"title": "DSI++: Updating Transformer Memory with New Documents"}
+{"title": "Editing Common Sense in Transformers"}
+{"title": "Air-Decoding: Attribute Distribution Reconstruction for Decoding-Time Controllable Text Generation"}
+{"title": "Homophone Disambiguation Reveals Patterns of Context Mixing in Speech Transformers"}
+{"title": "Retrieval-Generation Alignment for End-to-End Task-Oriented Dialogue System"}
+{"title": "IfQA: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions"}
+{"title": "How Do Large Language Models Capture the Ever-changing World Knowledge? A Review of Recent Advances"}
+{"title": "Memorisation Cartography: Mapping out the Memorisation-Generalisation Continuum in Neural Machine Translation"}
+{"title": "DecipherPref: Analyzing Influential Factors in Human Preference Judgments via GPT-4"}
+{"title": "Gender Biases in Automatic Evaluation Metrics for Image Captioning"}
+{"title": "QA-NatVer: Question Answering for Natural Logic-based Fact Verification"}
+{"title": "Increasing Probability Mass on Answer Choices Does Not Always Improve Accuracy"}
+{"title": "Generating Data for Symbolic Language with Large Language Models"}
+{"title": "IDTraffickers: An Authorship Attribution Dataset to link and connect Potential Human-Trafficking Operations on Text Escort Advertisements"}
+{"title": "Evaluating Bias and Fairness in Gender-Neutral Pretrained Vision-and-Language Models"}
+{"title": "Improving Dialogue Discourse Parsing via Reply-to Structures of Addressee Recognition"}
+{"title": "Improving Language Models\u2019 Meaning Understanding and Consistency by Learning Conceptual Roles from Dictionary"}
+{"title": "DALE: Generative Data Augmentation for Low-Resource Legal NLP"}
+{"title": "FedID: Federated Interactive Distillation for Large-Scale Pretraining Language Models"}
+{"title": "trlX: A Framework for Large Scale Reinforcement Learning from Human Feedback"}
+{"title": "This is not a Dataset: A Large Negation Benchmark to Challenge Large Language Models"}
+{"title": "MT2: Towards a Multi-Task Machine Translation Model with Translation-Specific In-Context Learning"}
+{"title": "CleanCoNLL: A Nearly Noise-Free Named Entity Recognition Dataset"}
+{"title": "Disentangling Transformer Language Models as Superposed Topic Models"}
+{"title": "Conversational Semantic Parsing using Dynamic Context Graphs"}
+{"title": "Not all quantifiers are equal: Probing Transformer-based language models\u2019 understanding of generalised quantifiers"}
+{"title": "Structure-aware Knowledge Graph-to-text Generation with Planning Selection and Similarity Distinction"}
+{"title": "Regulation and NLP (RegNLP): Taming Large Language Models"}
+{"title": "MedEval: A Multi-Level, Multi-Task, and Multi-Domain Medical Benchmark for Language Model Evaluation"}
+{"title": "Seeing through the mess: evolutionary dynamics of lexical polysemy"}
+{"title": "Are Embedded Potatoes Still Vegetables? On the Limitations of WordNet Embeddings for Lexical Semantics"}
+{"title": "Event-Location Tracking in Narratives: A Case Study on Holocaust Testimonies"}
+{"title": "Dialogizer: Context-aware Conversational-QA Dataset Generation from Textual Sources"}
+{"title": "Learning to Predict Task Transferability via Soft Prompt"}
+{"title": "Chain-of-Questions Training with Latent Answers for Robust Multistep Question Answering"}
+{"title": "Mirror: A Universal Framework for Various Information Extraction Tasks"}
+{"title": "``Mistakes Help Us Grow\u2019\u2019: Facilitating and Evaluating Growth Mindset Supportive Language in Classrooms"}
+{"title": "Detecting and Mitigating Hallucinations in Multilingual Summarisation"}
+{"title": "AMR Parsing with Causal Hierarchical Attention and Pointers"}
+{"title": "Self-Evolution Learning for Mixup: Enhance Data Augmentation on Few-Shot Text Classification Tasks"}
+{"title": "IC3: Image Captioning by Committee Consensus"}
+{"title": "SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models"}
+{"title": "Fair Without Leveling Down: A New Intersectional Fairness Definition"}
+{"title": "M2DF: Multi-grained Multi-curriculum Denoising Framework for Multimodal Aspect-based Sentiment Analysis"}
+{"title": "Detection of Multiple Mental Disorders from Social Media with Two-Stream Psychiatric Experts"}
+{"title": "Understanding the Role of Input Token Characters in Language Models: How Does Information Loss Affect Performance?"}
+{"title": "EasyQuant: An Efficient Data-free Quantization Algorithm for LLMs"}
+{"title": "Polar Ducks and Where to Find Them: Enhancing Entity Linking with Duck Typing and Polar Box Embeddings"}
+{"title": "APrompt: Attention Prompt Tuning for Efficient Adaptation of Pre-trained Language Models"}
+{"title": "What\u2019s ``up\u2019\u2019 with vision-language models? Investigating their struggle with spatial reasoning"}
+{"title": "IBADR: an Iterative Bias-Aware Dataset Refinement Framework for Debiasing NLU models"}
+{"title": "Learning Preference Model for LLMs via Automatic Preference Data Generation"}
+{"title": "Causal Reasoning through Two Cognition Layers for Improving Generalization in Visual Question Answering"}
+{"title": "StructGPT: A General Framework for Large Language Model to Reason over Structured Data"}
+{"title": "Modeling Legal Reasoning: LM Annotation at the Edge of Human Agreement"}
+{"title": "Model-tuning Via Prompts Makes NLP Models Adversarially Robust"}
+{"title": "Learning Co-Speech Gesture for Multimodal Aphasia Type Detection"}
+{"title": "STINMatch: Semi-Supervised Semantic-Topological Iteration Network for Financial Risk Detection via News Label Diffusion"}
+{"title": "Centering the Margins: Outlier-Based Identification of Harmed Populations in Toxicity Detection"}
+{"title": "Describe Me an Auklet: Generating Grounded Perceptual Category Descriptions"}
+{"title": "ORCHID: A Chinese Debate Corpus for Target-Independent Stance Detection and Argumentative Dialogue Summarization"}
+{"title": "On the Benefits of Learning to Route in Mixture-of-Experts Models"}
+{"title": "SEAHORSE: A Multilingual, Multifaceted Dataset for Summarization Evaluation"}
+{"title": "We Need to Talk About Reproducibility in NLP Model Comparison"}
+{"title": "Explore-Instruct: Enhancing Domain-Specific Instruction Coverage through Active Exploration"}
+{"title": "Just Adjust One Prompt: Enhancing In-Context Dialogue Scoring via Constructing the Optimal Subgraph of Demonstrations and Prompts"}
+{"title": "Multilingual estimation of political-party positioning: From label aggregation to long-input Transformers"}
+{"title": "ART: rule bAsed futuRe-inference deducTion"}
+{"title": "EpiK-Eval: Evaluation for Language Models as Epistemic Models"}
+{"title": "From Dissonance to Insights: Dissecting Disagreements in Rationale Construction for Case Outcome Classification"}
+{"title": "On Bilingual Lexicon Induction with Large Language Models"}
+{"title": "Statistical Depth for Ranking and Characterizing Transformer-Based Text Embeddings"}
+{"title": "CRaSh: Clustering, Removing, and Sharing Enhance Fine-tuning without Full Large Language Model"}
+{"title": "From Multilingual Complexity to Emotional Clarity: Leveraging Commonsense to Unveil Emotions in Code-Mixed Dialogues"}
+{"title": "SummEdits: Measuring LLM Ability at Factual Reasoning Through The Lens of Summarization"}
+{"title": "DIVE: Towards Descriptive and Diverse Visual Commonsense Generation"}
+{"title": "Towards Conceptualization of ``Fair Explanation\u2019\u2019: Disparate Impacts of anti-Asian Hate Speech Explanations on Content Moderators"}
+{"title": "Bridging Background Knowledge Gaps in Translation with Automatic Explicitation"}
+{"title": "A Quality-based Syntactic Template Retriever for Syntactically-Controlled Paraphrase Generation"}
+{"title": "Beyond Shared Vocabulary: Increasing Representational Word Similarities across Languages for Multilingual Machine Translation"}
+{"title": "Quantifying the redundancy between prosody and text"}
+{"title": "CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks"}
+{"title": "A Video Is Worth 4096 Tokens: Verbalize Story Videos To Understand Them In Zero Shot"}
+{"title": "Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning"}
+{"title": "Active Learning for Natural Language Generation"}
+{"title": "Re$^3$Dial: Retrieve, Reorganize and Rescale Conversations for Long-Turn Open-Domain Dialogue Pre-training"}
+{"title": "Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models"}
+{"title": "Characterizing Mechanisms for Factual Recall in Language Models"}
+{"title": "MULTITuDE: Large-Scale Multilingual Machine-Generated Text Detection Benchmark"}
+{"title": "Revisiting Block-based Quantisation: What is Important for Sub-8-bit LLM Inference?"}
+{"title": "Reducing Sequence Length by Predicting Edit Spans with Large Language Models"}
+{"title": "Instruct and Extract: Instruction Tuning for On-Demand Information Extraction"}
+{"title": "Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models"}
+{"title": "ReCEval: Evaluating Reasoning Chains via Correctness and Informativeness"}
+{"title": "Expand, Highlight, Generate: RL-driven Document Generation for Passage Reranking"}
+{"title": "Make Every Example Count: On the Stability and Utility of Self-Influence for Learning from Noisy NLP Datasets"}
+{"title": "Appraising the Potential Uses and Harms of LLMs for Medical Systematic Reviews"}
+{"title": "PromptST: Abstract Prompt Learning for End-to-End Speech Translation"}
+{"title": "Text Rendering Strategies for Pixel Language Models"}
+{"title": "APoLLo : Unified Adapter and Prompt Learning for Vision Language Models"}
+{"title": "SAMRank: Unsupervised Keyphrase Extraction using Self-Attention Map in BERT and GPT-2"}
+{"title": "Contrastive Learning for Inference in Dialogue"}
+{"title": "Editing Large Language Models: Problems, Methods, and Opportunities"}
+{"title": "MarkQA: A large scale KBQA dataset with numerical reasoning"}
+{"title": "Comparing Biases and the Impact of Multilingual Training across Multiple Languages"}
+{"title": "HutCRS: Hierarchical User-Interest Tracking for Conversational Recommender System"}
+{"title": "Large Language Models Meet Open-World Intent Discovery and Recognition: An Evaluation of ChatGPT"}
+{"title": "The Distributional Hypothesis Does Not Fully Explain the Benefits of Masked Language Model Pretraining"}
+{"title": "Simple and Effective Input Reformulations for Translation"}
+{"title": "Pointwise Mutual Information Based Metric and Decoding Strategy for Faithful Generation in Document Grounded Dialogs"}
+{"title": "The ACL OCL Corpus: Advancing Open Science in Computational Linguistics"}
+{"title": "Learning to Rank Context for Named Entity Recognition Using a Synthetic Dataset"}
+{"title": "Improving Diversity of Demographic Representation in Large Language Models via Collective-Critiques and Self-Voting"}
+{"title": "Hidding the Ghostwriters: An Adversarial Evaluation of AI-Generated Student Essay Detection"}
+{"title": "Contextual Interaction for Argument Post Quality Assessment"}
+{"title": "Pre-training Intent-Aware Encoders for Zero- and Few-Shot Intent Classification"}
+{"title": "Synthetic Data Generation with Large Language Models for Text Classification: Potential and Limitations"}
+{"title": "GazeVQA: A Video Question Answering Dataset for Multiview Eye-Gaze Task-Oriented Collaborations"}
+{"title": "People Make Better Edits: Measuring the Efficacy of LLM-Generated Counterfactually Augmented Data for Harmful Language Detection"}
+{"title": "Unraveling Feature Extraction Mechanisms in Neural Networks"}
+{"title": "CAPSTONE: Curriculum Sampling for Dense Retrieval with Document Expansion"}
+{"title": "Balance Act: Mitigating Hubness in Cross-Modal Retrieval with Query and Gallery Banks"}
+{"title": "E-CORE: Emotion Correlation Enhanced Empathetic Dialogue Generation"}
+{"title": "ALDi: Quantifying the Arabic Level of Dialectness of Text"}
+{"title": "3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding"}
+{"title": "Goal-Driven Explainable Clustering via Language Descriptions"}
+{"title": "Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models"}
+{"title": "Learning from Mistakes via Cooperative Study Assistant for Large Language Models"}
+{"title": "Bridging the Digital Divide: Performance Variation across Socio-Economic Factors in Vision-Language Models"}
+{"title": "Conceptor-Aided Debiasing of Large Language Models"}
+{"title": "AMR Parsing is Far from Solved: GrAPES, the Granular AMR Parsing Evaluation Suite"}
+{"title": "Rethinking and Improving Multi-task Learning for End-to-end Speech Translation"}
+{"title": "AD-NLP: A Benchmark for Anomaly Detection in Natural Language Processing"}
+{"title": "Enhancing the Ranking Context of Dense Retrieval through Reciprocal Nearest Neighbors"}
+{"title": "Cross-Lingual Cross-Target Stance Detection with Dual Knowledge Distillation Framework"}
+{"title": "PRESTO: A Multilingual Dataset for Parsing Realistic Task-Oriented Dialogs"}
+{"title": "An Iteratively Parallel Generation Method with the Pre-Filling Strategy for Document-level Event Extraction"}
+{"title": "CoMPosT: Characterizing and Evaluating Caricature in LLM Simulations"}
+{"title": "Reduce Human Labor On Evaluating Conversational Information Retrieval System: A Human-Machine Collaboration Approach"}
+{"title": "BERTie Bott\u2019s Every Flavor Labels: A Tasty Introduction to Semantic Role Labeling for Galician"}
+{"title": "Program Translation via Code Distillation"}
+{"title": "FaMeSumm: Investigating and Improving Faithfulness of Medical Summarization"}
+{"title": "Grammar-Constrained Decoding for Structured NLP Tasks without Finetuning"}
+{"title": "Systematic word meta-sense extension"}
+{"title": "Evaluating Evaluation Metrics: A Framework for Analyzing NLG Evaluation Metrics using Measurement Theory"}
+{"title": "Revisiting the Knowledge Injection Frameworks"}
+{"title": "We Are What We Repeatedly Do: Inducing and Deploying Habitual Schemas in Persona-Based Responses"}
+{"title": "Zero-shot Faithfulness Evaluation for Text Summarization with Foundation Language Model"}
+{"title": "TaskWeb: Selecting Better Source Tasks for Multi-task NLP"}
+{"title": "Improving Bias Mitigation through Bias Experts in Natural Language Understanding"}
+{"title": "Semi-supervised multimodal coreference resolution in image narrations"}
+{"title": "A Predictive Factor Analysis of Social Biases and Task-Performance in Pretrained Masked Language Models"}
+{"title": "Argument-based Detection and Classification of Fallacies in Political Debates"}
+{"title": "SpEL: Structured Prediction for Entity Linking"}
+{"title": "Architectural Sweet Spots for Modeling Human Label Variation by the Example of Argument Quality: It\u2019s Best to Relate Perspectives!"}
+{"title": "Explicit Planning Helps Language Models in Logical Reasoning"}
+{"title": "clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents"}
+{"title": "Explaining with Contrastive Phrasal Highlighting: A Case Study in Assisting Humans to Detect Translation Differences"}
+{"title": "UDAPDR: Unsupervised Domain Adaptation via LLM Prompting and Distillation of Rerankers"}
+{"title": "TATA: Stance Detection via Topic-Agnostic and Topic-Aware Embeddings"}
+{"title": "Zero-shot Sharpness-Aware Quantization for Pre-trained Language Models"}
+{"title": "Deciphering Stereotypes in Pre-Trained Language Models"}
+{"title": "An \u201cIntegrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives\u201d"}
+{"title": "Do LLMs Understand Social Knowledge? Evaluating the Sociability of Large Language Models with SocKET Benchmark"}
+{"title": "Interventional Rationalization"}
+{"title": "Don\u2019t Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting"}
+{"title": "Axiomatic Preference Modeling for Longform Question Answering"}
+{"title": "Countering Misinformation via Emotional Response Generation"}
+{"title": "Seq2seq is All You Need for Coreference Resolution"}
+{"title": "StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding"}
+{"title": "Beyond Detection: A Defend-and-Summarize Strategy for Robust and Interpretable Rumor Analysis on Social Media"}
+{"title": "Crystal: Introspective Reasoners Reinforced with Self-Feedback"}
+{"title": "DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation"}
+{"title": "BioFEG: Generate Latent Features for Biomedical Entity Linking"}
+{"title": "TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language Models"}
+{"title": "Physician Detection of Clinical Harm in Machine Translation: Quality Estimation Aids in Reliance and Backtranslation Identifies Critical Errors"}
+{"title": "Vicarious Offense and Noise Audit of Offensive Speech Classifiers: Unifying Human and Machine Disagreement on What is Offensive"}
+{"title": "Generating Summaries with Controllable Readability Levels"}
+{"title": "CESAR: Automatic Induction of Compositional Instructions for Multi-turn Dialogs"}
+{"title": "ACQUIRED: A Dataset for Answering Counterfactual Questions In Real-Life Videos"}
+{"title": "From Parse-Execute to Parse-Execute-Refine: Improving Semantic Parser for Complex Question Answering over Knowledge Base"}
+{"title": "CORE: A Few-Shot Company Relation Classification Dataset for Robust Domain Adaptation."}
+{"title": "Models See Hallucinations: Evaluating the Factuality in Video Captioning"}
+{"title": "Back Transcription as a Method for Evaluating Robustness of Natural Language Understanding Models to Speech Recognition Errors"}
+{"title": "Can Language Models Understand Physical Concepts?"}
+{"title": "SPT: Learning to Selectively Insert Prompts for Better Prompt Tuning"}
+{"title": "Once Upon a ${\\it Time}$ in ${\\it Graph}$: Relative-Time Pretraining for Complex Temporal Reasoning"}
+{"title": "Expository Text Generation: Imitate, Retrieve, Paraphrase"}
+{"title": "Enhancing Textbooks with Visuals from the Web for Improved Learning"}
+{"title": "Continual Event Extraction with Semantic Confusion Rectification"}
+{"title": "An Empirical Study of Translation Hypothesis Ensembling with Large Language Models"}
+{"title": "Visually-Situated Natural Language Understanding with Contrastive Reading Model and Frozen Large Language Models"}
+{"title": "Continual Learning for Multilingual Neural Machine Translation via Dual Importance-based Model Division"}
+{"title": "SimCSE++: Improving Contrastive Learning for Sentence Embeddings from Two Perspectives"}
+{"title": "Unlearn What You Want to Forget: Efficient Unlearning for LLMs"}
+{"title": "Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration"}
+{"title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation"}
+{"title": "When Language Models Fall in Love: Animacy Processing in Transformer Language Models"}
+{"title": "Improving Unsupervised Relation Extraction by Augmenting Diverse Sentence Pairs"}
+{"title": "Paraphrase Types for Generation and Detection"}
+{"title": "Target-to-Source Augmentation for Aspect Sentiment Triplet Extraction"}
+{"title": "PAC-tuning: Fine-tuning Pre-trained Language Models with PAC-driven Perturbed Gradient Descent"}
+{"title": "Emergence of Abstract State Representations in Embodied Sequence Modeling"}
+{"title": "Accelerating Toeplitz Neural Network with Constant-time Inference Complexity"}
+{"title": "Dissecting Recall of Factual Associations in Auto-Regressive Language Models"}
+{"title": "StereoMap: Quantifying the Awareness of Human-like Stereotypes in Large Language Models"}
+{"title": "Impressions: Visual Semiotics and Aesthetic Impact Understanding"}
+{"title": "DNA: Denoised Neighborhood Aggregation for Fine-grained Category Discovery"}
+{"title": "Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models"}
+{"title": "UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation"}
+{"title": "KRLS: Improving End-to-End Response Generation in Task Oriented Dialog with Reinforced Keywords Learning"}
+{"title": "Large Language Models Only Pass Primary School Exams in Indonesia: A Comprehensive Test on IndoMMLU"}
+{"title": "Let\u2019s Sample Step by Step: Adaptive-Consistency for Efficient Reasoning and Coding with LLMs"}
+{"title": "Bridging Information-Theoretic and Geometric Compression in Language Models"}
+{"title": "Pre-training Language Models for Comparative Reasoning"}
+{"title": "Improved Pseudo Data for Machine Translation Quality Estimation with Constrained Beam Search"}
+{"title": "Text Embeddings Reveal (Almost) As Much As Text"}
+{"title": "AutoTrial: Prompting Language Models for Clinical Trial Design"}
+{"title": "Enhancing Generative Retrieval with Reinforcement Learning from Relevance Feedback"}
+{"title": "Multi-Source Probing for Open-Domain Conversational Understanding"}
+{"title": "Hallucination Mitigation in Natural Language Generation from Large-Scale Open-Domain Knowledge Graphs"}
+{"title": "Multi-Source Multi-Type Knowledge Exploration and Exploitation for Dialogue Generation"}
+{"title": "Focus Your Attention (with Adaptive IIR Filters)"}
+{"title": "Identifying Statements Crucial for Awareness of Interpretive Nonsense to Prevent Communication Breakdowns"}
+{"title": "Multilingual Large Language Models Are Not (Yet) Code-Switchers"}
+{"title": "Reinforced Target-driven Conversational Promotion"}
+{"title": "Identification of Multimodal Stance Towards Frames of Communication"}
+{"title": "Unsupervised Sounding Pixel Learning"}
+{"title": "LM vs LM: Detecting Factual Errors via Cross Examination"}
+{"title": "Large Language Models: The Need for Nuance in Current Debates and a Pragmatic Perspective on Understanding"}
+{"title": "PIEClass: Weakly-Supervised Text Classification with Prompting and Noise-Robust Iterative Ensemble Training"}
+{"title": "MeaeQ: Mount Model Extraction Attacks with Efficient Queries"}
+{"title": "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning"}
+{"title": "Explaining Interactions Between Text Spans"}
+{"title": "Predictive Chemistry Augmented with Text Retrieval"}
+{"title": "System Combination via Quality Estimation for Grammatical Error Correction"}
+{"title": "Rethinking Negative Pairs in Code Search"}
+{"title": "Question Answering as Programming for Solving Time-Sensitive Questions"}
+{"title": "Joint Geometrical and Statistical Domain Adaptation for Cross-domain Code Vulnerability Detection"}
+{"title": "Controlling Pre-trained Language Models for Grade-Specific Text Simplification"}
+{"title": "CLEVR-Implicit: A Diagnostic Dataset for Implicit Reasoning in Referring Expression Comprehension"}
+{"title": "``Are Your Explanations Reliable?\u2019\u2019 Investigating the Stability of LIME in Explaining Text Classifiers by Marrying XAI and Adversarial Attack"}
+{"title": "CQE: A Comprehensive Quantity Extractor"}
+{"title": "A Unified View of Evaluation Metrics for Structured Prediction"}
+{"title": "A Deeper (Autoregressive) Approach to Non-Convergent Discourse Parsing"}
+{"title": "We are Who We Cite: Bridges of Influence Between Natural Language Processing and Other Academic Fields"}
+{"title": "Ties Matter: Meta-Evaluating Modern Metrics with Pairwise Accuracy and Tie Calibration"}
+{"title": "SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization"}
+{"title": "Multi-view Contrastive Learning for Entity Typing over Knowledge Graphs"}
+{"title": "MailEx: Email Event and Argument Extraction"}
+{"title": "Optimized Tokenization for Transcribed Error Correction"}
+{"title": "Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering"}
+{"title": "Generative Adversarial Training with Perturbed Token Detection for Model Robustness"}
+{"title": "Multi-Task Knowledge Distillation with Embedding Constraints for Scholarly Keyphrase Boundary Classification"}
+{"title": "Large Language Models and Multimodal Retrieval for Visual Word Sense Disambiguation"}
+{"title": "Be Selfish, But Wisely: Investigating the Impact of Agent Personality in Mixed-Motive Human-Agent Interactions"}
+{"title": "Doolittle: Benchmarks and Corpora for Academic Writing Formalization"}
+{"title": "Reconstruct Before Summarize: An Efficient Two-Step Framework for Condensing and Summarizing Meeting Transcripts"}
+{"title": "XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models"}
+{"title": "Character-LLM: A Trainable Agent for Role-Playing"}
+{"title": "Natural Language Decompositions of Implicit Content Enable Better Text Representations"}
+{"title": "A Scalable Framework for Table of Contents Extraction from Complex ESG Annual Reports"}
+{"title": "Semantic Space Grounded Weighted Decoding for Multi-Attribute Controllable Dialogue Generation"}
+{"title": "How do languages influence each other? Studying cross-lingual data sharing during LM fine-tuning"}
+{"title": "COFFEE: Counterfactual Fairness for Personalized Text Generation in Explainable Recommendation"}
+{"title": "NameGuess: Column Name Expansion for Tabular Data"}
+{"title": "BLESS: Benchmarking Large Language Models on Sentence Simplification"}
+{"title": "To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing"}
+{"title": "PALS: Personalized Active Learning for Subjective Tasks in NLP"}
+{"title": "ViStruct: Visual Structural Knowledge Extraction via Curriculum Guided Code-Vision Representation"}
+{"title": "LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models"}
+{"title": "EXPLAIN, EDIT, GENERATE: Rationale-Sensitive Counterfactual Data Augmentation for Multi-hop Fact Verification"}
+{"title": "An Exploration of Left-Corner Transformations"}
+{"title": "Characterizing and Verifying Scientific Claims: Qualitative Causal Structure is All You Need"}
+{"title": "FOCUS: Effective Embedding Initialization for Monolingual Specialization of Multilingual Models"}
+{"title": "ByteSized32: A Corpus and Challenge Task for Generating Task-Specific World Models Expressed as Text Games"}
+{"title": "Skill-Based Few-Shot Selection for In-Context Learning"}
+{"title": "MaNtLE: Model-agnostic Natural Language Explainer"}
+{"title": "PTP: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer"}
+{"title": "Ling-CL: Understanding NLP Models through Linguistic Curricula"}
+{"title": "Towards a Better Understanding of Variations in Zero-Shot Neural Machine Translation Performance"}
+{"title": "SEER : A Knapsack approach to Exemplar Selection for In-Context HybridQA"}
+{"title": "Conversation Chronicles: Towards Diverse Temporal and Relational Dynamics in Multi-Session Conversations"}
+{"title": "DueT: Image-Text Contrastive Transfer Learning with Dual-adapter Tuning"}
+{"title": "Towards a Unified Conversational Recommendation System: Multi-task Learning via Contextualized Knowledge Distillation"}
+{"title": "MoPe: Model Perturbation based Privacy Attacks on Language Models"}
+{"title": "q2d: Turning Questions into Dialogs to Teach Models How to Search"}
+{"title": "Aligning Large Language Models through Synthetic Feedback"}
+{"title": "You Told Me That Joke Twice: A Systematic Investigation of Transferability and Robustness of Humor Detection Models"}
+{"title": "Reading Order Matters: Information Extraction from Visually-rich Documents by Token Path Prediction"}
+{"title": "Empower Nested Boolean Logic via Self-Supervised Curriculum Learning"}
+{"title": "The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis"}
+{"title": "DADA: Dialect Adaptation via Dynamic Aggregation of Linguistic Rules"}
+{"title": "Unifying Discrete and Continuous Representations for Unsupervised Paraphrase Generation"}
+{"title": "The Benefits of Label-Description Training for Zero-Shot Text Classification"}
+{"title": "Multilingual Pixel Representations for Translation and Effective Cross-lingual Transfer"}
+{"title": "Finding Authentic Counterhate Arguments: A Case Study with Public Figures"}
+{"title": "Can We Edit Multimodal Large Language Models?"}
+{"title": "Exploring Discourse Structure in Document-level Machine Translation"}
+{"title": "ClusterLLM: Large Language Models as a Guide for Text Clustering"}
+{"title": "CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code"}
+{"title": "Learn and Consolidate: Continual Adaptation for Zero-Shot and Multilingual Neural Machine Translation"}
+{"title": "e-THERAPIST: I suggest you to cultivate a mindset of positivity and nurture uplifting thoughts"}
+{"title": "AfriSenti: A Twitter Sentiment  Analysis Benchmark for African Languages"}
+{"title": "Quantifying Character Similarity with Vision Transformers"}
+{"title": "Syllogistic Reasoning for Legal Judgment Analysis"}
+{"title": "Improving Transformer-based Program Repair Model through False Behavior Diagnosis"}
+{"title": "KCTS: Knowledge-Constrained Tree Search Decoding with Token-Level Hallucination Detection"}
+{"title": "CRUSH4SQL: Collective Retrieval Using Schema Hallucination For Text2SQL"}
+{"title": "Incorporating Structured Representations into Pretrained Vision & Language Models Using Scene Graphs"}
+{"title": "TLM: Token-Level Masking for Transformers"}
+{"title": "Addressing NER Annotation Noises with Uncertainty-Guided Tree-Structured CRFs"}
+{"title": "Hi Guys or Hi Folks? Benchmarking Gender-Neutral Machine Translation with the GeNTE Corpus"}
+{"title": "Multilingual Holistic Bias: Extending Descriptors and Patterns to Unveil Demographic Biases in Languages at Scale"}
+{"title": "GlobalBench: A Benchmark for Global Progress in Natural Language Processing"}
+{"title": "DetGPT: Detect What You Need via Reasoning"}
+{"title": "Language Models with Rationality"}
+{"title": "Self-Improvement of Non-autoregressive Model via Sequence-Level Distillation"}
+{"title": "Mitigating Temporal Misalignment by Discarding Outdated Facts"}
+{"title": "Open-world Semi-supervised Generalized Relation Discovery Aligned in a Real-world Setting"}
+{"title": "IEKG: A Commonsense Knowledge Graph for Idiomatic Expressions"}
+{"title": "Bias Neutralization in Non-Parallel Texts: A Cyclic Approach with Auxiliary Guidance"}
+{"title": "Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation"}
+{"title": "BRAINTEASER: Lateral Thinking Puzzles for Large Language Models"}
+{"title": "When are Lemons Purple? The Concept Association Bias of Vision-Language Models"}
+{"title": "What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability"}
+{"title": "Text Representation Distillation via Information Bottleneck Principle"}
+{"title": "Let GPT be a Math Tutor: Teaching Math Word Problem Solvers with Customized Exercise Generation"}
+{"title": "FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions"}
+{"title": "Exploring the Boundaries of GPT-4 in Radiology"}
+{"title": "A Frustratingly Easy Post-Training Quantization Scheme for LLMs"}
+{"title": "A Comprehensive Evaluation of Biomedical Entity Linking Models"}
+{"title": "Exploring Jiu-Jitsu Argumentation for Writing Peer Review Rebuttals"}
+{"title": "LIMIT: Language Identification, Misidentification, and Translation using Hierarchical Models in 350+ Languages"}
+{"title": "FreeAL: Towards Human-Free Active Learning in the Era of Large Language Models"}
+{"title": "API-Assisted Code Generation for Question Answering on Varied Table Structures"}
+{"title": "Data Factors for Better Compositional Generalization"}
+{"title": "ChatEdit: Towards Multi-turn Interactive Facial Image Editing via Dialogue"}
+{"title": "Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations"}
+{"title": "Hi-ArG: Exploring the Integration of Hierarchical Argumentation Graphs in Language Pretraining"}
+{"title": "Biomedical Named Entity Recognition via Dictionary-based Synonym Generalization"}
+{"title": "GNAT: A General Narrative Alignment Tool"}
+{"title": "UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning"}
+{"title": "Distance-Based Propagation for Efficient Knowledge Graph Reasoning"}
+{"title": "What to Read in a Contract? Party-Specific Summarization of Legal Obligations, Entitlements, and Prohibitions"}
+{"title": "Enhancing Computation Efficiency in Large Language Models through Weight and Activation Quantization"}
+{"title": "CP-BCS: Binary Code Summarization Guided by Control Flow Graph and Pseudo Code"}
+{"title": "Chain-of-Thought Tuning: Masked Language Models can also Think Step By Step in Natural Language Understanding"}
+{"title": "Large Language Models are Complex Table Parsers"}
+{"title": "R2H: Building Multimodal Navigation Helpers that Respond to Help Requests"}
+{"title": "Speech-enriched Memory for Inference-time Adaptation of ASR Models to Word Dictionaries"}
+{"title": "Generative Table Pre-training Empowers Models for Tabular Prediction"}
+{"title": "Learning to Describe for Predicting Zero-shot Drug-Drug Interactions"}
+{"title": "Privacy Implications of Retrieval-Based Language Models"}
+{"title": "IMTLab: An Open-Source Platform for Building, Evaluating, and Diagnosing Interactive Machine Translation Systems"}
+{"title": "Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents"}
+{"title": "DiNeR: A Large Realistic Dataset for Evaluating Compositional Generalization"}
+{"title": "Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions?"}
+{"title": "EDeR: Towards Understanding Dependency Relations Between Events"}
+{"title": "It Ain\u2019t Over: A Multi-aspect Diverse Math Word Problem Dataset"}
+{"title": "Dr ChatGPT tell me what I want to hear: How different prompts impact health answer correctness"}
+{"title": "$k$NN-LM Does Not Improve Open-ended Text Generation"}
+{"title": "Towards A Unified View of Sparse Feed-Forward Network in Pretraining Large Language Model"}
+{"title": "Exploring the Impact of Model Scaling on Parameter-Efficient Tuning"}
+{"title": "STAIR: Learning Sparse Text and Image Representation in Grounded Tokens"}
+{"title": "Crossing the Threshold: Idiomatic Machine Translation through Retrieval Augmentation and Loss Weighting"}
+{"title": "A linear time approximation of Wasserstein distance with word embedding selection"}
+{"title": "Exchange-of-Thought: Enhancing Large Language Model Capabilities through Cross-Model Communication"}
+{"title": "Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction"}
+{"title": "Connecting degree and polarity: An artificial language learning study"}
+{"title": "Prompting with Pseudo-Code Instructions"}
+{"title": "CRAB: Assessing the Strength of Causal Relationships Between Real-world Events"}
+{"title": "NORMSAGE: Multi-Lingual Multi-Cultural Norm Discovery from Conversations On-the-Fly"}
+{"title": "A State-Vector Framework for Dataset Effects"}
+{"title": "Challenges in Context-Aware Neural Machine Translation"}
+{"title": "Task-Adaptive Tokenization: Enhancing Long-Form Text Generation Efficacy in Mental Health and Beyond"}
+{"title": "FACTIFY3M: A benchmark for multimodal fact verification with explainability through 5W Question-Answering"}
+{"title": "Building Multi-domain Dialog State Trackers from Single-domain Dialogs"}
+{"title": "Specialist or Generalist? Instruction Tuning for Specific NLP Tasks"}
+{"title": "Making Large Language Models Better Data Creators"}
+{"title": "Hallucination Detection for Generative Large Language Models by Bayesian Sequential Estimation"}
+{"title": "Guideline Learning for In-Context Information Extraction"}
+{"title": "Open Information Extraction via Chunks"}
+{"title": "Rethinking Word-Level Auto-Completion in Computer-Aided Translation"}
+{"title": "Automatic Transcription of Handwritten Old Occitan Language"}
+{"title": "CorefPrompt: Prompt-based Event Coreference Resolution by Measuring Event Type and Argument Compatibilities"}
+{"title": "Anaphor Assisted Document-Level Relation Extraction"}
+{"title": "All Things Considered: Detecting Partisan Events from News Media with Cross-Article Comparison"}
+{"title": "BanglaAbuseMeme: A Dataset for Bengali Abusive Meme Classification"}
+{"title": "ScanDL: A Diffusion Model for Generating Synthetic Scanpaths on Texts"}
+{"title": "From Values to Opinions: Predicting Human Behaviors and Stances Using Value-Injected Large Language Models"}
+{"title": "Analyzing Film Adaptation through Narrative Alignment"}
+{"title": "Nearest Neighbor Machine Translation is Meta-Optimizer on Output Projection Layer"}
+{"title": "Variance Matters: Detecting Semantic Differences without Corpus/Word Alignment"}
+{"title": "MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter"}
+{"title": "A Training-Free Debiasing Framework with Counterfactual Reasoning for Conversational Emotion Detection"}
+{"title": "Self-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations"}
+{"title": "Learning Knowledge-Enhanced Contextual Language Representations for Domain Natural Language Understanding"}
+{"title": "MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions"}
+{"title": "Stance Detection on Social Media with Background Knowledge"}
+{"title": "Vision-Enhanced Semantic Entity Recognition in Document Images via Visually-Asymmetric Consistency Learning"}
+{"title": "Leap-of-Thought: Accelerating Transformers via Dynamic Token Routing"}
+{"title": "Reinforcement Replaces Supervision: Query focused Summarization using Deep Reinforcement Learning"}
+{"title": "Fair Text Classification with Wasserstein Independence"}
+{"title": "TacoPrompt: A Collaborative Multi-Task Prompt Learning Method for Self-Supervised Taxonomy Completion"}
+{"title": "Global Voices, Local Biases: Socio-Cultural Prejudices across Languages"}
+{"title": "Graph vs. Sequence: An Empirical Study on Knowledge Forms for Knowledge-Grounded Dialogue"}
+{"title": "NL2TL: Transforming Natural Languages to Temporal Logics using Large Language Models"}
+{"title": "Reformulating NLP tasks to Capture Longitudinal Manifestation of Language Disorders in People with Dementia."}
+{"title": "Elevating Code-mixed Text Handling through Auditory Information of Words"}
+{"title": "Predict and Use: Harnessing Predicted Gaze to Improve Multimodal Sarcasm Detection"}
+{"title": "ViT-TTS: Visual Text-to-Speech with Scalable Diffusion Transformer"}
+{"title": "Consistency Analysis of ChatGPT"}
+{"title": "Do Differences in Values Influence Disagreements in Online Discussions?"}
+{"title": "A Digital Language Coherence Marker for Monitoring Dementia"}
+{"title": "Detecting Spoilers in Movie Reviews with External Movie Knowledge and User Networks"}
+{"title": "Joyful: Joint Modality Fusion and Graph Contrastive Learning for Multimoda Emotion Recognition"}
+{"title": "HyperRank: Hyperbolic Ranking Model for Unsupervised Keyphrase Extraction"}
+{"title": "Federated Meta-Learning for Emotion and Sentiment Aware Multi-modal Complaint Identification"}
+{"title": "Semantic Similarity Models for Depression Severity Estimation"}
+{"title": "Hop, Union, Generate: Explainable Multi-hop Reasoning without Rationale Supervision"}
+{"title": "ToolWriter: Question Specific Tool Synthesis for Tabular Data"}
+{"title": "Interactive Text-to-SQL Generation via Editable Step-by-Step Explanations"}
+{"title": "CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Low Resource With Contrastive Learning"}
+{"title": "AnyTOD: A Programmable Task-Oriented Dialog System"}
+{"title": "Can LMs Generalize to Future Data? An Empirical Analysis on Text Summarization"}
+{"title": "Zero-Shot Multi-Label Topic Inference with Sentence Encoders and LLMs"}
+{"title": "Not all Fake News is Written: A Dataset and Analysis of Misleading Video Headlines"}
+{"title": "Learning From Free-Text Human Feedback \u2013 Collect New Datasets Or Extend Existing Ones?"}
+{"title": "Euphemistic Abuse \u2013 A New Dataset and Classification Experiments for Implicitly Abusive Language"}
+{"title": "Exploring Distributional Shifts in Large Language Models for Code Analysis"}
+{"title": "ATHENA: Mathematical Reasoning with Thought Expansion"}
+{"title": "TIMELINE: Exhaustive Annotation of Temporal Relations Supporting the Automatic Ordering of Events in News Articles"}
+{"title": "Mitigating Over-Generation for Unsupervised Keyphrase Extraction with Heterogeneous Centrality Detection"}
+{"title": "More Than Spoken Words: Nonverbal Message Extraction and Generation"}
+{"title": "Can language models learn analogical reasoning? Investigating training objectives and comparisons to human performance"}
+{"title": "FAME: Flexible, Scalable Analogy Mappings Engine"}
+{"title": "Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-task Learning"}
+{"title": "Multilingual Previously Fact-Checked Claim Retrieval"}
+{"title": "ALCAP: Alignment-Augmented Music Captioner"}
+{"title": "Do Transformers Parse while Predicting the Masked Word?"}
+{"title": "Composable Text Controls in Latent Space with ODEs"}
+{"title": "P5: Plug-and-Play Persona Prompting for Personalized Response Selection"}
+{"title": "Reader: Model-based language-instructed reinforcement learning"}
+{"title": "Adapting Offline Speech Translation Models for Streaming with Future-Aware Distillation and Inference"}
+{"title": "GenEx: A Commonsense-aware Unified Generative Framework for Explainable Cyberbullying Detection"}
+{"title": "Document-Level Machine Translation with Large Language Models"}
+{"title": "Multilingual Simplification of Medical Texts"}
+{"title": "Argue with Me Tersely: Towards Sentence-Level Counter-Argument Generation"}
+{"title": "JASMINE: Arabic GPT Models for Few-Shot Learning"}
+{"title": "NLI4CT: Multi-Evidence Natural Language Inference for Clinical Trial Reports"}
+{"title": "Addressing Linguistic Bias through a Contrastive Analysis of Academic Writing in the NLP Domain"}
+{"title": "RobustGEC: Robust Grammatical Error Correction Against Subtle Context Perturbation"}
+{"title": "Detecting Propaganda Techniques in Code-Switched Social Media Text"}
+{"title": "Speech Recognition and Meaning Interpretation: Towards Disambiguation of Structurally Ambiguous Spoken Utterances in Indonesian"}
+{"title": "Target-Agnostic Gender-Aware Contrastive Learning for Mitigating Bias in Multilingual Machine Translation"}
+{"title": "Code-Switching Metrics Using Intonation Units"}
+{"title": "Fine-grained Conversational Decoding via Isotropic and Proximal Search"}
+{"title": "Primacy Effect of ChatGPT"}
+{"title": "Better Quality Pre-training Data and T5 Models for African Languages"}
+{"title": "Establishing Trustworthiness: Rethinking Tasks and Model Evaluation"}
+{"title": "Bootstrapping Small & High Performance Language Models with Unmasking-Removal Training Policy"}
+{"title": "Fidelity-Enriched Contrastive Search: Reconciling the Faithfulness-Diversity Trade-Off in Text Generation"}
+{"title": "Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models"}
+{"title": "Hyperpolyglot LLMs: Cross-Lingual Interpretability in Token Embeddings"}
+{"title": "Target-oriented Proactive Dialogue Systems with Personalization: Problem Formulation and Dataset Curation"}
+{"title": "Penalty Decoding: Well Suppress the Self-Reinforcement Effect in Open-Ended Text Generation"}
+{"title": "PEFTDebias : Capturing debiasing information using PEFTs"}
+{"title": "ACTOR: Active Learning with Annotator-specific Classification Heads to Embrace Human Label Variation"}
+{"title": "VivesDebate-Speech: A Corpus of Spoken Argumentation to Leverage Audio Features for Argument Mining"}
+{"title": "Larger Probes Tell a Different Story: Extending Psycholinguistic Datasets Via In-Context Learning"}
+{"title": "Did You Mean\u2026? Confidence-based Trade-offs in Semantic Parsing"}
+{"title": "Understanding the Effect of Model Compression on Social Bias in Large Language Models"}
+{"title": "Once is Enough: A Light-Weight Cross-Attention for Fast Sentence Pair Modeling"}
+{"title": "Critic-Driven Decoding for Mitigating Hallucinations in Data-to-text Generation"}
+{"title": "Investigating Bias in Multilingual Language Models: Cross-Lingual Transfer of Debiasing Techniques"}
+{"title": "Oolong: Investigating What Makes Transfer Learning Hard with Controlled Studies"}
+{"title": "GROOViST: A Metric for Grounding Objects in Visual Storytelling"}
+{"title": "When Do Decompositions Help for Machine Reading?"}
+{"title": "Revisiting De-Identification of Electronic Medical Records: Evaluation of Within- and Cross-Hospital Generalization"}
+{"title": "Language Representation Projection: Can We Transfer Factual Knowledge across Languages in Multilingual Language Models?"}
+{"title": "Are All Steps Equally Important? Benchmarking Essentiality Detection in Event Processes"}
+{"title": "ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision"}
+{"title": "Uncertainty Guided Global Memory Improves Multi-Hop Question Answering"}
+{"title": "Knowledge Distillation {$\\approx$} Label Smoothing: Fact or Fallacy?"}
+{"title": "Analyzing Cognitive Plausibility of Subword Tokenization"}
+{"title": "POE: Process of Elimination for Multiple Choice Reasoning"}
+{"title": "Noisy Exemplars Make Large Language Models More Robust: A Domain-Agnostic Behavioral Analysis"}
+{"title": "Best of Both Worlds: Towards Improving Temporal Knowledge Base Question Answering via Targeted Fact Extraction"}
+{"title": "Cognitive Dissonance: Why Do Language Model Outputs Disagree with Internal Representations of Truthfulness?"}
+{"title": "GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints"}
+{"title": "BiasX: ``Thinking Slow\u2019\u2019 in Toxic Content Moderation with Explanations of Implied Social Biases"}
+{"title": "Stop Uploading Test Data in Plain Text: Practical Strategies for Mitigating Data Contamination by Evaluation Benchmarks"}
+{"title": "MILDSum: A Novel Benchmark Dataset for Multilingual Summarization of Indian Legal Case Judgments"}
+{"title": "Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback"}
+{"title": "Semi-automatic Data Enhancement for Document-Level Relation Extraction with Distant Supervision from Large Language Models"}
+{"title": "EntSUMv2: Dataset, Models and Evaluation for More Abstractive Entity-Centric Summarization"}
+{"title": "Analysing State-Backed Propaganda Websites: a New Dataset and Linguistic Study"}
+{"title": "HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts"}
+{"title": "ZEROTOP: Zero-Shot Task-Oriented Semantic Parsing using Large Language Models"}
+{"title": "Ditto: A Simple and Efficient Approach to Improve Sentence Embeddings"}
+{"title": "Spoiler Detection as Semantic Text Matching"}
+{"title": "Dynamic Top-k Estimation Consolidates Disagreement between Feature Attribution Methods"}
+{"title": "BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages"}
+{"title": "4 and 7-bit Labeling for Projective and Non-Projective Dependency Trees"}
+{"title": "Pre-Trained Language Models Augmented with Synthetic Scanpaths for Natural Language Understanding"}
+{"title": "Understanding the Inner-workings of Language Models Through Representation Dissimilarity"}
+{"title": "Efficient Classification of Long Documents via State-Space Models"}
+{"title": "Construction Artifacts in Metaphor Identification Datasets"}
+{"title": "EtiCor: Corpus for Analyzing LLMs for Etiquettes"}
+{"title": "Prompt-Based Monte-Carlo Tree Search for Goal-oriented Dialogue Policy Planning"}
+{"title": "UniMath: A Foundational and Multimodal Mathematical Reasoner"}
+{"title": "Simple Temporal Adaptation to Changing Label Sets: Hashtag Prediction via Dense KNN"}
+{"title": "A Study on Accessing Linguistic Information in Pre-Trained Language Models by Using Prompts"}
+{"title": "Copyright Violations and Large Language Models"}
+{"title": "Somali Information Retrieval Corpus: Bridging the Gap between Query Translation and Dedicated Language Resources"}
+{"title": "Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text Detection via Querying ChatGPT"}
+{"title": "Faithful Model Evaluation for Model-Based Metrics"}
+{"title": "Language Model Quality Correlates with Psychometric Predictive Power in Multiple Languages"}
+{"title": "Enhancing Code-Switching for Cross-lingual SLU: A Unified View of Semantic and Grammatical Coherence"}
+{"title": "M$^3$Seg: A Maximum-Minimum Mutual Information Paradigm for Unsupervised Topic Segmentation in ASR Transcripts"}
+{"title": "GD-COMET: A Geo-Diverse Commonsense Inference Model"}
+{"title": "PreWoMe: Exploiting Presuppositions as Working Memory for Long Form Question Answering"}
+{"title": "SOUL: Towards Sentiment and Opinion Understanding of Language"}
+{"title": "Evaluation Metrics in the Era of GPT-4: Reliably Evaluating Large Language Models on Sequence to Sequence Tasks"}
+{"title": "Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text"}
+{"title": "Exploring Linguistic Probes for Morphological Inflection"}
+{"title": "FLatS: Principled Out-of-Distribution Detection with Feature-Based Likelihood Ratio Score"}
+{"title": "Revisiting Instruction Fine-tuned Model Evaluation to Guide Industrial Applications"}
+{"title": "CLAD-ST: Contrastive Learning with Adversarial Data for Robust Speech Translation"}
+{"title": "Improved Unsupervised Chinese Word Segmentation Using Pre-trained Knowledge and Pseudo-labeling Transfer"}
+{"title": "Multilingual $k$-Nearest-Neighbor Machine Translation"}
+{"title": "Understanding Computational Models of Semantic Change: New Insights from the Speech Community"}
+{"title": "Revisiting Automated Topic Model Evaluation with Large Language Models"}
+{"title": "Query2doc: Query Expansion with Large Language Models"}
+{"title": "Practical Computational Power of Linear Transformers and Their Recurrent and Self-Referential Extensions"}
+{"title": "InterFair: Debiasing with Natural Language Feedback for Fair Interpretable Predictions"}
+{"title": "Large Language Models are biased to overestimate profoundness"}
+{"title": "Prompting Scientific Names for Zero-Shot Species Recognition"}
+{"title": "MultiTurnCleanup: A Benchmark for Multi-Turn Spoken Conversational Transcript Cleanup"}
+{"title": "Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition"}
+{"title": "Transformer-based Live Update Generation for Soccer Matches from Microblog Posts"}
+{"title": "Using Artificial French Data to Understand the Emergence of Gender Bias in Transformer Language Models"}
+{"title": "What do Deck Chairs and Sun Hats Have in Common? Uncovering Shared Properties in Large Concept Vocabularies"}
+{"title": "Collaborative Generative AI: Integrating GPT-k for Efficient Editing in Text-to-Image Generation"}
+{"title": "Polyglot or Not? Measuring Multilingual Encyclopedic Knowledge in Foundation Models"}
+{"title": "Anchoring Fine-tuning of Sentence Transformer with Semantic Label Information for Efficient Truly Few-shot Classification"}
+{"title": "Data Similarity is Not Enough to Explain Language Model Performance"}
+{"title": "Integrating Language Models into Direct Speech Translation: An Inference-Time Solution to Control Gender Inflection"}
+{"title": "mAggretriever: A Simple yet Effective Approach to Zero-Shot Multilingual Dense Retrieval"}
+{"title": "CodeFusion: A Pre-trained Diffusion Model for Code Generation"}
+{"title": "VECHR: A Dataset for Explainable and Robust Classification of Vulnerability Type in the European Court of Human Rights"}
+{"title": "Reward-Augmented Decoding: Efficient Controlled Text Generation With a Unidirectional Reward Model"}
+{"title": "Cabbage Sweeter than Cake? Analysing the Potential of Large Language Models for Learning Conceptual Spaces"}
+{"title": "Large-scale similarity search with Optimal Transport"}
+{"title": "FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning"}
+{"title": "Simplicity Level Estimate (SLE): A Learned Reference-Less Metric for Sentence Simplification"}
+{"title": "Calc-X and Calcformers: Empowering Arithmetical Chain-of-Thought through Interaction with Symbolic Systems"}
+{"title": "CoF-CoT: Enhancing Large Language Models with Coarse-to-Fine Chain-of-Thought Prompting for Multi-domain NLU Tasks"}
+{"title": "Select, Prompt, Filter: Distilling Large Language Models for Summarizing Conversations"}
+{"title": "Human Raters Cannot Distinguish English Translations from Original English Texts"}
+{"title": "Faster Minimum Bayes Risk Decoding with Confidence-based Pruning"}
+{"title": "Revisiting Sparse Retrieval for Few-shot Entity Linking"}
+{"title": "Context Compression for Auto-regressive Transformers with Sentinel Tokens"}
+{"title": "Set Learning for Generative Information Extraction"}
+{"title": "Token Prediction as Implicit Classification to Identify LLM-Generated Text"}
+{"title": "On Evaluation of Bangla Word Analogies"}
+{"title": "Towards Unsupervised Recognition of Token-level Semantic Differences in Related Documents"}
+{"title": "CLAIR: Evaluating Image Captions with Large Language Models"}
+{"title": "Poisoning Retrieval Corpora by Injecting Adversarial Passages"}
+{"title": "Clustering Pseudo Language Family in Multilingual Translation Models with Fisher Information Matrix"}
+{"title": "SUT: Active Defects Probing for Transcompiler Models"}
+{"title": "This Reads Like That: Deep Learning for Interpretable Natural Language Processing"}
+{"title": "SMoP: Towards Efficient and Effective Prompt Tuning with Sparse Mixture-of-Prompts"}
+{"title": "Outlier Dimensions Encode Task Specific Knowledge"}
+{"title": "Self-Ensemble of $N$-best Generation Hypotheses by Lexically Constrained Decoding"}
+{"title": "Merging Experts into One: Improving Computational Efficiency of Mixture of Experts"}
+{"title": "Assessing Step-by-Step Reasoning against Lexical Negation: A Case Study on Syllogism"}
+{"title": "A Simple Baseline for Knowledge-Based Visual Question Answering"}
+{"title": "Unveiling the Essence of Poetry: Introducing a Comprehensive Dataset and Benchmark for Poem Summarization"}
+{"title": "CoRec: An Easy Approach for Coordination Recognition"}
+{"title": "FinEntity: Entity-level Sentiment Classification for Financial Texts"}
+{"title": "Rationale-Enhanced Language Models are Better Continual Relation Learners"}
+{"title": "Inverse Scaling Can Become U-Shaped"}
+{"title": "ScdNER: Span-Based Consistency-Aware Document-Level Named Entity Recognition"}
+{"title": "NormDial: A Comparable Bilingual Synthetic Dialog Dataset for Modeling Social Norm Adherence and Violation"}
+{"title": "ClimateBERT-NetZero: Detecting and Assessing Net Zero and Reduction Targets"}
+{"title": "An Attribution Method for Siamese Encoders"}
+{"title": "Are Compressed Language Models Less Subgroup Robust?"}
+{"title": "Length Does Matter: Summary Length can Bias Summarization Metrics"}
+{"title": "Fine-grained Medical Vision-Language Representation Learning for Radiology Report Generation"}
+{"title": "Automated Fact-Checking in Dialogue: Are Specialized Models Needed?"}
+{"title": "Assessing the influence of attractor-verb distance on grammatical agreement in humans and language models"}
+{"title": "To Split or Not to Split: Composing Compounds in Contextual Vector Spaces"}
+{"title": "TaskDiff: A Similarity Metric for Task-Oriented Conversations"}
+{"title": "A Benchmark for Reasoning with Spatial Prepositions"}
+{"title": "Towards Interpretable and Efficient Automatic Reference-Based Summarization Evaluation"}
+{"title": "MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding"}
+{"title": "PK-ICR: Persona-Knowledge Interactive Multi-Context Retrieval for Grounded Dialogue"}
+{"title": "A Self-training Framework for Automated Medical Report Generation"}
+{"title": "A Picture is Worth a Thousand Words: Language Models Plan from Pixels"}
+{"title": "Relation-aware Ensemble Learning for Knowledge Graph Embedding"}
+{"title": "When Reviewers Lock Horns: Finding Disagreements in Scientific Peer Reviews"}

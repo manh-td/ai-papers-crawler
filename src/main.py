@@ -28,14 +28,17 @@ def fetch_strategy_1(url:str) -> list:
     papers = []
     for paper in tqdm(dom.xpath("//li/a"), desc=f"Processing {url}"):  # Adjust XPath based on the actual structure
         title = paper.xpath("text()")[0]
-        logging.debug(f"Processing paper: {title}")
-        arxiv_paper = search_paper_by_title(title)
-        if not arxiv_paper:
-            continue
+        # logging.debug(f"Processing paper: {title}")
+        # arxiv_paper = search_paper_by_title(title)
+        # if not arxiv_paper:
+        #     continue
 
-        if title.lower() != arxiv_paper['title'].lower():
-            logging.warning(f"Title mismatch: {title} != {arxiv_paper['title']}")
-        papers.append(arxiv_paper)
+        # if title.lower() != arxiv_paper['title'].lower():
+        #     logging.warning(f"Title mismatch: {title} != {arxiv_paper['title']}")
+        # papers.append(arxiv_paper)
+        papers.append({
+            "title": title,
+        })
 
     return papers
 
@@ -56,12 +59,15 @@ def fetch_strategy_2(url:str) -> list:
     papers = []
     for paper in tqdm(dom.xpath("//p/strong"), desc=f"Processing {url}"):  # Adjust XPath based on the actual structure
         title = paper.xpath("text()")[0]
-        arxiv_paper = search_paper_by_title(title)
-        if not arxiv_paper:
-            continue
-        if title.lower() != arxiv_paper['title'].lower():
-            logging.warning(f"Title mismatch: {title} != {arxiv_paper['title']}")
-        papers.append(arxiv_paper)
+        # arxiv_paper = search_paper_by_title(title)
+        # if not arxiv_paper:
+        #     continue
+        # if title.lower() != arxiv_paper['title'].lower():
+        #     logging.warning(f"Title mismatch: {title} != {arxiv_paper['title']}")
+        # papers.append(arxiv_paper)
+        papers.append({
+            "title": title,
+        })
 
     return papers
 

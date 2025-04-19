@@ -1,0 +1,1070 @@
+{"title": "\n            NeurIPS\n        "}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n            Select Year: (2018)\n        "}
+{"title": "2025\n                "}
+{"title": "2024\n                "}
+{"title": "2023\n                "}
+{"title": "2021\n                "}
+{"title": "2022\n                "}
+{"title": "2020\n                "}
+{"title": "2019\n                "}
+{"title": "2018\n                "}
+{"title": "2017\n                "}
+{"title": "2016\n                "}
+{"title": "2015\n                "}
+{"title": "2014\n                "}
+{"title": "2013\n                "}
+{"title": "2012\n                "}
+{"title": "2011\n                "}
+{"title": "2010\n                "}
+{"title": "2009\n                "}
+{"title": "2008\n                "}
+{"title": "2007\n                "}
+{"title": "2006\n                "}
+{"title": "Past Conferences\n                "}
+{"title": "\n            Submit\n        "}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n            Organization\n        "}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n            Schedule\n        "}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "\n"}
+{"title": "To Trust Or Not To Trust A Classifier"}
+{"title": "Regularization Learning Networks: Deep Learning for Tabular Datasets"}
+{"title": "Probabilistic Neural Programmed Networks for Scene Generation"}
+{"title": "Loss Functions for Multiset Prediction"}
+{"title": "The Price of Privacy for Low-rank Factorization"}
+{"title": "Overcoming Language Priors in Visual Question Answering with Adversarial Regularization"}
+{"title": "Modular Networks: Learning to Decompose Neural Computation"}
+{"title": "On Binary Classification in Extreme Regions"}
+{"title": "Bayesian Model Selection Approach to Boundary Detection with Non-Local Priors"}
+{"title": "Multi-value Rule Sets for Interpretable Classification with Feature-Efficient Representations"}
+{"title": "A Practical Algorithm for Distributed Clustering and Outlier Detection"}
+{"title": "Are ResNets Provably Better than Linear Predictors?"}
+{"title": "Scaling provable adversarial defenses"}
+{"title": "Provable Gaussian Embedding with One Observation"}
+{"title": "Leveraged volume sampling for linear regression"}
+{"title": "Neural Nearest Neighbors Networks"}
+{"title": "Adversarial vulnerability for any classifier"}
+{"title": "The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization"}
+{"title": "Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks"}
+{"title": "Scalable Robust Matrix Factorization with Nonconvex Loss"}
+{"title": "PG-TS: Improved Thompson Sampling for Logistic Contextual Bandits"}
+{"title": "Lifelong Inverse Reinforcement Learning"}
+{"title": "Precision and Recall for Time Series"}
+{"title": "Acceleration through Optimistic No-Regret Dynamics"}
+{"title": "Active Learning for Non-Parametric Regression Using Purely Random Trees"}
+{"title": "Synthesize Policies for Transfer and Adaptation across Tasks and Environments"}
+{"title": "Deep Predictive Coding Network with Local Recurrent Processing for Object Recognition"}
+{"title": "Multi-Task Zipping via Layer-wise Neuron Sharing"}
+{"title": "Random Feature Stein Discrepancies"}
+{"title": "A Simple Cache Model for Image Recognition"}
+{"title": "A Bayesian Nonparametric View on Count-Min Sketch"}
+{"title": "Efficient Anomaly Detection via Matrix Sketching"}
+{"title": "Confounding-Robust Policy Improvement"}
+{"title": "Neural Ordinary Differential Equations"}
+{"title": "Dimensionally Tight Bounds for Second-Order Hamiltonian Monte Carlo"}
+{"title": "Fairness Through Computationally-Bounded Awareness"}
+{"title": "Sequential Context Encoding for Duplicate Removal"}
+{"title": "On Learning Markov Chains"}
+{"title": "Generative modeling for protein structures"}
+{"title": "Hunting for Discriminatory Proxies in Linear Regression Models"}
+{"title": "Stochastic Composite Mirror Descent: Optimal Bounds with High Probabilities"}
+{"title": "Maximum-Entropy Fine Grained Classification"}
+{"title": "TETRIS: TilE-matching the TRemendous Irregular Sparsity"}
+{"title": "Gradient Sparsification for Communication-Efficient Distributed Optimization"}
+{"title": "e-SNLI: Natural Language Inference with Natural Language Explanations"}
+{"title": "Learn What Not to Learn: Action Elimination with Deep Reinforcement Learning"}
+{"title": "Fast and Effective Robustness Certification"}
+{"title": "Reinforcement Learning with Multiple Experts: A Bayesian Model Combination Approach"}
+{"title": "RetGK: Graph Kernels based on Return Probabilities of Random Walks"}
+{"title": "Statistical mechanics of low-rank tensor decomposition"}
+{"title": "Faster Online Learning of Optimal Threshold for Consistent F-measure Optimization"}
+{"title": "Towards Robust Detection of Adversarial Examples"}
+{"title": "Semidefinite relaxations for certifying robustness to adversarial examples"}
+{"title": "Non-delusional Q-learning and value-iteration"}
+{"title": "Nonparametric Density Estimation under Adversarial Losses"}
+{"title": "Unsupervised Learning of Shape and Pose with Differentiable Point Clouds"}
+{"title": "Moonshine: Distilling with Cheap Convolutions"}
+{"title": "Generalizing Point Embeddings using the Wasserstein Space of Elliptical Distributions"}
+{"title": "Stein Variational Gradient Descent as Moment Matching"}
+{"title": "Context-aware Synthesis and Placement of Object Instances"}
+{"title": "Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples"}
+{"title": "Improved Expressivity Through Dendritic Neural Networks"}
+{"title": "Efficient Loss-Based Decoding on Graphs for Extreme Classification"}
+{"title": "Predictive Uncertainty Estimation via Prior Networks"}
+{"title": "Efficient online algorithms for fast-rate regret bounds under sparsity"}
+{"title": "Extracting Relationships by Multi-Domain Matching"}
+{"title": "BRITS: Bidirectional Recurrent Imputation for Time Series"}
+{"title": "Incorporating Context into Language Encoding Models for fMRI"}
+{"title": "Training Neural Networks Using Features Replay"}
+{"title": "Sharp Bounds for Generalized Uniformity Testing"}
+{"title": "Assessing Generative Models via Precision and Recall"}
+{"title": "Explaining Deep Learning Models -- A Bayesian Non-parametric Approach"}
+{"title": "Mallows Models for Top-k Lists"}
+{"title": "Fast Rates of ERM and Stochastic Approximation: Adaptive to Error Bound Conditions"}
+{"title": "Bayesian Semi-supervised Learning with Graph Gaussian Processes"}
+{"title": "Neighbourhood Consensus Networks"}
+{"title": "Mental Sampling in Multimodal Representations"}
+{"title": "Transfer of Deep Reactive Policies for MDP Planning"}
+{"title": "Sparse PCA from Sparse Linear Regression"}
+{"title": "Contrastive Learning from Pairwise Measurements"}
+{"title": "Computationally and statistically efficient learning of causal Bayes nets using path queries"}
+{"title": "Hybrid Macro/Micro Level Backpropagation for Training Deep Spiking Neural Networks"}
+{"title": "Topkapi: Parallel and Fast Sketches for Finding Top-K Frequent Elements"}
+{"title": "The Price of Fair PCA: One Extra dimension"}
+{"title": "Point process latent variable models of larval zebrafish behavior"}
+{"title": "MixLasso: Generalized Mixed Regression via Convex Atomic-Norm Regularization"}
+{"title": "Multiple Instance Learning for Efficient Sequential Data Classification on Resource-constrained Devices"}
+{"title": "Mean Field for the Stochastic Blockmodel: Optimization Landscape and Convergence Issues"}
+{"title": "Learning Temporal Point Processes via Reinforcement Learning"}
+{"title": "Connecting Optimization and Regularization Paths"}
+{"title": "Support Recovery for Orthogonal Matching Pursuit: Upper and Lower bounds"}
+{"title": "GroupReduce: Block-Wise Low-Rank Approximation for Neural Language Model Shrinking"}
+{"title": "Domain Adaptation by Using Causal Inference to Predict Invariant Conditional Distributions"}
+{"title": "Removing Hidden Confounding by Experimental Grounding"}
+{"title": "Autoconj: Recognizing and Exploiting Conjugacy Without a Domain-Specific Language"}
+{"title": "DropBlock: A regularization method for convolutional networks"}
+{"title": "Joint Autoregressive and Hierarchical Priors for Learned Image Compression"}
+{"title": "Robust Subspace Approximation in a Stream"}
+{"title": "Analysis of Krylov Subspace Solutions of  Regularized Non-Convex Quadratic Problems"}
+{"title": "Bias and Generalization in Deep Generative Models: An Empirical Study"}
+{"title": "Differentially Private Change-Point Detection"}
+{"title": "Streamlining Variational Inference for Constraint Satisfaction Problems"}
+{"title": "With Friends Like These, Who Needs Adversaries?"}
+{"title": "Benefits of over-parameterization with EM"}
+{"title": "Smoothed Analysis of Discrete Tensor Decomposition and Assemblies of Neurons"}
+{"title": "Understanding Regularized Spectral Clustering via Graph Conductance"}
+{"title": "Learning Beam Search Policies via Imitation Learning"}
+{"title": "Decentralize and Randomize: Faster Algorithm for Wasserstein Barycenters"}
+{"title": "Thermostat-assisted continuously-tempered Hamiltonian Monte Carlo for Bayesian learning"}
+{"title": "Data-Driven Clustering via Parameterized Lloyd's Families"}
+{"title": "Sketching Method for Large Scale Combinatorial Inference"}
+{"title": "Bayesian Structure Learning by Recursive Bootstrap"}
+{"title": "The Sparse Manifold Transform"}
+{"title": "Fully Neural Network Based Speech Recognition on Mobile and Embedded Devices"}
+{"title": "Forward Modeling for Partial Observation Strategy Games - A StarCraft Defogger"}
+{"title": "Discretely Relaxing Continuous Variables for tractable Variational Inference"}
+{"title": "Temporal alignment and latent Gaussian process factor inference in population spike trains"}
+{"title": "Fast deep reinforcement learning using online adjustments from the past"}
+{"title": "Diversity-Driven Exploration Strategy for Deep Reinforcement Learning"}
+{"title": "Improved Network Robustness with Adversary Critic"}
+{"title": "3D Steerable CNNs: Learning Rotationally Equivariant Features in Volumetric Data"}
+{"title": "Regret bounds for meta Bayesian optimization with an unknown Gaussian process prior"}
+{"title": "Bounded-Loss Private Prediction Markets"}
+{"title": "Complex Gated Recurrent Neural Networks"}
+{"title": "Regret Bounds for Online Portfolio Selection with a Cardinality Constraint"}
+{"title": "Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise"}
+{"title": "Gaussian Process Prior Variational Autoencoders"}
+{"title": "PCA of high dimensional random walks with comparison to neural network training"}
+{"title": "Learning a Warping Distance from Unlabeled Time Series Using Sequence Autoencoders"}
+{"title": "Deep Generative Models with Learnable Knowledge Constraints"}
+{"title": "Adversarial Risk and Robustness: General Definitions and Implications for the Uniform Distribution"}
+{"title": "Learning Abstract Options"}
+{"title": "Predictive Approximate Bayesian Computation via Saddle Points"}
+{"title": "Unsupervised Image-to-Image Translation Using Domain-Specific Variational Information Bound"}
+{"title": "Glow: Generative Flow with Invertible 1x1 Convolutions"}
+{"title": "Learning to Solve SMT Formulas"}
+{"title": "Convex Elicitation of Continuous Properties"}
+{"title": "Lifted Weighted Mini-Bucket"}
+{"title": "Learning and Inference in Hilbert Space with Quantum Graphical Models"}
+{"title": "Synaptic Strength For Convolutional Neural Network"}
+{"title": "Robustness of conditional GANs to noisy labels"}
+{"title": "Mesh-TensorFlow: Deep Learning for Supercomputers"}
+{"title": "Learning to Share and Hide Intentions using Information Regularization"}
+{"title": "Total stochastic gradient algorithms and applications in reinforcement learning"}
+{"title": "Learning with SGD and Random Features"}
+{"title": "Improving Simple Models with Confidence Profiles"}
+{"title": "Human-in-the-Loop Interpretability Prior"}
+{"title": "A Retrieve-and-Edit Framework for Predicting Structured Outputs"}
+{"title": "Robust Learning of Fixed-Structure Bayesian Networks"}
+{"title": "Backpropagation with Callbacks: Foundations for Efficient and Expressive Differentiable Programming"}
+{"title": "Bayesian Nonparametric Spectral Estimation"}
+{"title": "A Spectral View of Adversarially Robust Features"}
+{"title": "Blockwise Parallel Decoding for Deep Autoregressive Models"}
+{"title": "Low-Rank Tucker Decomposition of Large Tensors Using TensorSketch"}
+{"title": "On Markov Chain Gradient Descent"}
+{"title": "Scalable Laplacian K-modes"}
+{"title": "Maximizing acquisition functions for Bayesian optimization"}
+{"title": "Learning To Learn Around A Common Mean"}
+{"title": "Clebsch\u2013Gordan Nets: a Fully Fourier Space Spherical Convolutional Neural Network"}
+{"title": "Blind Deconvolutional Phase Retrieval via Convex Programming"}
+{"title": "Testing for Families of Distributions via the Fourier Transform"}
+{"title": "Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams"}
+{"title": "Using Large Ensembles of Control Variates for Variational Inference"}
+{"title": "Dynamic Network Model from Partial Observations"}
+{"title": "Memory Augmented Policy Optimization for Program Synthesis and Semantic Parsing"}
+{"title": "Neural Voice Cloning with a Few Samples"}
+{"title": "Post: Device Placement with Cross-Entropy Minimization and Proximal Policy Optimization"}
+{"title": "Life-Long Disentangled Representation Learning with Cross-Domain Latent Homologies"}
+{"title": "Learning Invariances using the Marginal Likelihood"}
+{"title": "Learning to Reason with Third Order Tensor Products"}
+{"title": "Object-Oriented Dynamics Predictor"}
+{"title": "Unsupervised Depth Estimation, 3D Face Rotation and Replacement"}
+{"title": "Learning to Specialize with Knowledge Distillation for Visual Question Answering"}
+{"title": "Entropy Rate Estimation for Markov Chains with Large State Space"}
+{"title": "Generalization Bounds for Uniformly Stable Algorithms"}
+{"title": "Uplift Modeling from Separate Labels"}
+{"title": "Latent Alignment and Variational Attention"}
+{"title": "Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation"}
+{"title": "Global Non-convex Optimization with Discretized Diffusions"}
+{"title": "ATOMO: Communication-efficient Learning via Atomic Sparsification"}
+{"title": "Deep Anomaly Detection Using Geometric Transformations"}
+{"title": "Online Robust Policy Learning in the Presence of Unknown Adversaries"}
+{"title": "Improving Explorability in Variational Inference with Annealed Variational Objectives"}
+{"title": "Variance-Reduced Stochastic Gradient Descent on Streaming Data"}
+{"title": "Adaptive Methods for Nonconvex Optimization"}
+{"title": "Adaptive Skip Intervals: Temporal Abstraction for Recurrent Dynamical Models"}
+{"title": "Large Scale computation of Means and Clusters for Persistence Diagrams using Optimal Transport"}
+{"title": "Multi-Agent Reinforcement Learning via Double Averaging Primal-Dual Optimization"}
+{"title": "Improving Online Algorithms via ML Predictions"}
+{"title": "Implicit Bias of Gradient Descent on Linear Convolutional Networks"}
+{"title": "Towards Deep Conversational Recommendations"}
+{"title": "Ex ante coordination and collusion in zero-sum multi-player extensive-form games"}
+{"title": "The emergence of multiple retinal cell types through efficient coding of natural movies"}
+{"title": "Theoretical guarantees for EM under misspecified Gaussian mixture models"}
+{"title": "Trading robust representations for sample complexity through self-supervised visual experience"}
+{"title": "DAGs with NO TEARS: Continuous Optimization for Structure Learning"}
+{"title": "Probabilistic Model-Agnostic Meta-Learning"}
+{"title": "Reinforcement Learning for Solving the Vehicle Routing Problem"}
+{"title": "Fast Approximate Natural Gradient Descent in a Kronecker Factored Eigenbasis"}
+{"title": "Coupled Variational Bayes via Optimization Embedding"}
+{"title": "Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation"}
+{"title": "Identification and Estimation of Causal Effects from Dependent Data"}
+{"title": "Learning Attractor Dynamics for Generative Memory"}
+{"title": "Deepcode: Feedback Codes via Deep Learning"}
+{"title": "PAC-Bayes bounds for stable algorithms with instance-dependent priors"}
+{"title": "Learning convex bounds for linear quadratic control policy synthesis"}
+{"title": "Multi-objective Maximization of Monotone Submodular Functions with Cardinality Constraint"}
+{"title": "An intriguing failing of convolutional neural networks and the CoordConv solution"}
+{"title": "PAC-Bayes Tree: weighted subtrees with guarantees"}
+{"title": "Neural Proximal Gradient Descent for Compressive Imaging"}
+{"title": "The Global Anchor Method for Quantifying Linguistic Shifts and Domain Adaptation"}
+{"title": "Statistical and Computational Trade-Offs in Kernel K-Means"}
+{"title": "Gather-Excite: Exploiting Feature Context in Convolutional Neural Networks"}
+{"title": "Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures"}
+{"title": "Invertibility of Convolutional Generative Networks from Partial Measurements"}
+{"title": "Representer Point Selection for Explaining Deep Neural Networks"}
+{"title": "Optimal Algorithms for Continuous Non-monotone Submodular and DR-Submodular Maximization"}
+{"title": "Co-regularized Alignment for Unsupervised Domain Adaptation"}
+{"title": "Sanity Checks for Saliency Maps"}
+{"title": "SNIPER: Efficient Multi-Scale Training"}
+{"title": "Hardware Conditioned Policies for Multi-Robot Transfer Learning"}
+{"title": "Deep Dynamical Modeling and Control of Unsteady Fluid Flows"}
+{"title": "Coordinate Descent with Bandit Sampling"}
+{"title": "Watch Your Step: Learning Node Embeddings via Graph Attention"}
+{"title": "Beyond Grids: Learning Graph Representations for Visual Recognition"}
+{"title": "Reducing Network Agnostophobia"}
+{"title": "Learning and Testing Causal Models with Interventions"}
+{"title": "Quadrature-based features for kernel approximation"}
+{"title": "The Effect of Network Width on the Performance of  Large-batch Training"}
+{"title": "Phase Retrieval Under a Generative Prior"}
+{"title": "Visual Reinforcement Learning with Imagined Goals"}
+{"title": "The Sample Complexity of Semi-Supervised Learning with Nonparametric Mixture Models"}
+{"title": "Learning SMaLL Predictors"}
+{"title": "Robot Learning in Homes: Improving Generalization and Reducing Dataset Bias"}
+{"title": "The Importance of Sampling inMeta-Reinforcement Learning"}
+{"title": "Iterative Value-Aware Model Learning"}
+{"title": "Learning Safe Policies with Expert Guidance"}
+{"title": "A Stein variational Newton method"}
+{"title": "Balanced Policy Evaluation and Learning"}
+{"title": "Learning Compressed Transforms with Low Displacement Rank"}
+{"title": "Theoretical Linear Convergence of Unfolded ISTA and Its Practical Weights and Thresholds"}
+{"title": "Bayesian multi-domain learning for cancer subtype discovery from next-generation sequencing count data"}
+{"title": "Efficient High Dimensional Bayesian Optimization with Additivity and Quadrature Fourier Features"}
+{"title": "Exploration in Structured Reinforcement Learning"}
+{"title": "Adaptive Path-Integral Autoencoders: Representation Learning and Planning for Dynamical Systems"}
+{"title": "Legendre Decomposition for Tensors"}
+{"title": "Flexible neural representation for physics prediction"}
+{"title": "Reversible Recurrent Neural Networks"}
+{"title": "Group Equivariant Capsule Networks"}
+{"title": "Invariant Representations without Adversarial Training"}
+{"title": "GLoMo: Unsupervised Learning of Transferable Relational Graphs"}
+{"title": "FastGRNN: A Fast, Accurate, Stable and Tiny Kilobyte Sized Gated Recurrent Neural Network"}
+{"title": "Wavelet regression and additive models for irregularly spaced data"}
+{"title": "Inferring Latent Velocities from Weather Radar Data using Gaussian Processes"}
+{"title": "Online Learning of Quantum States"}
+{"title": "Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels"}
+{"title": "Improving Neural Program Synthesis with Inferred Execution Traces"}
+{"title": "A Structured Prediction Approach for Label Ranking"}
+{"title": "Distributed Multitask Reinforcement Learning with Quadratic Convergence"}
+{"title": "Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs"}
+{"title": "Policy-Conditioned Uncertainty Sets for Robust Markov Decision Processes"}
+{"title": "A Statistical Recurrent Model on the Manifold of Symmetric Positive Definite Matrices"}
+{"title": "Differential Privacy for Growing Databases"}
+{"title": "Estimators for Multivariate Information Measures in General Probability Spaces"}
+{"title": "Uniform Convergence of Gradients for Non-Convex Learning and Optimization"}
+{"title": "SING: Symbol-to-Instrument Neural Generator"}
+{"title": "Reinforcement Learning of Theorem Proving"}
+{"title": "Orthogonally Decoupled Variational Gaussian Processes"}
+{"title": "Randomized Prior Functions for Deep Reinforcement Learning"}
+{"title": "Data Amplification: A Unified and Competitive Approach to Property Estimation"}
+{"title": "Automatic differentiation in ML: Where we are and where we should be going"}
+{"title": "Compact Representation of Uncertainty in Clustering"}
+{"title": "Learning Plannable Representations with Causal InfoGAN"}
+{"title": "DeepPINK: reproducible feature selection in deep neural networks"}
+{"title": "Adversarial Regularizers in Inverse Problems"}
+{"title": "Clustering Redemption\u2013Beyond the Impossibility of Kleinberg\u2019s Axioms"}
+{"title": "Dendritic cortical microcircuits approximate the backpropagation algorithm"}
+{"title": "Learning without the Phase: Regularized PhaseMax Achieves Optimal Sample Complexity"}
+{"title": "A Likelihood-Free Inference Framework for Population Genetic Data using Exchangeable Neural Networks"}
+{"title": "Co-teaching: Robust training of deep neural networks with extremely noisy labels"}
+{"title": "A convex program for bilinear inversion of sparse vectors"}
+{"title": "Graph Oracle Models, Lower Bounds, and Gaps for Parallel Stochastic Optimization"}
+{"title": "Searching for Efficient Multi-Scale Architectures for Dense Image Prediction"}
+{"title": "Transfer Learning with Neural AutoML"}
+{"title": "Learning Conditioned Graph Structures for Interpretable Visual Question Answering"}
+{"title": "HOUDINI: Lifelong Learning as Program Synthesis"}
+{"title": "Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects"}
+{"title": "Adversarial Multiple Source Domain Adaptation"}
+{"title": "Variational Inverse Control with Events: A General Framework for Data-Driven Reward Definition"}
+{"title": "Dimensionality Reduction has Quantifiable Imperfections: Two Geometric Bounds"}
+{"title": "On preserving non-discrimination when combining expert advice"}
+{"title": "Deep Network for the Integrated 3D Sensing of Multiple People in Natural Images"}
+{"title": "Thwarting Adversarial Examples: An $L_0$-Robust Sparse Fourier Transform"}
+{"title": "Multilingual Anchoring: Interactive Topic Modeling and Alignment Across Languages"}
+{"title": "Information-theoretic Limits for Community Detection in Network Models"}
+{"title": "Teaching Inverse Reinforcement Learners via Features and Demonstrations"}
+{"title": "Parameters as interacting particles: long time convergence and asymptotic error scaling of neural networks"}
+{"title": "Scaling Gaussian Process Regression with Derivatives"}
+{"title": "An Improved Analysis of Alternating Minimization for Structured Multi-Response Regression"}
+{"title": "Binary Classification from Positive-Confidence Data"}
+{"title": "Learning to Play With Intrinsically-Motivated, Self-Aware Agents"}
+{"title": "Neural Tangent Kernel: Convergence and Generalization in Neural Networks"}
+{"title": "Deep Poisson gamma dynamical systems"}
+{"title": "Non-metric Similarity Graphs for Maximum Inner Product Search"}
+{"title": "Meta-Learning MCMC Proposals"}
+{"title": "Contextual Stochastic Block Models"}
+{"title": "Stochastic Primal-Dual Method for Empirical Risk Minimization with O(1) Per-Iteration Complexity"}
+{"title": "Generalisation of structural knowledge in the hippocampal-entorhinal system"}
+{"title": "The promises and pitfalls of Stochastic Gradient Langevin Dynamics"}
+{"title": "Distributionally Robust Graphical Models"}
+{"title": "Data-dependent PAC-Bayes priors via differential privacy"}
+{"title": "Online Reciprocal Recommendation with Theoretical Performance Guarantees"}
+{"title": "Almost Optimal Algorithms for Linear Stochastic Bandits with Heavy-Tailed Payoffs"}
+{"title": "Constructing Unrestricted Adversarial Examples with Generative Models"}
+{"title": "Bilevel learning of the Group Lasso structure"}
+{"title": "Wasserstein Distributionally Robust Kalman Filtering"}
+{"title": "Differentiable MPC for End-to-end Planning and Control"}
+{"title": "Efficient Online Portfolio with Logarithmic Regret"}
+{"title": "Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion"}
+{"title": "Algorithms and Theory for Multiple-Source Adaptation"}
+{"title": "How SGD Selects the Global Minima in Over-parameterized Learning: A Dynamical Stability Perspective"}
+{"title": "Hamiltonian Variational Auto-Encoder"}
+{"title": "Variational Bayesian Monte Carlo"}
+{"title": "Modelling and unsupervised learning of symmetric deformable object categories"}
+{"title": "Learning Overparameterized Neural Networks via Stochastic Gradient Descent on Structured Data"}
+{"title": "Proximal Graphical Event Models"}
+{"title": "Pipe-SGD: A Decentralized Pipelined SGD Framework for Distributed Deep Net Training"}
+{"title": "Statistical Optimality of Stochastic Gradient Descent on Hard Learning Problems through Multiple Passes"}
+{"title": "The challenge of realistic music generation: modelling raw audio at scale"}
+{"title": "Stochastic Expectation Maximization with Variance Reduction"}
+{"title": "Cluster Variational Approximations for Structure Learning of Continuous-Time Bayesian Networks from Incomplete Data"}
+{"title": "Bayesian Control of Large MDPs with Unknown Dynamics in Data-Poor Environments"}
+{"title": "Spectral Signatures in Backdoor Attacks"}
+{"title": "Submodular Maximization via Gradient Ascent: The Case of Deep Submodular   Functions"}
+{"title": "A General Method for Amortizing Variational Filtering"}
+{"title": "A Lyapunov-based Approach to Safe Reinforcement Learning"}
+{"title": "Learning to Repair Software Vulnerabilities with Generative Adversarial Networks"}
+{"title": "Graphical model inference: Sequential Monte Carlo meets deterministic approximations"}
+{"title": "Approximate Knowledge Compilation by Online Collapsed Importance Sampling"}
+{"title": "Layer-Wise Coordination between Encoder and Decoder for Neural Machine Translation"}
+{"title": "Robust Hypothesis Testing Using Wasserstein Uncertainty Sets"}
+{"title": "Does mitigating ML's impact disparity require treatment disparity?"}
+{"title": "Neural Arithmetic Logic Units"}
+{"title": "A Reduction for Efficient LDA Topic Reconstruction"}
+{"title": "Distributed $k$-Clustering for Data with Heavy Noise"}
+{"title": "Dirichlet belief networks for topic structure learning"}
+{"title": "Credit Assignment For Collective Multiagent RL With Global Rewards"}
+{"title": "RenderNet: A deep convolutional network for differentiable rendering from 3D shapes"}
+{"title": "Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization"}
+{"title": "Reward learning from human preferences and demonstrations in Atari"}
+{"title": "VideoCapsuleNet: A Simplified Network for Action Detection"}
+{"title": "On Neuronal Capacity"}
+{"title": "Beyond Log-concavity: Provable Guarantees for Sampling Multi-modal Distributions using Simulated Tempering Langevin Monte Carlo"}
+{"title": "Towards Robust Interpretability with Self-Explaining Neural Networks"}
+{"title": "Monte-Carlo Tree Search for Constrained POMDPs"}
+{"title": "Deep State Space Models for Time Series Forecasting"}
+{"title": "Sparse Attentive Backtracking: Temporal Credit Assignment Through Reminding"}
+{"title": "Depth-Limited Solving for Imperfect-Information Games"}
+{"title": "Robust Detection of Adversarial Attacks by Modeling the Intrinsic Properties of Deep Neural Networks"}
+{"title": "Neural Architecture Optimization"}
+{"title": "Training Deep Neural Networks with 8-bit Floating Point Numbers"}
+{"title": "Understanding Batch Normalization"}
+{"title": "Preference Based Adaptation for Learning Objectives"}
+{"title": "Stochastic Cubic Regularization for Fast Nonconvex Optimization"}
+{"title": "Constrained Graph Variational Autoencoders for Molecule Design"}
+{"title": "Communication Compression for Decentralized Training"}
+{"title": "Improved Algorithms for Collaborative PAC Learning"}
+{"title": "Diffusion Maps for Textual Network Embedding"}
+{"title": "Scalar Posterior Sampling with Applications "}
+{"title": "Inference in Deep Gaussian Processes using Stochastic Gradient Hamiltonian Monte Carlo"}
+{"title": "Learning Loop Invariants for Program Verification"}
+{"title": "cpSGD: Communication-efficient and differentially-private distributed SGD"}
+{"title": "Breaking the Activation Function Bottleneck through Adaptive Parameterization"}
+{"title": "GPyTorch: Blackbox Matrix-Matrix Gaussian Process Inference with GPU Acceleration"}
+{"title": "Learning Libraries of Subroutines for Neurally\u2013Guided Bayesian Program Induction"}
+{"title": "Rectangular Bounding Process"}
+{"title": "Knowledge Distillation by On-the-Fly Native Ensemble"}
+{"title": "Adversarial Scene Editing: Automatic Object Removal from Weak Supervision"}
+{"title": "Constrained Cross-Entropy Method for Safe Reinforcement Learning"}
+{"title": "Simple, Distributed, and Accelerated Probabilistic Programming"}
+{"title": "Towards Text Generation with Adversarially Learned Neural Outlines"}
+{"title": "Plug-in Estimation in High-Dimensional Linear Inverse Problems: A Rigorous Analysis"}
+{"title": "Adaptive Learning with Unknown Information Flows"}
+{"title": "Constant Regret, Generalized Mixability, and Mirror Descent"}
+{"title": "Out-of-Distribution Detection using Multiple Semantic Label Representations"}
+{"title": "Multi-Agent Generative Adversarial Imitation Learning"}
+{"title": "Revisiting $(\\epsilon, \\gamma, \\tau)$-similarity learning for domain adaptation"}
+{"title": "How to tell when a clustering is (approximately) correct using convex relaxations"}
+{"title": "A Bayesian Approach to Generative Adversarial Imitation Learning"}
+{"title": "Generalisation in humans and deep neural networks"}
+{"title": "Stochastic Chebyshev Gradient Descent for Spectral Optimization"}
+{"title": "Learning Signed Determinantal Point Processes through the Principal Minor Assignment Problem"}
+{"title": "Non-Adversarial Mapping with VAEs"}
+{"title": "Unsupervised Cross-Modal Alignment of Speech and Text Embedding Spaces"}
+{"title": "Bayesian Model-Agnostic Meta-Learning"}
+{"title": "Unsupervised Text Style Transfer using Language Models as Discriminators"}
+{"title": "Disconnected Manifold Learning for Generative Adversarial Networks"}
+{"title": "Learning Attentional Communication for Multi-Agent Cooperation"}
+{"title": "REFUEL: Exploring Sparse Features in Deep Reinforcement Learning for Fast Disease Diagnosis"}
+{"title": "Training Deep Models Faster with Robust, Approximate Importance Sampling"}
+{"title": "A probabilistic population code based on neural samples"}
+{"title": "Deep Homogeneous Mixture Models: Representation, Separation, and Approximation"}
+{"title": "Implicit Probabilistic Integrators for ODEs"}
+{"title": "Chaining Mutual Information and Tightening Generalization Bounds"}
+{"title": "Provably Correct Automatic Sub-Differentiation for Qualified Programs"}
+{"title": "Relational recurrent neural networks"}
+{"title": "Causal Inference with Noisy and Missing Covariates via Matrix Factorization"}
+{"title": "Distributed Multi-Player Bandits - a Game of Thrones Approach"}
+{"title": "Streaming Kernel PCA with $\\tilde{O}(\\sqrt{n})$ Random Features"}
+{"title": "Stimulus domain transfer in recurrent models for large scale cortical population prediction on video"}
+{"title": "Hierarchical Reinforcement Learning for Zero-shot Generalization with Subtask Dependencies"}
+{"title": "Dual Policy Iteration"}
+{"title": "Causal Inference via Kernel Deviance Measures"}
+{"title": "Scalable Hyperparameter Transfer Learning"}
+{"title": "Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction"}
+{"title": "Bayesian Alignments of Warped Multi-Output Gaussian Processes"}
+{"title": "End-to-End Differentiable Physics for Learning and Control"}
+{"title": "Model-Agnostic Private Learning"}
+{"title": "A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks"}
+{"title": "rho-POMDPs have Lipschitz-Continuous epsilon-Optimal Value Functions"}
+{"title": "Uncertainty Sampling is Preconditioned Stochastic Gradient Descent on Zero-One Loss"}
+{"title": "Manifold-tiling Localized Receptive Fields are Optimal in Similarity-preserving Neural Networks"}
+{"title": "BRUNO: A Deep Recurrent Model for Exchangeable Data"}
+{"title": "Efficient Convex Completion of Coupled Tensors using Coupled Nuclear Norms"}
+{"title": "Differentially Private Testing of Identity and Closeness of Discrete Distributions"}
+{"title": "Bandit Learning with Implicit Feedback"}
+{"title": "Unorganized Malicious Attacks Detection"}
+{"title": "Stochastic Nonparametric Event-Tensor Decomposition"}
+{"title": "Efficient Gradient Computation for Structured Output Learning with Rational and Tropical Losses"}
+{"title": "Online Structure Learning for Feed-Forward and Recurrent Sum-Product Networks"}
+{"title": "Diminishing Returns Shape Constraints for Interpretability and Regularization"}
+{"title": "Policy Regret in Repeated Games"}
+{"title": "M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search"}
+{"title": "On the Convergence and Robustness of Training GANs with Regularized Optimal Transport"}
+{"title": "Heterogeneous Multi-output Gaussian Process Prediction"}
+{"title": "Maximizing Induced Cardinality Under a Determinantal Point Process"}
+{"title": "Gen-Oja: Simple & Efficient Algorithm for Streaming Generalized Eigenvector Computation"}
+{"title": "Bayesian Adversarial Learning"}
+{"title": "Large-Scale Stochastic Sampling from the Probability Simplex"}
+{"title": "Generative Probabilistic Novelty Detection with Adversarial Autoencoders"}
+{"title": "Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders"}
+{"title": "GILBO: One Metric to Measure Them All"}
+{"title": "A Theory-Based Evaluation of Nearest Neighbor Models Put Into Practice"}
+{"title": "A Probabilistic U-Net for Segmentation of Ambiguous Images"}
+{"title": "On gradient regularizers for MMD GANs"}
+{"title": "CatBoost: unbiased boosting with categorical features"}
+{"title": "Contamination Attacks and Mitigation in Multi-Party Machine Learning"}
+{"title": "Banach Wasserstein GAN"}
+{"title": "Model-based targeted dimensionality reduction for neuronal population data"}
+{"title": "Query K-means Clustering and the Double Dixie Cup Problem"}
+{"title": "Unsupervised Learning of Artistic Styles with Archetypal Style Analysis"}
+{"title": "Approximating Real-Time Recurrent Learning with Random Kronecker Factors"}
+{"title": "On Coresets for Logistic Regression"}
+{"title": "Proximal SCOPE for Distributed Sparse Learning"}
+{"title": "Representation Learning of Compositional Data"}
+{"title": "Modeling Dynamic Missingness of Implicit Feedback for Recommendation"}
+{"title": "Lipschitz-Margin Training: Scalable Certification of Perturbation Invariance for Deep Neural Networks"}
+{"title": "Compact Generalized Non-local Network"}
+{"title": "Multi-View Silhouette and Depth Decomposition for High Resolution 3D Object Representation"}
+{"title": "Size-Noise Tradeoffs in Generative Networks"}
+{"title": "The Everlasting Database: Statistical Validity at a Fair Price"}
+{"title": "L4: Practical loss-based stepsize adaptation for deep learning"}
+{"title": "Learning Latent Subspaces in Variational Autoencoders"}
+{"title": "Online Adaptive Methods, Universality and Acceleration"}
+{"title": "A no-regret generalization of hierarchical softmax to extreme multi-label classification"}
+{"title": "Bayesian Distributed Stochastic Gradient Descent"}
+{"title": "On the Local Hessian in Back-propagation"}
+{"title": "Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation"}
+{"title": "Multi-domain Causal Structure Learning in Linear Systems"}
+{"title": "Turbo Learning for CaptionBot and DrawingBot"}
+{"title": "ResNet with one-neuron hidden layers is a Universal Approximator"}
+{"title": "Visualizing the Loss Landscape of Neural Nets"}
+{"title": "Privacy Amplification by Subsampling: Tight Analyses via Couplings and Divergences"}
+{"title": "The Limits of Post-Selection Generalization"}
+{"title": "Learning to Teach with Dynamic Loss Functions"}
+{"title": "On Controllable Sparse Alternatives to Softmax"}
+{"title": "LF-Net: Learning Local Features from Images"}
+{"title": "Efficient Formal Safety Analysis of Neural Networks"}
+{"title": "Algebraic tests of general Gaussian latent tree models"}
+{"title": "Deep Neural Networks with Box Convolutions"}
+{"title": "Distributed Learning without Distress: Privacy-Preserving Empirical Risk Minimization"}
+{"title": "Sequential Test for the Lowest Mean: From Thompson to Murphy Sampling"}
+{"title": "Deep State Space Models for Unconditional Word Generation"}
+{"title": "SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient"}
+{"title": "The Cluster Description Problem - Complexity Results, Formulations and Approximations"}
+{"title": "Exponentially Weighted Imitation Learning for Batched Historical Data"}
+{"title": "Online convex optimization for cumulative constraints"}
+{"title": "Transfer of Value Functions via Variational Methods"}
+{"title": "Tangent: Automatic differentiation using source-code transformation for dynamically typed array programming"}
+{"title": "Navigating with Graph Representations for Fast and Scalable Decoding of Neural Language Models"}
+{"title": "Deep Structured Prediction with Nonlinear Output Transformations"}
+{"title": "Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning"}
+{"title": "MacNet: Transferring Knowledge from Machine Comprehension to Sequence-to-Sequence Models"}
+{"title": "Recurrent Transformer Networks for Semantic Correspondence"}
+{"title": "Learning towards Minimum Hyperspherical Energy"}
+{"title": "Graphical Generative Adversarial Networks"}
+{"title": "Predict Responsibly: Improving Fairness and Accuracy by Learning to Defer"}
+{"title": "Automating Bayesian optimization with Bayesian optimization"}
+{"title": "Information Constraints on Auto-Encoding Variational Bayes"}
+{"title": "Approximation algorithms for stochastic clustering"}
+{"title": "Exact natural gradient in deep linear networks and its application to the nonlinear case"}
+{"title": "Memory Replay GANs: Learning to Generate New Categories without Forgetting"}
+{"title": "Constructing Fast Network through Deconstruction of Convolution"}
+{"title": "Learning to Infer Graphics Programs from Hand-Drawn Images"}
+{"title": "Gamma-Poisson Dynamic Matrix Factorization Embedded with Metadata Influence"}
+{"title": "Evolutionary Stochastic Gradient Descent for Optimization of Deep Neural Networks"}
+{"title": "Dirichlet-based Gaussian Processes for Large-scale Calibrated Classification"}
+{"title": "Variational Learning on Aggregate Outputs with Gaussian Processes"}
+{"title": "Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks"}
+{"title": "Deep Generative Models for Distribution-Preserving Lossy Compression"}
+{"title": "Masking: A New Perspective of Noisy Supervision"}
+{"title": "Neural Interaction Transparency (NIT): Disentangling Learned Interactions for Improved Interpretability"}
+{"title": "Dual Swap Disentangling"}
+{"title": "The Convergence of Sparsified Gradient Methods"}
+{"title": "On GANs and GMMs"}
+{"title": "Unsupervised Video Object Segmentation for Deep Reinforcement Learning"}
+{"title": "A Bayes-Sard Cubature Method"}
+{"title": "Computing Kantorovich-Wasserstein Distances on $d$-dimensional histograms using $(d+1)$-partite graphs"}
+{"title": "Adversarially Robust Optimization with Gaussian Processes"}
+{"title": "Diverse Ensemble Evolution: Curriculum Data-Model Marriage"}
+{"title": "Variational Inference with Tail-adaptive f-Divergence"}
+{"title": "CapProNet: Deep Feature Learning via Orthogonal Projections onto Capsule Subspaces"}
+{"title": "Learning to Multitask"}
+{"title": "Practical Deep Stereo (PDS): Toward applications-friendly deep stereo matching"}
+{"title": "Critical initialisation for deep signal propagation in noisy rectifier neural networks"}
+{"title": "Insights on representational similarity in neural networks with canonical correlation"}
+{"title": "Learning convex polytopes with margin"}
+{"title": "Online Improper Learning with an Approximation Oracle"}
+{"title": "Differential Properties of Sinkhorn Approximation for Learning with Wasserstein Distance"}
+{"title": "Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity"}
+{"title": "On Fast Leverage Score Sampling and Optimal Learning"}
+{"title": "Manifold Structured Prediction"}
+{"title": "Contextual Pricing for Lipschitz Buyers"}
+{"title": "Bandit Learning in Concave N-Person Games"}
+{"title": "Efficient inference for time-varying behavior during learning"}
+{"title": "How Much Restricted Isometry is Needed In Nonconvex Matrix Recovery?"}
+{"title": "Learning Others' Intentional Models in Multi-Agent Settings Using Interactive POMDPs"}
+{"title": "Occam's razor is insufficient to infer the preferences of irrational agents"}
+{"title": "A Simple Proximal Stochastic Gradient Method for Nonsmooth Nonconvex Optimization"}
+{"title": "Community Exploration: From Offline Optimization to Online Learning"}
+{"title": "Estimating Learnability in the Sublinear Data Regime"}
+{"title": "Middle-Out Decoding"}
+{"title": "Low-rank Interaction with Sparse Additive Effects Model for Large Data Frames"}
+{"title": "Reparameterization Gradient for Non-differentiable Models"}
+{"title": "Sample Efficient Stochastic Gradient Iterative Hard Thresholding Method for Stochastic Sparse Linear Regression with Limited Attribute Observation"}
+{"title": "Learning Concave Conditional Likelihood Models for Improved Analysis of Tandem Mass Spectra"}
+{"title": "Differentially Private k-Means with Constant Multiplicative Error"}
+{"title": "Inference Aided Reinforcement Learning for Incentive Mechanism Design in Crowdsourcing"}
+{"title": "Learning a latent manifold of odor representations from neural responses in piriform cortex"}
+{"title": "Multimodal Generative Models for Scalable Weakly-Supervised Learning"}
+{"title": "First-order Stochastic Algorithms for Escaping From Saddle Points in Almost Linear Time"}
+{"title": "Hyperbolic Neural Networks"}
+{"title": "A Convex Duality Framework for GANs"}
+{"title": "Fully Understanding The Hashing Trick"}
+{"title": "Learning Task Specifications from Demonstrations"}
+{"title": "A Dual Framework for Low-rank Tensor Completion"}
+{"title": "Link Prediction Based on Graph Neural Networks"}
+{"title": "Experimental Design for Cost-Aware Learning of Causal Graphs"}
+{"title": "Why so gloomy? A Bayesian explanation of human pessimism bias in the multi-armed bandit task"}
+{"title": "Scalable methods for 8-bit training of neural networks"}
+{"title": "The Spectrum of the Fisher Information Matrix of a Single-Hidden-Layer Neural Network"}
+{"title": "Breaking the Curse of Horizon: Infinite-Horizon Off-Policy Estimation"}
+{"title": "Algorithmic Assurance: An Active Approach to Algorithmic Testing using Bayesian Optimisation"}
+{"title": "Learning in Games with Lossy Feedback"}
+{"title": "Generalizing to Unseen Domains via Adversarial Data Augmentation"}
+{"title": "Meta-Reinforcement Learning of Structured Exploration Strategies"}
+{"title": "Causal Inference and Mechanism Clustering of A Mixture of Additive Noise Models"}
+{"title": "Unsupervised Adversarial Invariance"}
+{"title": "Content preserving text generation with attribute controls"}
+{"title": "Horizon-Independent Minimax Linear Regression"}
+{"title": "Power-law efficient neural codes provide general link between perceptual bias and discriminability"}
+{"title": "ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions"}
+{"title": "Policy Optimization via Importance Sampling"}
+{"title": "Multi-armed Bandits with Compensation"}
+{"title": "Contour location via entropy reduction leveraging multiple information sources"}
+{"title": "Near-Optimal Time and Sample Complexities for Solving Markov Decision Processes with a Generative Model"}
+{"title": "Practical exact algorithm for trembling-hand equilibrium refinements in games"}
+{"title": "Neural Edit Operations for Biological Sequences"}
+{"title": "LAG: Lazily Aggregated Gradient for Communication-Efficient Distributed Learning"}
+{"title": "Semi-supervised Deep Kernel Learning: Regression with Unlabeled Data by Minimizing Predictive Variance"}
+{"title": "Supervising Unsupervised Learning"}
+{"title": "Nonparametric Bayesian Lomax delegate racing for survival analysis with competing risks"}
+{"title": "GradiVeQ: Vector Quantization for Bandwidth-Efficient Gradient Aggregation in Distributed CNN Training"}
+{"title": "Multiple-Step Greedy Policies in Approximate and Online Reinforcement Learning"}
+{"title": "Exploiting Numerical Sparsity for Efficient Learning : Faster Eigenvector Computation and Regression"}
+{"title": "Task-Driven Convolutional Recurrent Models of the Visual System"}
+{"title": "Dropping Symmetry for Fast Symmetric Nonnegative Matrix Factorization"}
+{"title": "Efficient Neural Network Robustness Certification with General Activation Functions"}
+{"title": "Interpreting Neural Network Judgments via Minimal, Stable, and Symbolic Corrections"}
+{"title": "Evolved Policy Gradients"}
+{"title": "Learning from Group Comparisons: Exploiting Higher Order Interactions"}
+{"title": "Hessian-based Analysis of Large Batch Training and Robustness to Adversaries"}
+{"title": "Bandit Learning with Positive Externalities"}
+{"title": "Adversarially Robust Generalization Requires More Data "}
+{"title": "Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents"}
+{"title": "Learning Confidence Sets using Support Vector Machines"}
+{"title": "Geometry-Aware Recurrent Neural Networks for Active Visual Recognition"}
+{"title": "On the Local Minima of the Empirical Risk"}
+{"title": "Objective and efficient inference for couplings in neuronal networks"}
+{"title": "Non-Ergodic Alternating Proximal  Augmented Lagrangian Algorithms with Optimal Rates"}
+{"title": "Measures of distortion for machine learning"}
+{"title": "Is Q-Learning Provably Efficient?"}
+{"title": "Densely Connected Attention Propagation for Reading Comprehension"}
+{"title": "Porcupine Neural Networks: Approximating Neural Network Landscapes"}
+{"title": "Adaptive Negative Curvature Descent with Applications in Non-convex Optimization"}
+{"title": "Context-dependent upper-confidence bounds for directed exploration"}
+{"title": "Fast greedy algorithms for dictionary selection with generalized sparsity constraints"}
+{"title": "Hierarchical Graph Representation Learning with Differentiable Pooling"}
+{"title": "A Unified View of Piecewise Linear Neural Network Verification"}
+{"title": "Information-based Adaptive Stimulus Selection to Optimize Communication Efficiency in Brain-Computer Interfaces"}
+{"title": "Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models"}
+{"title": "A Smoother Way to Train Structured Prediction Models"}
+{"title": "Recurrently Controlled Recurrent Networks"}
+{"title": "Negotiable Reinforcement Learning for Pareto Optimal Sequential Decision-Making"}
+{"title": "Boolean Decision Rules via Column Generation"}
+{"title": "Spectral Filtering for General Linear Dynamical Systems"}
+{"title": "On Learning Intrinsic Rewards for Policy Gradient Methods"}
+{"title": "Learning filter widths of spectral decompositions with wavelets"}
+{"title": "Byzantine Stochastic Gradient Descent"}
+{"title": "Importance Weighting and Variational Inference"}
+{"title": "Exponentiated Strongly Rayleigh Distributions"}
+{"title": "Sparsified SGD with Memory"}
+{"title": "A Mathematical Model For Optimal Decisions In A Representative Democracy "}
+{"title": "Amortized Inference Regularization"}
+{"title": "Adaptive Sampling Towards Fast Graph Representation Learning"}
+{"title": "Semi-Supervised Learning with Declaratively Specified Entropy Constraints"}
+{"title": "Adversarial Text Generation via Feature-Mover's Distance"}
+{"title": "Learning Bounds for Greedy Approximation with Explicit Feature Maps from Multiple Kernels"}
+{"title": "MiME: Multilevel Medical Embedding of Electronic Health Records for Predictive Healthcare"}
+{"title": "Active Matting"}
+{"title": "Limited Memory Kelley's Method Converges for Composite Convex and Submodular Objectives"}
+{"title": "COLA: Decentralized Linear Learning"}
+{"title": "Maximum Causal Tsallis Entropy Imitation Learning"}
+{"title": "Third-order Smoothness Helps: Faster Stochastic Optimization Algorithms for Finding Local Minima"}
+{"title": "Expanding Holographic Embeddings for Knowledge Completion"}
+{"title": "Submodular Field Grammars: Representation, Inference, and Application to Image Parsing"}
+{"title": "Inexact trust-region algorithms on Riemannian manifolds"}
+{"title": "An Information-Theoretic Analysis for Thompson Sampling with Many Actions"}
+{"title": "Optimization of Smooth Functions with Noisy Observations: Local Minimax Rates"}
+{"title": "The Physical Systems Behind Optimization Algorithms"}
+{"title": "Binary Rating Estimation with Graph Side Information"}
+{"title": "Completing State Representations using Spectral Learning"}
+{"title": "Flexible and accurate inference and learning for deep generative models"}
+{"title": "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis"}
+{"title": "Adding One Neuron Can Eliminate All Bad Local Minima"}
+{"title": "Differentially Private Uniformly Most Powerful Tests for Binomial Data"}
+{"title": "Cooperative neural networks (CoNN): Exploiting prior independence structure for improved classification"}
+{"title": "Differentially Private Contextual Linear Bandits"}
+{"title": "Mean-field theory of graph neural networks in graph partitioning"}
+{"title": "Can We Gain More from Orthogonality Regularizations in Training Deep Networks?"}
+{"title": "Scalable Coordinated Exploration in Concurrent Reinforcement Learning"}
+{"title": "End-to-end Symmetry Preserving Inter-atomic Potential Energy Model for Finite and Extended Systems"}
+{"title": "SimplE Embedding for Link Prediction in Knowledge Graphs"}
+{"title": "The streaming rollout of deep networks - towards fully model-parallel execution"}
+{"title": "Beauty-in-averageness and its contextual modulations: A Bayesian statistical account"}
+{"title": "Differentially Private Robust Low-Rank Approximation"}
+{"title": "Efficient Projection onto the Perfect Phylogeny Model"}
+{"title": "A Bridging Framework for Model Optimization and Deep Propagation"}
+{"title": "Integrated accounts of behavioral and neuroimaging data using flexible recurrent neural network models"}
+{"title": "GumBolt: Extending Gumbel trick to Boltzmann priors"}
+{"title": "Bilevel Distance Metric Learning for Robust Image Recognition"}
+{"title": "Faster Neural Networks Straight from JPEG"}
+{"title": "BML: A High-performance, Low-cost Gradient Synchronization Algorithm for DML Training"}
+{"title": "Deep Generative Markov State Models"}
+{"title": "Unsupervised Learning of Object Landmarks through Conditional Image Generation"}
+{"title": "Regret Bounds for Robust Adaptive Control of the Linear Quadratic Regulator"}
+{"title": "Solving Non-smooth Constrained Programs with Lower Complexity than $\\mathcal{O}(1/\\varepsilon)$: A Primal-Dual Homotopy Smoothing Approach"}
+{"title": "Distributed Weight Consolidation: A Brain Segmentation Case Study"}
+{"title": "Heterogeneous Bitwidth Binarization in Convolutional Neural Networks"}
+{"title": "Neural Networks Trained to Solve Differential Equations Learn General Representations"}
+{"title": "KONG: Kernels for ordered-neighborhood graphs"}
+{"title": "TopRank: A practical algorithm for online stochastic ranking"}
+{"title": "Early Stopping for Nonparametric Testing "}
+{"title": "Learning sparse neural networks via sensitivity-driven regularization"}
+{"title": "Learning from discriminative feature feedback"}
+{"title": "Adversarial Examples that Fool both Computer Vision and Time-Limited Humans"}
+{"title": "Stochastic Nested Variance Reduced Gradient Descent for Nonconvex Optimization"}
+{"title": "Bipartite Stochastic Block Models with Tiny Clusters"}
+{"title": "Leveraging the Exact Likelihood of Deep Latent Variable Models"}
+{"title": "Sublinear Time Low-Rank Approximation of Distance Matrices"}
+{"title": "Minimax Estimation of Neural Net Distance"}
+{"title": "Lipschitz regularity of deep neural networks: analysis and efficient estimation"}
+{"title": "Direct Runge-Kutta Discretization Achieves Acceleration"}
+{"title": "NEON2: Finding Local Minima via First-Order Oracles"}
+{"title": "Zeroth-Order Stochastic Variance Reduction for Nonconvex Optimization"}
+{"title": "Online Structured Laplace Approximations for Overcoming Catastrophic Forgetting"}
+{"title": "Convergence of Cubic Regularization for Nonconvex Optimization under KL Property"}
+{"title": "Variational PDEs for Acceleration on Manifolds and Application to Diffeomorphisms"}
+{"title": "Equality of Opportunity in Classification: A Causal Approach"}
+{"title": "DeepProbLog:  Neural Probabilistic Logic Programming"}
+{"title": "Direct Estimation of Differences in Causal Graphs"}
+{"title": "Inferring Networks From Random Walk-Based Node Similarities"}
+{"title": "Data center cooling using model-predictive control"}
+{"title": "Adversarial Attacks on Stochastic Bandits"}
+{"title": "BinGAN: Learning Compact Binary Descriptors with a Regularized GAN"}
+{"title": "Escaping Saddle Points in Constrained Optimization"}
+{"title": "Tight Bounds for Collaborative PAC Learning via Multiplicative Weights"}
+{"title": "Towards Understanding Acceleration Tradeoff between Momentum and Asynchrony in Nonconvex Stochastic Optimization"}
+{"title": "Bayesian Inference of Temporal Task Specifications from Demonstrations"}
+{"title": "A Bandit Approach to Sequential Experimental Design with False Discovery Control"}
+{"title": "Unsupervised Attention-guided Image-to-Image Translation"}
+{"title": "Neural Code Comprehension: A Learnable Representation of Code Semantics"}
+{"title": "Optimal Subsampling with Influence Functions"}
+{"title": "Infinite-Horizon Gaussian Processes"}
+{"title": "Communication Efficient Parallel Algorithms for Optimization on Manifolds"}
+{"title": "Multiplicative Weights Updates with Constant Step-Size in Graphical Constant-Sum Games"}
+{"title": "Hybrid-MST: A Hybrid Active Sampling Strategy for Pairwise Preference Aggregation"}
+{"title": "Dimensionality Reduction for Stationary Time Series via Stochastic Nonconvex Optimization"}
+{"title": "Scaling the Poisson GLM to massive neural datasets through polynomial approximations"}
+{"title": "Why Is My Classifier Discriminatory?"}
+{"title": "Actor-Critic Policy Optimization in Partially Observable Multiagent Environments"}
+{"title": "Multi-Layered Gradient Boosting Decision Trees"}
+{"title": "Zeroth-order (Non)-Convex Stochastic Optimization via Conditional Gradient and Gradient Updates"}
+{"title": "Sequence-to-Segment Networks for Segment Detection"}
+{"title": "Derivative Estimation in Random Design"}
+{"title": "Boosting Black Box Variational Inference"}
+{"title": "Latent Gaussian Activity Propagation: Using Smoothness and Structure to Separate and Localize Sounds in Large Noisy Environments"}
+{"title": "Recurrent Relational Networks"}
+{"title": "Multivariate Convolutional Sparse Coding for Electromagnetic Brain Signals"}
+{"title": "Step Size Matters in Deep Learning"}
+{"title": "Modern Neural Networks Generalize on Small Data Sets"}
+{"title": "Stochastic Spectral and Conjugate Descent Methods"}
+{"title": "Learning Gaussian Processes by Minimizing PAC-Bayesian Generalization Bounds"}
+{"title": "Nearly tight sample complexity bounds for learning mixtures of Gaussians via sample compression schemes"}
+{"title": "Data-Efficient Hierarchical Reinforcement Learning"}
+{"title": "Inequity aversion improves cooperation in intertemporal social dilemmas"}
+{"title": "Deep, complex, invertible  networks for inversion of transmission effects in multimode optical fibres"}
+{"title": "Realistic Evaluation of Deep Semi-Supervised Learning Algorithms"}
+{"title": "Learning to Optimize Tensor Programs"}
+{"title": "But How Does It Work in Theory? Linear SVM with Random Features"}
+{"title": "Probabilistic Matrix Factorization for Automated Machine Learning"}
+{"title": "Training deep learning based denoisers without ground truth data"}
+{"title": "Re-evaluating evaluation"}
+{"title": "Learning latent variable structured prediction models with Gaussian perturbations"}
+{"title": "Contextual Combinatorial Multi-armed Bandits with Volatile Arms and Submodular Reward"}
+{"title": "Parsimonious Bayesian deep networks"}
+{"title": "Evidential Deep Learning to Quantify Classification Uncertainty"}
+{"title": "Speaker-Follower Models for Vision-and-Language Navigation"}
+{"title": "Asymptotic optimality of adaptive importance sampling"}
+{"title": "Single-Agent Policy Tree Search With Guarantees"}
+{"title": "Deep Reinforcement Learning of Marked Temporal Point Processes"}
+{"title": "On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport"}
+{"title": "Practical Methods for Graph Two-Sample Testing"}
+{"title": "The committee machine: Computational to statistical gaps in learning a two-layers neural network"}
+{"title": "Adaptation to Easy Data in Prediction with Limited Advice"}
+{"title": "The Nearest Neighbor Information Estimator is Adaptively Near Minimax Rate-Optimal"}
+{"title": "Semi-crowdsourced Clustering with Deep Generative Models"}
+{"title": "Q-learning with Nearest Neighbors"}
+{"title": "Near-Optimal Policies for Dynamic Multinomial Logit Assortment Selection Models"}
+{"title": "Global Convergence of Langevin Dynamics Based Algorithms for Nonconvex Optimization"}
+{"title": "Differentially Private Bayesian Inference for Exponential Families"}
+{"title": "Faithful Inversion of Generative Models for Effective Amortized Inference"}
+{"title": "From Stochastic Planning to Marginal MAP"}
+{"title": "Optimization over Continuous and Multi-dimensional Decisions with Observational Data"}
+{"title": "Continuous-time Value Function Approximation in Reproducing Kernel Hilbert Spaces"}
+{"title": "NAIS-Net: Stable Deep Networks from Non-Autonomous  Differential Equations"}
+{"title": "When do random forests fail?"}
+{"title": "Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base"}
+{"title": "Constructing Deep Neural Networks by Bayesian Network Structure Learning"}
+{"title": "Fast Estimation of Causal Interactions using Wold Processes"}
+{"title": "Empirical Risk Minimization Under Fairness Constraints"}
+{"title": "Optimistic optimization of a Brownian"}
+{"title": "Learning a High Fidelity Pose Invariant Model for High-resolution Face Frontalization"}
+{"title": "Mirrored Langevin Dynamics"}
+{"title": "Playing hard exploration games by watching YouTube"}
+{"title": "Weakly Supervised Dense Event Captioning in Videos"}
+{"title": "Factored Bandits"}
+{"title": "Gradient Descent Meets Shift-and-Invert Preconditioning for Eigenvector Computation"}
+{"title": "Norm-Ranging LSH for Maximum Inner Product Search"}
+{"title": "Analytic solution and stationary phase approximation for the Bayesian lasso and elastic net"}
+{"title": "Computing Higher Order Derivatives of Matrix and Tensor Expressions"}
+{"title": "Safe Active Learning for Time-Series Modeling with Gaussian Processes"}
+{"title": "Contextual bandits with surrogate losses: Margin bounds and efficient algorithms"}
+{"title": "Demystifying excessively volatile human learning: A Bayesian persistent prior and a neural approximation"}
+{"title": "Metric on Nonlinear Dynamical Systems with Perron-Frobenius Operators"}
+{"title": "Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering"}
+{"title": "Natasha 2: Faster Non-Convex Optimization Than SGD"}
+{"title": "Near Optimal Exploration-Exploitation in Non-Communicating Markov Decision Processes"}
+{"title": "Paraphrasing Complex Network: Network Compression via Factor Transfer"}
+{"title": "Optimal Algorithms for Non-Smooth Distributed Optimization in Networks"}
+{"title": "Processing of missing data by neural networks"}
+{"title": "Delta-encoder: an effective sample synthesis method for few-shot object recognition"}
+{"title": "A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication"}
+{"title": "Batch-Instance Normalization for Adaptively Style-Invariant Neural Networks"}
+{"title": "Minimax Statistical Learning with Wasserstein distances"}
+{"title": "Causal Discovery from Discrete Data using Hidden Compact Representation"}
+{"title": "Online Learning with an Unknown Fairness Metric"}
+{"title": "Learning Hierarchical Semantic Image Manipulation through Structured Representations"}
+{"title": "Structural Causal Bandits: Where to Intervene?"}
+{"title": "Answerer in Questioner's Mind: Information Theoretic Approach to Goal-Oriented Visual Dialog"}
+{"title": "Isolating Sources of Disentanglement in Variational Autoencoders"}
+{"title": "Representation Balancing MDPs for Off-policy Policy Evaluation"}
+{"title": "A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation"}
+{"title": "Provable Variational Inference for Constrained Log-Submodular Models"}
+{"title": "Representation Learning for Treatment Effect Estimation from Observational Data"}
+{"title": "Ridge Regression and Provable Deterministic Ridge Leverage Score Sampling"}
+{"title": "Tree-to-tree Neural Networks for Program Translation"}
+{"title": "Wasserstein Variational Inference"}
+{"title": "How Does Batch Normalization Help Optimization?"}
+{"title": "Verifiable Reinforcement Learning via Policy Extraction"}
+{"title": "Query Complexity of Bayesian Private Learning"}
+{"title": "Meta-Gradient Reinforcement Learning"}
+{"title": "Recurrent World Models Facilitate Policy Evolution"}
+{"title": "Model Agnostic Supervised Local Explanations"}
+{"title": "A theory on the absence of spurious solutions for nonconvex and nonsmooth optimization"}
+{"title": "Learning to Navigate in Cities Without a Map"}
+{"title": "Gaussian Process Conditional Density Estimation"}
+{"title": "Local Differential Privacy for Evolving Data"}
+{"title": "Non-monotone Submodular Maximization in Exponentially Fewer Iterations"}
+{"title": "MetaGAN: An Adversarial Approach to Few-Shot Learning"}
+{"title": "Modelling sparsity, heterogeneity, reciprocity and community structure in temporal interaction data"}
+{"title": "GIANT: Globally Improved Approximate Newton Method for Distributed Optimization"}
+{"title": "Structured Local Minima in Sparse Blind Deconvolution"}
+{"title": "Breaking the Span Assumption Yields Fast Finite-Sum Minimization"}
+{"title": "Overfitting or perfect fitting? Risk bounds for classification and regression rules that interpolate"}
+{"title": "BourGAN: Generative Networks with Metric Embeddings"}
+{"title": "Zero-Shot Transfer with Deictic Object-Oriented Representation in Reinforcement Learning"}
+{"title": "Revisiting Decomposable Submodular Function Minimization with Incidence Relations"}
+{"title": "Learning to Reconstruct Shapes from Unseen Classes"}
+{"title": "Algorithmic Linearly Constrained Gaussian Processes"}
+{"title": "Mixture Matrix Completion"}
+{"title": "Smoothed analysis of the low-rank approach for smooth semidefinite programs"}
+{"title": "One-Shot Unsupervised Cross Domain Translation"}
+{"title": "Overlapping Clustering Models, and One (class) SVM to Bind Them All"}
+{"title": "MULAN: A Blind and Off-Grid Method for Multichannel Echo Retrieval"}
+{"title": "Regularizing by the Variance of the Activations' Sample-Variances"}
+{"title": "DeepExposure: Learning to Expose Photos with Asynchronously Reinforced Adversarial Learning"}
+{"title": "SplineNets: Continuous Neural Decision Graphs"}
+{"title": "Trajectory Convolution for Action Recognition"}
+{"title": "Norm matters: efficient and accurate normalization schemes in deep networks"}
+{"title": "Learning Optimal Reserve Price against Non-myopic Bidders"}
+{"title": "Dual Principal Component Pursuit: Improved Analysis and Efficient Algorithms"}
+{"title": "The Description Length of Deep Learning models"}
+{"title": "Collaborative Learning for Deep Neural Networks"}
+{"title": "Discovery of Latent 3D Keypoints via End-to-end Geometric Reasoning"}
+{"title": "Automatic Program Synthesis of Long Programs with a Learned Garbage Collector"}
+{"title": "Generalized Zero-Shot Learning with Deep Calibration Network"}
+{"title": "Universal Growth in Production Economies"}
+{"title": "Nonparametric learning from Bayesian models with randomized objective functions"}
+{"title": "Embedding Logical Queries on Knowledge Graphs"}
+{"title": "DVAE#: Discrete Variational Autoencoders with Relaxed Boltzmann Priors"}
+{"title": "SEGA: Variance Reduction via Gradient Sketching"}
+{"title": "Simple random search of static linear policies is competitive for reinforcement learning"}
+{"title": "A Smoothed Analysis of the Greedy Algorithm for the Linear Contextual Bandit Problem"}
+{"title": "Distributed Stochastic Optimization via Adaptive SGD"}
+{"title": "Enhancing the Accuracy and Fairness of Human Decision Making"}
+{"title": "Entropy and mutual information in models of deep neural networks"}
+{"title": "Deep Attentive Tracking via Reciprocative Learning"}
+{"title": "Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization"}
+{"title": "Bilinear Attention Networks"}
+{"title": "Pelee: A Real-Time Object Detection System on Mobile Devices"}
+{"title": "3D-Aware Scene Manipulation via Inverse Graphics"}
+{"title": "Accelerated Stochastic Matrix Inversion:  General Theory and  Speeding up BFGS Rules for Faster Second-Order Optimization"}
+{"title": "Partially-Supervised Image Captioning"}
+{"title": "Attention in Convolutional LSTM for Gesture Recognition"}
+{"title": "Neural Architecture Search with Bayesian Optimisation and Optimal Transport"}
+{"title": "Virtual Class Enhanced Discriminative Embedding Learning"}
+{"title": "Temporal Regularization for Markov Decision Process"}
+{"title": "DifNet: Semantic Segmentation by Diffusion Networks"}
+{"title": "Variational Memory Encoder-Decoder"}
+{"title": "Symbolic Graph Reasoning Meets Convolutions"}
+{"title": "The Pessimistic Limits and Possibilities of Margin-based Losses in Semi-supervised Learning"}
+{"title": "Efficient Stochastic Gradient Hard Thresholding"}
+{"title": "Parsimonious Quantile Regression of Financial Asset Tail Dynamics via Sequential Learning"}
+{"title": "Learning to Exploit Stability for 3D Scene Parsing"}
+{"title": "High Dimensional Linear Regression using Lattice Basis Reduction"}
+{"title": "Multi-Class Learning: From Theory to Algorithm"}
+{"title": "Foreground Clustering for Joint Segmentation and Localization in Videos and Images"}
+{"title": "PacGAN: The power of two samples in generative adversarial networks"}
+{"title": "Multivariate Time Series Imputation with Generative Adversarial Networks"}
+{"title": "Video Prediction via Selective Sampling"}
+{"title": "Fighting Boredom in Recommender Systems with Linear Reinforcement Learning"}
+{"title": "Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation"}
+{"title": "Relating Leverage Scores and Density using Regularized Christoffel Functions"}
+{"title": "A loss framework for calibrated anomaly detection"}
+{"title": "Distilled Wasserstein Learning for Word Embedding and Topic Modeling"}
+{"title": "Non-Local Recurrent Network for Image Restoration"}
+{"title": "Understanding the Role of Adaptivity in Machine Teaching: The Case of Version Space Learners"}
+{"title": "Genetic-Gated Networks for Deep Reinforcement Learning"}
+{"title": "Hybrid Knowledge Routed Modules for Large-scale Object Detection"}
+{"title": "Conditional Adversarial Domain Adaptation"}
+{"title": "Neural Guided Constraint Logic Programming for Program Synthesis"}
+{"title": "Learning Versatile Filters for Efficient Convolutional Neural Networks"}
+{"title": "Designing by Training: Acceleration Neural Network for Fast High-Dimensional Convolution"}
+{"title": "Gradient Descent for Spiking Neural Networks"}
+{"title": "Where Do You Think You're Going?: Inferring Beliefs about Dynamics from Behavior"}
+{"title": "On Oracle-Efficient PAC RL with Rich Observations"}
+{"title": "SLAYER: Spike Layer Error Reassignment in Time"}
+{"title": "Generalizing Tree Probability Estimation via Bayesian Networks"}
+{"title": "Joint Active Feature Acquisition and Classification with Variable-Size Set Encoding"}
+{"title": "Geometry Based Data Generation"}
+{"title": "Found Graph Data and Planted Vertex Covers"}
+{"title": "Adaptive Online Learning in Dynamic Environments"}
+{"title": "Generative Neural Machine Translation"}
+{"title": "Multitask Boosting for Survival Analysis with Competing Risks"}
+{"title": "Toddler-Inspired Visual Object Learning"}
+{"title": "Alternating optimization of decision trees, with application to learning sparse oblique trees"}
+{"title": "Unsupervised Learning of View-invariant Action Representations"}
+{"title": "Interactive Structure Learning with Structural Query-by-Committee"}
+{"title": "Evolution-Guided Policy Gradient in Reinforcement Learning"}
+{"title": "Revisiting Multi-Task Learning with ROCK: a Deep Residual Auxiliary Block for Visual Detection"}
+{"title": "Efficient nonmyopic batch active search"}
+{"title": "How To Make the Gradients Small Stochastically: Even Faster Convex and Nonconvex SGD"}
+{"title": "FRAGE: Frequency-Agnostic Word Representation"}
+{"title": " Image-to-image translation for cross-domain disentanglement"}
+{"title": "Boosted Sparse and Low-Rank Tensor Regression"}
+{"title": "The Lingering of Gradients: How to Reuse Gradients Over Time"}
+{"title": "$\\ell_1$-regression with Heavy-tailed Distributions"}
+{"title": "Global Geometry of Multichannel Sparse Blind Deconvolution on the Sphere"}
+{"title": "A Game-Theoretic Approach to Recommendation Systems with Strategic Content Providers"}
+{"title": "Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding"}
+{"title": "Fairness Behind a Veil of Ignorance: A Welfare Analysis for Automated Decision Making"}
+{"title": "Quadratic Decomposable Submodular Function Minimization"}
+{"title": "A Block Coordinate Ascent Algorithm for Mean-Variance Optimization"}
+{"title": "FD-GAN: Pose-guided Feature Distilling GAN for Robust Person Re-identification"}
+{"title": "Empirical Risk Minimization in Non-interactive Local Differential Privacy Revisited"}
+{"title": "New Insight into Hybrid Stochastic Gradient Descent: Beyond With-Replacement Sampling and Convexity"}
+{"title": "Reinforced Continual Learning"}
+{"title": "Learning semantic similarity in a continuous space"}
+{"title": "Global Gated Mixture of Second-order Pooling for Improving Deep Convolutional Neural Networks"}
+{"title": "MetaReg: Towards Domain Generalization using Meta-Regularization"}
+{"title": "A Deep Bayesian Policy Reuse Approach Against Non-Stationary Agents"}
+{"title": "Domain-Invariant Projection Learning for Zero-Shot Recognition"}
+{"title": "Video-to-Video Synthesis"}
+{"title": "Frequency-Domain Dynamic Pruning for Convolutional Neural Networks"}
+{"title": "Large Margin Deep Networks for Classification"}
+{"title": "On the Dimensionality of Word Embedding"}
+{"title": "Solving Large Sequential Games with the Excessive Gap Technique"}
+{"title": "Are GANs Created Equal? A Large-Scale Study"}
+{"title": "DropMax: Adaptive Variational Softmax"}
+{"title": "Low-shot Learning via Covariance-Preserving Adversarial Augmentation Networks"}
+{"title": "Connectionist Temporal Classification with Maximum Entropy Regularization"}
+{"title": "KDGAN: Knowledge Distillation with Generative Adversarial Networks"}
+{"title": "Visual Memory for Robust Path Following"}
+{"title": "Uncertainty-Aware Attention for Reliable Interpretation and Prediction"}
+{"title": "Posterior Concentration for Sparse Deep Learning"}
+{"title": "PointCNN: Convolution On X-Transformed Points"}
+{"title": "Greedy Hash: Towards Fast Optimization for Accurate Hash Coding in CNN"}
+{"title": "Do Less, Get More: Streaming Submodular Maximization with Subsampling"}
+{"title": "A flexible model for training action localization with varying levels of supervision"}
+{"title": "Deep Neural Nets with Interpolating Function as Output Activation"}
+{"title": "Long short-term memory and Learning-to-learn in networks of spiking neurons"}
+{"title": "SPIDER: Near-Optimal Non-Convex Optimization via Stochastic Path-Integrated Differential Estimator"}
+{"title": "TADAM: Task dependent adaptive metric for improved few-shot learning"}
+{"title": "Generalizing Graph Matching beyond Quadratic Assignment Model"}
+{"title": "Discrimination-aware Channel Pruning for Deep Neural Networks"}
+{"title": "A Neural Compositional Paradigm for Image Captioning"}
+{"title": "Learning Disentangled Joint Continuous and Discrete Representations"}
+{"title": "FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction"}
+{"title": "Informative Features for Model Comparison"}
+{"title": "A Unified Framework for Extensive-Form Game Abstraction with Bounds"}
+{"title": "Quantifying Learning Guarantees for Convex but Inconsistent Surrogates"}
+{"title": "Removing the Feature Correlation Effect of Multiplicative Noise"}
+{"title": "Which Neural Net Architectures Give Rise to Exploding and Vanishing Gradients?"}
+{"title": "Dialog-based Interactive Image Retrieval"}
+{"title": "Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives"}
+{"title": "HitNet: Hybrid Ternary Recurrent Neural Network"}
+{"title": "How to Start Training: The Effect of Initialization and Architecture"}
+{"title": "LinkNet: Relational Embedding for Scene Graph"}
+{"title": "Self-Erasing Network for Integral Object Attention"}
+{"title": "Multi-Task Learning as Multi-Objective Optimization"}
+{"title": "A Model for Learned Bloom Filters and Optimizing by Sandwiching"}
+{"title": "Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search"}
+{"title": "Nonlocal Neural Networks, Nonlocal Diffusion and Nonlocal Modeling"}
+{"title": "On Misinformation Containment in Online Social Networks"}
+{"title": "(Probably) Concave Graph Matching"}
+{"title": "Implicit Reparameterization Gradients"}
+{"title": "Rest-Katyusha: Exploiting the Solution's Structure via Scheduled Restart Schemes"}
+{"title": "PAC-learning in the presence of adversaries"}
+{"title": "Soft-Gated Warping-GAN for Pose-Guided Person Image Synthesis"}
+{"title": "Deep Functional Dictionaries: Learning Consistent Semantic Structures on 3D Models from Functions"}
+{"title": "Learning Deep Disentangled Embeddings With the F-Statistic Loss"}
+{"title": "Algorithmic Regularization in Learning Deep Homogeneous Models: Layers are Automatically Balanced"}
+{"title": "Learning to Decompose and Disentangle Representations for Video Prediction"}
+{"title": "Chain of Reasoning for Visual Question Answering"}
+{"title": "Sparse DNNs with Improved Adversarial Robustness"}
+{"title": "Optimization for Approximate Submodularity"}
+{"title": "An Efficient Pruning Algorithm for Robust Isotonic Regression"}
+{"title": "Cooperative Holistic Scene Understanding: Unifying 3D Object, Layout, and Camera Pose Estimation"}
+{"title": "Self-Supervised Generation of Spatial Audio for 360\u00b0 Video"}
+{"title": "Training DNNs with Hybrid Block Floating Point"}
+{"title": "Deep Defense: Training DNNs with Improved Adversarial Robustness"}
+{"title": "Snap ML: A Hierarchical Framework for Machine Learning"}
+{"title": "Bayesian Pose Graph Optimization via Bingham Distributions and Tempered Geodesic MCMC"}
+{"title": "Sigsoftmax: Reanalysis of the Softmax Bottleneck"}
+{"title": "Understanding Weight Normalized Deep Neural Networks with Rectified Linear Units"}
+{"title": "A^2-Nets: Double Attention Networks"}
+{"title": "Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation"}
+{"title": "How Many Samples are Needed to Estimate a Convolutional Neural Network?"}
+{"title": "Fast Similarity Search via Optimal Sparse Lifting"}
+{"title": "Supervised autoencoders: Improving generalization performance with unsupervised regularizers"}
+{"title": "Geometrically Coupled Monte Carlo Sampling"}
+{"title": "Generalized Inverse Optimization through Online Learning"}
+{"title": "Image Inpainting via Generative Multi-column Convolutional Neural Networks"}
+{"title": "Learning Pipelines with Limited Data and Domain Knowledge: A Study in Parsing Physics Problems"}
+{"title": "Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning"}
+{"title": "MetaAnchor: Learning to Detect Objects with Customized Anchors"}
+{"title": "Joint Sub-bands Learning with Clique Structures for Wavelet Domain Super-Resolution"}
+{"title": "Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language"}
+{"title": "HOGWILD!-Gibbs can be PanAccurate"}
+{"title": "IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis"}
+{"title": "An Off-policy Policy Gradient Theorem Using Emphatic Weightings"}
+{"title": "See and Think: Disentangling Semantic Scene Completion"}
+{"title": "Visual Object Networks: Image Generation with Disentangled 3D Representations"}
+{"title": "Efficient Algorithms for Non-convex Isotonic Regression through Submodular Optimization"}
+{"title": "Structure-Aware Convolutional Neural Networks"}
+{"title": "Doubly Robust Bayesian Inference for Non-Stationary Streaming Data with $\\beta$-Divergences"}
+{"title": "Learning long-range spatial dependencies with horizontal gated recurrent units"}
+{"title": "Kalman Normalization: Normalizing Internal Representations Across Network Layers"}
