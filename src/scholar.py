@@ -27,11 +27,8 @@ def search_paper_by_title(title, start=0, max_results=1) -> dict:
 
     for entry in root.findall("{http://www.w3.org/2005/Atom}entry"):
         paper = {
-            "title": entry.find("{http://www.w3.org/2005/Atom}title").text.replace("/n", "").strip(),
-            "summary": entry.find("{http://www.w3.org/2005/Atom}summary").text.replace("/n", "").strip(),
-            "authors": [author.find("{http://www.w3.org/2005/Atom}name").text.replace("/n", "").strip() for author in entry.findall("{http://www.w3.org/2005/Atom}author")],
-            "published": entry.find("{http://www.w3.org/2005/Atom}published").text.replace("/n", "").strip(),
-            "link": entry.find("{http://www.w3.org/2005/Atom}id").text.replace("/n", "").strip()
+            "title": entry.find("{http://www.w3.org/2005/Atom}title").text.replace("\n", "").strip(),
+            "link": entry.find("{http://www.w3.org/2005/Atom}id").text.replace("\n", "").strip()
         }
         return paper
 
