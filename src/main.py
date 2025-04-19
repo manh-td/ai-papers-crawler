@@ -26,11 +26,13 @@ def fetch_strategy_1(url:str) -> list:
     dom = etree.HTML(str(soup))
 
     papers = []
-    # for paper in tqdm(dom.xpath("//li/a"), desc=f"Processing {url}"):  # Adjust XPath based on the actual structure
-    for paper in dom.xpath("//li/a"):  # Adjust XPath based on the actual structure
+    for paper in tqdm(dom.xpath("//li/a"), desc=f"Processing {url}"):  # Adjust XPath based on the actual structure
         title = paper.xpath("text()")[0]
         logging.debug(f"Processing paper: {title}")
         arxiv_paper = search_paper_by_title(title)
+        if not arxiv_paper:
+            continue
+        assert title.lower() == arxiv_paper['title'].lower(), f"Title mismatch: {title} != {arxiv_paper[0]['title']}"
         papers.append(arxiv_paper)
 
         if len(papers) > 3:
@@ -56,8 +58,14 @@ def fetch_strategy_2(url:str) -> list:
     for paper in tqdm(dom.xpath("//p/strong"), desc=f"Processing {url}"):  # Adjust XPath based on the actual structure
         title = paper.xpath("text()")[0]
         arxiv_paper = search_paper_by_title(title)
-        assert title.lower() == arxiv_paper[0]['title'].lower(), f"Title mismatch: {title} != {arxiv_paper[0]['title']}"
+        if not arxiv_paper:
+            continue
+        if title.lower() != arxiv_paper['title'].lower():
+            logging.warning(f"Title mismatch: {title} != {arxiv_paper['title']}")
         papers.append(arxiv_paper)
+
+        if len(papers) > 3:
+            break
 
     return papers
 
