@@ -1,5 +1,6 @@
 import logging
 import os
+import json
 from .config import (
     LOGS_DIR,
     PRODUCT,
@@ -18,3 +19,14 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
+
+def write_jsonl(file_path, data):
+    """
+    Write a list of dictionaries to a JSONL file.
+
+    :param file_path: Path to the JSONL file.
+    :param data: List of dictionaries to write.
+    """
+    with open(file_path, 'w', encoding='utf-8') as f:
+        for record in data:
+            f.write(json.dumps(record) + '\n')
