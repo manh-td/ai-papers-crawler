@@ -23,7 +23,7 @@ jobs:
 
       - name: Execute script
         run: |
-          bash script/main.sh # Run the script
+          bash scripts/main.sh # Run the script
 
       - name: Configure Git
         run: |
