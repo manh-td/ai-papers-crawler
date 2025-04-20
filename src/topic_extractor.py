@@ -4,17 +4,18 @@ from transformers import (
     AutoTokenizer,
     set_seed,
 )
-from .utils import load_jsonl, write_jsonl
+from .utils import load_jsonl, write_json
 from .config import (
     ALL_PAPERS_DIR,
     OUTPUT_DIR
 )
+from tqdm import tqdm  # Import tqdm for progress tracking
 
 class KeyphraseGenerationPipeline(Text2TextGenerationPipeline):
     def __init__(self, model, keyphrase_sep_token=";", *args, **kwargs):
         super().__init__(
-            model=AutoModelForSeq2SeqLM.from_pretrained(model),
-            tokenizer=AutoTokenizer.from_pretrained(model),
+            model=AutoModelForSeq2SeqLM.from_pretrained(model, device_map="cuda:1"),
+            tokenizer=AutoTokenizer.from_pretrained(model, device_map="cuda:1"),
             *args,
             **kwargs
         )
@@ -33,39 +34,21 @@ set_seed(42)
 model_name = "ml6team/keyphrase-generation-keybart-inspec"
 generator = KeyphraseGenerationPipeline(model=model_name)
 
-def extract_topics(texts):
-    """
-    Extract topics from a set of input strings using the KeyBART model.
-
-    Args:
-        texts (set): A set of strings to extract topics from.
-
-    Returns:
-        list: A list of extracted topics.
-    """
-    topics = []
-    for text in texts:
-        # Generate keyphrases using the pipeline
-        outputs = generator(text)
-        topics.extend(outputs[0])  # Flatten the list of keyphrases
-    
-    return topics
-
 if __name__ == "__main__":
     papers = load_jsonl(ALL_PAPERS_DIR)
 
     titles = []
-    for paper in papers:
+    for paper in tqdm(papers, desc="Loading paper titles"):  # Add tqdm here
         title = paper["title"]
         titles.append(title)
 
-    keyphrases = generator(titles)
+    keyphrases = generator(titles)  # Add tqdm here
 
     # Create a dictionary to count the appearance of each topic
     topic_appearance = {}
-    for keyphrase_list in keyphrases:
+    for keyphrase_list in tqdm(keyphrases, desc="Counting topic appearances"):  # Add tqdm here
         for topic in keyphrase_list:
             topic_appearance[topic] = topic_appearance.get(topic, 0) + 1
 
     topic_appearance = dict(sorted(topic_appearance.items(), key=lambda item: item[1], reverse=True))
-    write_jsonl(f"{OUTPUT_DIR}/topics.jsonl", topic_appearance)
+    write_json(f"{OUTPUT_DIR}/topics.jsonl", topic_appearance)

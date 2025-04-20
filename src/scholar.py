@@ -3,6 +3,7 @@ import xml.etree.ElementTree as ET
 from .utils import logging, load_jsonl, write_jsonl
 import time
 import json
+from tqdm import tqdm
 from .config import (
     ALL_PAPERS_DIR,
 )
@@ -49,7 +50,7 @@ def search_paper_by_title(title, start=0, max_results=1) -> dict:
 
 def main():
     papers = load_jsonl(ALL_PAPERS_DIR)
-    for paper in papers:
+    for paper in tqdm(papers, desc="Processing papers"):
         title = paper["title"]
         arxiv_paper = search_paper_by_title(title)
         time.sleep(3)
