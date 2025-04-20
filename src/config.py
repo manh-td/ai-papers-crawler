@@ -13,3 +13,5 @@ CONFERENCE_LIST = [
     ("icml", "https://icml.cc/virtual/{year}/papers.html?layout=detail"),
     ("emnlp", "https://{year}.emnlp.org/program/accepted_main_conference/")
 ]
+
+ALL_PAPERS_DIR = "outputs/all_papers.jsonl"

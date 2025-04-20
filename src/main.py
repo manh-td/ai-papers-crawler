@@ -1,4 +1,4 @@
-from .utils import logging, write_jsonl
+from .utils import logging, write_jsonl, load_jsonl
 from .scholar import search_paper_by_title
 import requests
 import os
@@ -80,19 +80,35 @@ def main():
     """
     logging.info("Welcome to the AI Papers Crawler!")
 
+    all_papers = []
+
     for conference, conf_url in CONFERENCE_LIST:
         fetch_func = fetch_strategy_2 if "emnlp" in conference else fetch_strategy_1
         for year in YEARS:
-            url = conf_url.format(year=year)
-            papers = fetch_func(url)
-            if papers:
-                logging.info(f"Fetched {len(papers)} papers from {url}")
-                os.makedirs(OUTPUT_DIR, exist_ok=True)
-                output_dir = f"{OUTPUT_DIR}/{conference}{year}.jsonl"
-                write_jsonl(output_dir, papers)
-                logging.info(f"Saved papers to {output_dir}")
+            os.makedirs(OUTPUT_DIR, exist_ok=True)
+            output_dir = f"{OUTPUT_DIR}/{conference}{year}.jsonl"
+            
+            if os.path.exists(output_dir):
+                logging.info(f"File {output_dir} already exists. Skipping...")
+                papers = load_jsonl(output_dir)
             else:
-                logging.warning(f"No papers found for {url}")
+                url = conf_url.format(year=year)
+                papers = fetch_func(url)
+
+                if papers:
+                    logging.info(f"Fetched {len(papers)} papers from {url}")
+                    write_jsonl(output_dir, papers)
+                    logging.info(f"Saved papers to {output_dir}")
+                else:
+                    logging.warning(f"No papers found for {url}")
+            
+            for paper in papers:
+                all_papers.append({
+                    "conference": f"{conference}{year}",
+                    "title": paper['title'],
+                })
+
+    write_jsonl(f"{OUTPUT_DIR}/all_papers.jsonl", all_papers)
 
 if __name__ == "__main__":
     main()

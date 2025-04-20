@@ -30,3 +30,16 @@ def write_jsonl(file_path, data):
     with open(file_path, 'w', encoding='utf-8') as f:
         for record in data:
             f.write(json.dumps(record) + '\n')
+
+def load_jsonl(file_path):
+    """
+    Load a JSONL file and return a list of dictionaries.
+
+    :param file_path: Path to the JSONL file.
+    :return: List of dictionaries.
+    """
+    data = []
+    with open(file_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            data.append(json.loads(line.strip()))
+    return data

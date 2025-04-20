@@ -1,6 +1,6 @@
 import requests
 import xml.etree.ElementTree as ET
-from .utils import logging
+from .utils import logging, load_jsonl
 
 def search_paper_by_title(title, start=0, max_results=1) -> dict:
     """
