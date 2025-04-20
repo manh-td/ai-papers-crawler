@@ -56,8 +56,6 @@ def main():
         if arxiv_paper:
             paper.update(arxiv_paper)
             logging.info(f"Updated paper: {json.dumps(paper, indent=4)}")
-        else:
-            logging.warning(f"Paper not found: {title}")
 
     output_file = ALL_PAPERS_DIR.replace(".jsonl", "_arxiv.jsonl")
     write_jsonl(output_file, papers)
