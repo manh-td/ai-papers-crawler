@@ -1,6 +1,11 @@
 import requests
 import xml.etree.ElementTree as ET
-from .utils import logging, load_jsonl
+from .utils import logging, load_jsonl, write_jsonl
+import time
+import json
+from .config import (
+    ALL_PAPERS_DIR,
+)
 
 def search_paper_by_title(title, start=0, max_results=1) -> dict:
     """
@@ -26,21 +31,37 @@ def search_paper_by_title(title, start=0, max_results=1) -> dict:
     root = ET.fromstring(response.content)
 
     for entry in root.findall("{http://www.w3.org/2005/Atom}entry"):
+        authors = [
+            author.find("{http://www.w3.org/2005/Atom}name").text.replace("\n", "").strip()
+            for author in entry.findall("{http://www.w3.org/2005/Atom}author")
+        ]
+        if len(authors) > 3:
+            authors = [authors[0], authors[1], authors[-1]]
         paper = {
-            "title": entry.find("{http://www.w3.org/2005/Atom}title").text.replace("\n", "").strip(),
-            "link": entry.find("{http://www.w3.org/2005/Atom}id").text.replace("\n", "").strip()
+            "link": entry.find("{http://www.w3.org/2005/Atom}id").text.replace("\n", "").strip(),
+            "subject": entry.find("{http://arxiv.org/schemas/atom}primary_category").attrib.get("term", "").strip(),
+            "authors": authors
         }
         return paper
 
     logging.warning(f"No results found for title: {title}")
     return None
 
+def main():
+    papers = load_jsonl(ALL_PAPERS_DIR)
+    for paper in papers:
+        title = paper["title"]
+        arxiv_paper = search_paper_by_title(title)
+        time.sleep(3)
+        if arxiv_paper:
+            paper.update(arxiv_paper)
+            logging.info(f"Updated paper: {json.dumps(paper, indent=4)}")
+        else:
+            logging.warning(f"Paper not found: {title}")
+
+    output_file = ALL_PAPERS_DIR.replace(".jsonl", "_arxiv.jsonl")
+    write_jsonl(output_file, papers)
+    logging.info(f"Results saved to {output_file}")
+
 if __name__ == "__main__":
-    title = "Graph Neural Networks"
-    paper = search_paper_by_title(title)
-    print(f"Title: {paper['title']}")
-    print(f"Summary: {paper['summary']}")
-    print(f"Authors: {', '.join(paper['authors'])}")
-    print(f"Published: {paper['published']}")
-    print(f"Link: {paper['link']}")
-    print()
+    main()
