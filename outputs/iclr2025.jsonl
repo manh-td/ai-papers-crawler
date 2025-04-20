@@ -1,54 +1,3 @@
-{"title": "\n            ICLR\n        "}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n            Select Year: (2025)\n        "}
-{"title": "2025\n                "}
-{"title": "2024\n                "}
-{"title": "2023\n                "}
-{"title": "2022\n                "}
-{"title": "2021\n                "}
-{"title": "2020\n                "}
-{"title": "2019\n                "}
-{"title": "2018\n                "}
-{"title": "2017\n                "}
-{"title": "2016\n                "}
-{"title": "2015\n                "}
-{"title": "2014\n                "}
-{"title": "2013\n                "}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n            Main Conference\n        "}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n            Community\n        "}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n            Help\n        "}
-{"title": "\n"}
-{"title": "\n"}
-{"title": "\n"}
 {"title": "Browse "}
 {"title": "Visualization"}
 {"title": "Horizon Generalization in Reinforcement Learning"}
@@ -126,7 +75,6 @@
 {"title": "How Discrete and Continuous Diffusion Meet: Comprehensive Analysis of Discrete Diffusion Models  via a Stochastic Integral Framework"}
 {"title": "Transformers are Universal In-context Learners"}
 {"title": "CSA: Data-efficient Mapping of Unimodal Features to Multimodal Features"}
-{"title": "LLM Unlearning via Loss Adjustment with Only Forget Data"}
 {"title": "BlendRL: A Framework for Merging Symbolic and Neural Policy Learning"}
 {"title": "Doubly Optimal Policy Evaluation for Reinforcement Learning"}
 {"title": "Bonsai: Gradient-free Graph Condensation for Node Classification"}
@@ -258,7 +206,6 @@
 {"title": "ConcreTizer: Model Inversion Attack via Occupancy Classification and Dispersion Control for 3D Point Cloud Restoration"}
 {"title": "TeaserGen: Generating Teasers for Long Documentaries"}
 {"title": "Temporal Heterogeneous Graph Generation with Privacy, Utility, and Efficiency"}
-{"title": "Identification of Intermittent Temporal Latent Process"}
 {"title": "ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery"}
 {"title": "Fast Uncovering of Protein Sequence Diversity from Structure"}
 {"title": "Contractive Dynamical Imitation Policies for Efficient Out-of-Sample Recovery"}
@@ -329,7 +276,6 @@
 {"title": "BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions"}
 {"title": "Accelerating Training with Neuron Interaction and Nowcasting Networks"}
 {"title": "Repulsive Latent Score Distillation for Solving Inverse Problems"}
-{"title": "Convergence of Score-Based Discrete Diffusion Models: A Discrete-Time Analysis"}
 {"title": "Deep Weight Factorization: Sparse Learning Through the Lens of Artificial Symmetries"}
 {"title": "Exploring a Principled Framework for Deep Subspace Clustering"}
 {"title": "Predictive Uncertainty Quantification for Bird's Eye View Segmentation: A Benchmark and Novel Loss Function"}
@@ -348,7 +294,6 @@
 {"title": "BLEND: Behavior-guided Neural Population Dynamics Modeling via Privileged Knowledge Distillation"}
 {"title": "Peeking Behind Closed Doors: Risks of LLM Evaluation by Private Data Curators"}
 {"title": "What Makes Large Language Models Reason in (Multi-Turn) Code Generation?"}
-{"title": "Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning"}
 {"title": "When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers"}
 {"title": "SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning"}
 {"title": "Training Nonlinear Transformers for Chain-of-Thought Inference:  A Theoretical Generalization Analysis"}
@@ -426,8 +371,6 @@
 {"title": "Rethinking Diffusion Posterior Sampling: From Conditional Score Estimator to Maximizing a Posterior"}
 {"title": "CViT: Continuous Vision Transformer for Operator Learning"}
 {"title": "Training-Free Activation Sparsity in Large Language Models"}
-{"title": "On Bits and Bandits: Quantifying the Regret-Information Trade-off"}
-{"title": "Global Convergence of Policy Gradient in Average Reward MDPs"}
 {"title": "Why In-Context Learning Models are Good Few-Shot Learners?"}
 {"title": "Computational Explorations of Total Variation Distance"}
 {"title": "What Are Good Positional Encodings for Directed Graphs?"}
@@ -471,7 +414,6 @@
 {"title": "TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting"}
 {"title": "VAE-Var: Variational Autoencoder-Enhanced Variational Methods for Data Assimilation in Meteorology"}
 {"title": "PostCast: Generalizable Postprocessing for Precipitation Nowcasting via Unsupervised Blurriness Modeling"}
-{"title": "HASARD: A Benchmark for Vision-Based Safe Reinforcement Learning in Embodied Agents"}
 {"title": "Improving Convergence Guarantees of Random Subspace Second-order Algorithm for Nonconvex Optimization"}
 {"title": "PCNN: Probable-Class Nearest-Neighbor Explanations Improve Fine-Grained Image Classification Accuracy for AIs and Humans"}
 {"title": "A Simple Approach to Unifying Diffusion-based Conditional Generation"}
@@ -578,7 +520,11 @@
 {"title": "Breaking Free from MMI: A New Frontier in Rationalization by Probing Input Utilization"}
 {"title": "Certifying Language Model Robustness with Fuzzed Randomized Smoothing: An Efficient Defense Against Backdoor Attacks"}
 {"title": "Not-So-Optimal Transport Flows for 3D Point Cloud Generation"}
+{"title": "Decoupled Subgraph Federated Learning"}
+{"title": "The Crucial Role of Samplers in Online Direct Preference Optimization"}
+{"title": "Adaptive backtracking for faster optimization"}
 {"title": "To Code or Not To Code? Exploring Impact of Code in Pre-training"}
+{"title": "Sparse components distinguish visual pathways & their alignment to neural networks"}
 {"title": "A Benchmark for Semantic Sensitive Information in LLMs Outputs"}
 {"title": "Diverse Preference Learning for Capabilities and Alignment"}
 {"title": "MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer"}
@@ -589,7 +535,9 @@
 {"title": "R-Sparse: Rank-Aware Activation Sparsity for Efficient LLM Inference"}
 {"title": "Learning to engineer protein flexibility"}
 {"title": "SPAM: Spike-Aware Adam with Momentum Reset for Stable LLM Training"}
+{"title": "Words in Motion: Extracting Interpretable Control Vectors for Motion Transformers"}
 {"title": "Learning to Clarify: Multi-turn Conversations with Action-Based Contrastive Self-Training"}
+{"title": "LLM Unlearning via Loss Adjustment with Only Forget Data"}
 {"title": "Controlling Language and Diffusion Models by Transporting Activations"}
 {"title": "Understanding and Mitigating Bottlenecks of State Space Models through the Lens of Recency and Over-smoothing"}
 {"title": "Large Language Models are Interpretable Learners"}
@@ -601,13 +549,13 @@
 {"title": "Transformer Learns Optimal Variable Selection in Group-Sparse Classification"}
 {"title": "On the Feature Learning in Diffusion Models"}
 {"title": "Improving Equivariant Networks with Probabilistic Symmetry Breaking"}
-{"title": "On the Convergence of Adaptive Gradient Methods for Nonconvex Optimization"}
 {"title": "DarkBench: Benchmarking Dark Patterns in Large Language Models"}
 {"title": "Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance"}
 {"title": "VTDexManip: A Dataset and Benchmark for Visual-tactile Pretraining and Dexterous Manipulation with Reinforcement Learning"}
 {"title": "Understanding Optimization in Deep Learning with Central Flows"}
 {"title": "On the Role of Attention Heads in Large Language Model Safety"}
 {"title": "Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters"}
+{"title": "Going Beyond Feature Similarity: Effective Dataset distillation based on Class-aware Conditional Mutual Information"}
 {"title": "Behavioral Entropy-Guided Dataset Generation for Offline Reinforcement Learning"}
 {"title": "Towards Calibrated Deep Clustering Network"}
 {"title": "MMEgo: Towards Building Egocentric Multimodal LLMs for Video QA"}
@@ -615,13 +563,17 @@
 {"title": "Adaptive Data Optimization: Dynamic Sample Selection with Scaling Laws"}
 {"title": "Compute-Optimal LLMs Provably Generalize Better with Scale"}
 {"title": "Non-myopic Generation of Language Models for Reasoning and Planning"}
+{"title": "NeurFlow: Interpreting Neural Networks through Neuron Groups and Functional Interactions"}
 {"title": "Uncovering Gaps in How Humans and LLMs Interpret Subjective Language"}
+{"title": "Learning General-purpose Biomedical Volume Representations using Randomized Synthesis"}
 {"title": "Extreme Risk Mitigation in Reinforcement Learning using Extreme Value Theory"}
 {"title": "SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration"}
 {"title": "Efficient Inference for Large Language Model-based Generative Recommendation"}
+{"title": "Flow-based Variational Mutual Information: Fast and Flexible Approximations"}
 {"title": "TIGeR: Unifying Text-to-Image Generation and Retrieval with Large Multimodal Models"}
 {"title": "Transformers Struggle to Learn to Search"}
 {"title": "Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation"}
+{"title": "BTBS-LNS: Binarized-Tightening, Branch and Search on Learning LNS Policies for MIP"}
 {"title": "Fast Training of Sinusoidal Neural Fields via Scaling Initialization"}
 {"title": "ZIP: An Efficient Zeroth-order Prompt Tuning for Black-box Vision-Language Models"}
 {"title": "Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers"}
@@ -630,8 +582,12 @@
 {"title": "Fair Submodular Cover"}
 {"title": "Pareto Prompt Optimization"}
 {"title": "Fair Clustering in the Sliding Window Model"}
+{"title": "Beyond Surface Structure: A Causal Assessment of LLMs' Comprehension ability"}
 {"title": "Learning-Augmented Search Data Structures"}
+{"title": "Automated Filtering of Human Feedback Data for Aligning Text-to-Image Diffusion Models"}
+{"title": "Provable weak-to-strong generalization via benign overfitting"}
 {"title": "On the Price of Differential Privacy for Hierarchical Clustering"}
+{"title": "Anyprefer: An Agentic Framework for Preference Data Synthesis"}
 {"title": "Equivariant Denoisers Cannot Copy Graphs: Align Your Graph Diffusion Models"}
 {"title": "DS-LLM: Leveraging Dynamical Systems to Enhance Both Training and Inference of Large Language Models"}
 {"title": "Generative Adapter: Contextualizing Language Models in Parameters with A Single Forward Pass"}
@@ -639,22 +595,27 @@
 {"title": "Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language Models"}
 {"title": "Automated Design of Agentic Systems"}
 {"title": "Learn-by-interact: A Data-Centric Framework For Self-Adaptive Agents in Realistic Environments"}
+{"title": "Learning Graph Invariance by Harnessing Spuriosity"}
+{"title": "BrainOOD: Out-of-distribution Generalizable Brain Network Analysis"}
 {"title": "Joint Reward and Policy Learning with Demonstrations and Human Feedback Improves Alignment"}
 {"title": "Scaling Long Context Training Data by Long-Distance Referrals"}
 {"title": "VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation"}
 {"title": "SANA: Efficient High-Resolution Text-to-Image Synthesis with Linear Diffusion Transformers"}
 {"title": "A transfer learning framework for weak to strong generalization"}
+{"title": "Identification of Intermittent Temporal Latent Process"}
 {"title": "Direct Post-Training Preference Alignment for Multi-Agent Motion Generation Model Using Implicit Feedback from Pre-training Demonstrations"}
+{"title": "Synergy Between Sufficient Changes and Sparse Mixing Procedure for Disentangled Representation Learning"}
 {"title": "LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias"}
 {"title": "Cross the Gap:  Exposing the Intra-modal Misalignment in CLIP via Modality Inversion"}
 {"title": "LIFe-GoM: Generalizable Human Rendering with Learned Iterative Feedback Over Multi-Resolution Gaussians-on-Mesh"}
+{"title": "On the Identification of Temporal Causal Representation with Instantaneous Dependence"}
 {"title": "Diffusing States and Matching Scores: A New Framework for Imitation Learning"}
 {"title": "Ctrl-U: Robust Conditional Image Generation via Uncertainty-aware Reward Modeling"}
 {"title": "VCR: Pixel-Level Complex Reasoning by Restoring Occluded Text"}
 {"title": "Generalization v.s. Memorization: Tracing Language Models\u2019 Capabilities Back to Pretraining Data"}
 {"title": "CPSample: Classifier Protected Sampling for Guarding Training Data During Diffusion"}
 {"title": "Point-based Instance Completion with Scene Constraints"}
-{"title": "One Hundred Neural Networks and Brains Watching Videos: Lessons from Alignment"}
+{"title": "Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning"}
 {"title": "Frame-Voyager: Learning to Query Frames for Video Large Language Models"}
 {"title": "Are Transformers Able to Reason by Connecting Separated Knowledge in Training Data?"}
 {"title": "SFESS: Score Function Estimators for $k$-Subset Sampling"}
@@ -662,6 +623,7 @@
 {"title": "NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models"}
 {"title": "Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval"}
 {"title": "Halton Scheduler for Masked Generative Image Transformer"}
+{"title": "DiffPC: Diffusion-based High Perceptual Fidelity Image Compression with Semantic Refinement"}
 {"title": "CoTFormer: A Chain of Thought Driven Architecture with Budget-Adaptive Computation Cost at Inference"}
 {"title": "Intrinsic User-Centric Interpretability through Global Mixture of Experts"}
 {"title": "Attention with Markov: A Curious Case of Single-layer Transformers"}
@@ -678,7 +640,6 @@
 {"title": "DINOv2: Learning Robust Visual Features without Supervision"}
 {"title": "Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery"}
 {"title": "Evidential Learning-based Certainty Estimation for Robust Dense Feature Matching"}
-{"title": "Provable weak-to-strong generalization via benign overfitting"}
 {"title": "Human-inspired Episodic Memory for Infinite Context LLMs"}
 {"title": "E-Valuating Classifier Two-Sample Tests"}
 {"title": "See What You Are Told: Visual Attention Sink in Large Multimodal Models"}
@@ -687,27 +648,39 @@
 {"title": "Revisiting Large-Scale Non-convex Distributionally Robust Optimization"}
 {"title": "Reassessing EMNLP 2024\u2019s Best Paper: Does Divergence-Based Calibration for MIAs Hold Up?"}
 {"title": "Robust-PIFu: Robust Pixel-aligned Implicit Function for 3D Human Digitalization from a Single Image"}
+{"title": "Improving Data Efficiency via Curating LLM-Driven Rating Systems"}
+{"title": "Enhancing Vision-Language Model with Unmasked Token Alignment"}
 {"title": "CONGO: Compressive Online Gradient Optimization"}
+{"title": "SmartPretrain: Model-Agnostic and Dataset-Agnostic Representation Learning for Motion Prediction"}
 {"title": "On the Adversarial Risk of Test Time Adaptation: An Investigation into Realistic Test-Time Data Poisoning"}
 {"title": "Continuous Autoregressive Modeling with Stochastic Monotonic Alignment for Speech Synthesis"}
 {"title": "MAD-TD: Model-Augmented Data stabilizes High Update Ratio RL"}
+{"title": "MMSearch: Unveiling the Potential of Large Models as Multi-modal Search Engines"}
 {"title": "Lightning-Fast Image Inversion and Editing for Text-to-Image Diffusion Models"}
+{"title": "HASARD: A Benchmark for Vision-Based Safe Reinforcement Learning in Embodied Agents"}
 {"title": "Unifying Causal Representation Learning with the Invariance Principle"}
 {"title": "Building, Reusing, and Generalizing Abstract Representations from Concrete Sequences"}
+{"title": "MambaExtend: A Training-Free Approach to Improve Long Context Extension of Mamba"}
 {"title": "Breach By A Thousand Leaks: Unsafe Information Leakage in 'Safe' AI Responses"}
+{"title": "On Bits and Bandits: Quantifying the Regret-Information Trade-off"}
+{"title": "Global Convergence of Policy Gradient in Average Reward MDPs"}
 {"title": "DRESSing Up LLM: Efficient Stylized Question-Answering via Style Subspace Editing"}
 {"title": "Planning in Natural Language Improves LLM Search for Code Generation"}
 {"title": "Addax: Utilizing Zeroth-Order Gradients to Improve Memory Efficiency and Performance of SGD for Fine-Tuning Language Models"}
 {"title": "Dynamic Gaussians Mesh: Consistent Mesh Reconstruction from Dynamic Scenes"}
 {"title": "DiSK: Differentially Private Optimizer with Simplified Kalman Filter for Noise Reduction"}
 {"title": "Pushing the Limits of All-Atom Geometric Graph Neural Networks: Pre-Training, Scaling, and Zero-Shot Transfer"}
+{"title": "Sketching for Convex and Nonconvex Regularized Least Squares with Sharp Guarantees"}
 {"title": "Statistical Advantages of Perturbing Cosine Router in Mixture of Experts"}
 {"title": "Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts"}
+{"title": "DenseMatcher: Learning 3D Semantic Correspondence for Category-Level Manipulation from a Single Demo"}
 {"title": "ML4TSPBench: Drawing Methodological Principles for TSP and Beyond from Streamlined Design Space of Learning and Search"}
 {"title": "Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks"}
 {"title": "Unveiling the Secret Recipe: A Guide For Supervised Fine-Tuning Small LLMs"}
 {"title": "Composable Interventions for Language Models"}
+{"title": "Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models"}
 {"title": "Epistemic Monte Carlo Tree Search"}
+{"title": "h4rm3l: A Language for Composable Jailbreak Attack Synthesis"}
 {"title": "Operator Deep Smoothing for Implied Volatility"}
 {"title": "Adding Conditional Control to Diffusion Models with Reinforcement Learning"}
 {"title": "GotenNet: Rethinking Efficient 3D Equivariant Graph Neural Networks"}
@@ -717,11 +690,16 @@
 {"title": "Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models"}
 {"title": "Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models"}
 {"title": "Hummingbird: High Fidelity Image Generation via Multimodal Context Alignment"}
+{"title": "SFS: Smarter Code Space Search improves LLM Inference Scaling"}
 {"title": "ConFIG: Towards Conflict-free Training of Physics Informed Neural Networks"}
+{"title": "Strategist: Self-improvement of LLM Decision Making via Bi-Level Tree Search"}
 {"title": "PersonalLLM: Tailoring LLMs to Individual Preferences"}
+{"title": "Optimal Protocols for Continual Learning via Statistical Physics and Control Theory"}
 {"title": "Towards counterfactual fairness through auxiliary variables"}
+{"title": "A Theory of Initialisation's Impact on Specialisation"}
 {"title": "Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction"}
 {"title": "Federated Residual Low-Rank Adaption of Large Language Models"}
+{"title": "One Hundred Neural Networks and Brains Watching Videos: Lessons from Alignment"}
 {"title": "3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting"}
 {"title": "On the Importance of Language-driven Representation Learning for Heterogeneous Federated Learning"}
 {"title": "Lightweight Predictive 3D Gaussian Splats"}
@@ -733,9 +711,11 @@
 {"title": "Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis"}
 {"title": "ToolGen: Unified Tool Retrieval and Calling via Generation"}
 {"title": "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code"}
+{"title": "Comparing noisy neural population dynamics using optimal transport distances"}
 {"title": "Dissecting Adversarial Robustness of Multimodal LM Agents"}
 {"title": "Sharper Guarantees for Learning Neural Network Classifiers with Gradient Methods"}
 {"title": "From Sparse Dependence to Sparse Attention: Unveiling How Chain-of-Thought Enhances Transformer Sample Efficiency"}
+{"title": "Adaptive Rank Allocation: Speeding Up Modern Transformers with RaNA Adapters"}
 {"title": "Effective and Efficient Time-Varying Counterfactual Prediction with State-Space Models"}
 {"title": "Scalable Mechanistic Neural Networks"}
 {"title": "Attention in Large Language Models Yields Efficient Zero-Shot Re-Rankers"}
@@ -744,13 +724,14 @@
 {"title": "Latent-EnSF: A Latent Ensemble Score Filter for High-Dimensional Data Assimilation with Sparse Observation Data"}
 {"title": "Straightness of Rectified Flow: A Theoretical Insight into Wasserstein Convergence"}
 {"title": "ToolDial: Multi-turn Dialogue Generation Method for Tool-Augmented Language Models"}
+{"title": "HERO: Human-Feedback Efficient Reinforcement Learning for Online Diffusion Model Finetuning"}
+{"title": "On the Crucial Role of Initialization for Matrix Factorization"}
+{"title": "SSOLE: Rethinking Orthogonal Low-rank Embedding for Self-Supervised Learning"}
 {"title": "Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaptation"}
 {"title": "MIND over Body: Adaptive Thinking using Dynamic Computation"}
 {"title": "Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation"}
 {"title": "Varying Shades of Wrong: Aligning LLMs with Wrong Answers Only"}
-{"title": "Learning Graph Invariance by Harnessing Spuriosity"}
 {"title": "Faster, More Efficient RLHF through Off-Policy Asynchronous Learning"}
-{"title": "BrainOOD: Out-of-distribution Generalizable Brain Network Analysis"}
 {"title": "On the Benefits of Attribute-Driven Graph Domain Adaptation"}
 {"title": "Language Guided Skill Discovery"}
 {"title": "Certifying Counterfactual Bias in LLMs"}
@@ -769,24 +750,39 @@
 {"title": "MoS: Unleashing Parameter Efficiency of Low-Rank Adaptation with Mixture of Shards"}
 {"title": "DiffGAD: A Diffusion-based Unsupervised Graph Anomaly Detector"}
 {"title": "A Causal Lens for Learning Long-term Fair Policies"}
+{"title": "PhiNets: Brain-inspired Non-contrastive Learning Based on Temporal Prediction Hypothesis"}
 {"title": "What Secrets Do Your Manifolds Hold? Understanding the Local Geometry of Generative Models"}
+{"title": "Local Loss Optimization in the Infinite Width: Stable Parameterization of Predictive Coding Networks and Target Propagation"}
 {"title": "SELF-EVOLVED REWARD LEARNING FOR LLMS"}
 {"title": "DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agent"}
+{"title": "Turning Up the Heat: Min-p Sampling for Creative and Coherent LLM Outputs"}
+{"title": "On the Convergence of Adaptive Gradient Methods for Nonconvex Optimization"}
+{"title": "Unified Convergence Analysis for Score-Based Diffusion Models with Deterministic Samplers"}
 {"title": "Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling"}
+{"title": "Energy-Weighted Flow Matching for Offline Reinforcement Learning"}
 {"title": "Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models"}
+{"title": "CryoFM: A Flow-based Foundation Model for Cryo-EM Densities"}
 {"title": "MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models"}
+{"title": "Beyond-Expert Performance with Limited Demonstrations: Efficient Imitation Learning with Double Exploration"}
+{"title": "DPLM-2: A Multimodal Diffusion Protein Language Model"}
 {"title": "Shedding Light on Time Series Classification using Interpretability Gated Networks"}
+{"title": "Self-Play Preference Optimization for Language Model Alignment"}
+{"title": "ProteinBench: A Holistic Evaluation of Protein Foundation Models"}
 {"title": "Understanding and Enhancing Safety Mechanisms of LLMs via Safety-Specific Neuron"}
+{"title": "Flow Matching with Gaussian Process Priors for Probabilistic Time Series Forecasting"}
+{"title": "Unlocking Point Processes through Point Set Diffusion"}
 {"title": "Investigating Pattern Neurons in Urban Time Series Forecasting"}
 {"title": "GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation"}
 {"title": "OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning"}
 {"title": "GALA: Geometry-Aware Local Adaptive Grids for Detailed 3D Generation"}
 {"title": "VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation"}
 {"title": "AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks"}
+{"title": "MELODI: Exploring Memory Compression for Long Contexts"}
 {"title": "Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders"}
 {"title": "Build-A-Scene: Interactive 3D Layout Control for Diffusion-Based Image Generation"}
 {"title": "HQGS: High-Quality Novel View Synthesis with Gaussian Splatting in Degraded Scenes"}
 {"title": "Reflexive Guidance: Improving OoDD in Vision-Language Models via Self-Guided Image-Adaptive Concept Generation"}
+{"title": "TopoNets: High performing vision and language models with brain-like topography"}
 {"title": "MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection"}
 {"title": "TPO: Aligning Large Language Models with Multi-branch & Multi-step Preference Trees"}
 {"title": "BodyGen: Advancing Towards Efficient Embodiment Co-Design"}
@@ -795,6 +791,8 @@
 {"title": "PN-GAIL: Leveraging Non-optimal Information from Imperfect Demonstrations"}
 {"title": "PICASO: Permutation-Invariant Context Composition with State Space Models"}
 {"title": "ScImage: How good are multimodal large language models at scientific text-to-image generation?"}
+{"title": "Adversarial Score identity Distillation: Rapidly Surpassing the Teacher in One Step"}
+{"title": "SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement"}
 {"title": "SymmetricDiffusers: Learning Discrete Diffusion Models over Finite Symmetric Groups"}
 {"title": "ParaSolver: A Hierarchical Parallel Integral Solver for Diffusion Models"}
 {"title": "NVS-Solver: Video Diffusion Model as Zero-Shot Novel View Synthesizer"}
@@ -808,7 +806,6 @@
 {"title": "Data Center Cooling System Optimization Using Offline Reinforcement Learning"}
 {"title": "Rethinking Shapley Value for Negative Interactions in Non-convex Games"}
 {"title": "3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation"}
-{"title": "PhiNets: Brain-inspired Non-contrastive Learning Based on Temporal Prediction Hypothesis"}
 {"title": "SimPER: A Minimalist Approach to Preference  Alignment without Hyperparameters"}
 {"title": "LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding"}
 {"title": "SynQ: Accurate Zero-shot Quantization by Synthesis-aware Fine-tuning"}
@@ -845,7 +842,6 @@
 {"title": "Data Mixing Laws: Optimizing Data Mixtures by Predicting Language Modeling Performance"}
 {"title": "Near, far: Patch-ordering enhances vision foundation models' scene understanding"}
 {"title": "Guided Score identity Distillation for Data-Free One-Step Text-to-Image Generation"}
-{"title": "Adversarial Score identity Distillation: Rapidly Surpassing the Teacher in One Step"}
 {"title": "Grounding Continuous Representations in Geometry: Equivariant Neural Fields"}
 {"title": "Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model"}
 {"title": "A Little Goes a Long Way: Efficient Long Context Training and Inference with Partial Contexts"}
@@ -855,10 +851,14 @@
 {"title": "Credit-based self organizing maps: training deep topographic networks with minimal performance degradation"}
 {"title": "Compositional simulation-based inference for time series"}
 {"title": "Preserving Diversity in Supervised Fine-Tuning of Large Language Models"}
+{"title": "Transformers Can Learn Temporal Difference Methods for In-Context Reinforcement Learning"}
 {"title": "Learning a Fast Mixing Exogenous Block MDP using a Single Trajectory"}
 {"title": "Sort-free Gaussian Splatting via Weighted Sum Rendering"}
+{"title": "Efficient Model-Based Reinforcement Learning Through Optimistic Thompson Sampling"}
 {"title": "EC-DIT: Scaling Diffusion Transformers with Adaptive Expert-Choice Routing"}
 {"title": "Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data"}
+{"title": "Modeling Unseen Environments with Language-guided Composable Causal Components in Reinforcement Learning"}
+{"title": "Towards Generalizable Reinforcement Learning via Causality-Guided Self-Adaptive Representations"}
 {"title": "Model-based Offline Reinforcement Learning with Lower Expectile Q-Learning"}
 {"title": "Learning Gain Map for Inverse Tone Mapping"}
 {"title": "Expected Sliced Transport Plans"}
@@ -868,6 +868,8 @@
 {"title": "RRM:  Robust Reward Model Training Mitigates Reward Hacking"}
 {"title": "A Computational Framework for Modeling Emergence of Color Vision in the Human Brain"}
 {"title": "Neuron Platonic Intrinsic Representation From Dynamics Using Contrastive Learning"}
+{"title": "Convergence of Score-Based Discrete Diffusion Models: A Discrete-Time Analysis"}
+{"title": "InverseBench: Benchmarking Plug-and-Play Diffusion Priors for Inverse Problems in Physical Sciences"}
 {"title": "How efficient is LLM-generated code? A rigorous & high-standard benchmark"}
 {"title": "PWM: Policy Learning with Multi-Task World Models"}
 {"title": "Ada-K Routing: Boosting the Efficiency of MoE-based LLMs"}
@@ -879,15 +881,22 @@
 {"title": "SyllableLM: Learning Coarse Semantic Units for Speech Language Models"}
 {"title": "Ask, and it shall be given: On the Turing completeness of prompting"}
 {"title": "Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning"}
+{"title": "LoCoDL: Communication-Efficient Distributed Learning with Local Training and Compression"}
 {"title": "Why Does the Effective Context Length of LLMs Fall Short?"}
+{"title": "MAST: model-agnostic sparsified training"}
 {"title": "Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model"}
+{"title": "Methods for Convex $(L_0,L_1)$-Smooth Optimization: Clipping, Acceleration, and Adaptivity"}
 {"title": "Analyzing and Boosting the Power of Fine-Grained Visual Recognition for Multi-modal Large Language Models"}
+{"title": "Methods with Local Steps and Random Reshuffling for Generally Smooth Non-Convex Federated Optimization"}
 {"title": "Causal Information Prioritization for Efficient Reinforcement Learning"}
 {"title": "Quamba: A Post-Training Quantization Recipe for Selective State Space Models"}
 {"title": "Probabilistic Geometric Principal Component Analysis with application to neural data"}
 {"title": "A General Framework for Off-Policy Learning with Partially-Observed Reward"}
 {"title": "Bayesian Image Regression with Soft-thresholded Conditional Autoregressive Prior"}
+{"title": "Beyond Worst-Case Dimensionality Reduction for Sparse Vectors"}
+{"title": "Streaming Algorithms For $\\ell_p$ Flows and $\\ell_p$ Regression"}
 {"title": "Learning to Select Nodes in Branch and Bound with Sufficient Tree Representation"}
+{"title": "LevAttention: Time, Space and Streaming Efficient Algorithm for Heavy Attentions"}
 {"title": "BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games"}
 {"title": "Tamper-Resistant Safeguards for Open-Weight LLMs"}
 {"title": "Flow With What You Know"}
@@ -1032,7 +1041,6 @@
 {"title": "Linear Mode Connectivity in Differentiable Tree Ensembles"}
 {"title": "Strong Preferences Affect the Robustness of Preference Models and Value Alignment"}
 {"title": "Manifold Learning by Mixture Models of VAEs for Inverse Problems"}
-{"title": "Sketching for Convex and Nonconvex Regularized Least Squares with Sharp Guarantees"}
 {"title": "Information Theoretic Text-to-Image Alignment"}
 {"title": "Efficient Cross-Episode Meta-RL"}
 {"title": "How Two-Layer Neural Networks Learn, One (Giant) Step at a Time"}
@@ -1053,7 +1061,6 @@
 {"title": "\u201cI Am the One and Only, Your Cyber BFF\u201d: Understanding the Impact of GenAI Requires Understanding the Impact of Anthropomorphic AI"}
 {"title": "Restating the Proof of Linear Convergence for Linear GNNs"}
 {"title": "A Visual Dive into Conditional Flow Matching"}
-{"title": "TopoNets: High performing vision and language models with brain-like topography"}
 {"title": "MeshMask: Physics-Based Simulations with Masked Graph Neural Networks"}
 {"title": "Intricacies of Feature Geometry in Large Language Models"}
 {"title": "The Lottery LLM Hypothesis, Rethinking What Abilities Should LLM Compression Preserve?"}
@@ -1136,7 +1143,6 @@
 {"title": "Federated $Q$-Learning with Reference-Advantage Decomposition: Almost Optimal Regret and Logarithmic Communication Cost"}
 {"title": "RMP-SAM: Towards Real-Time Multi-Purpose Segment Anything"}
 {"title": "Efficient and Robust Neural Combinatorial Optimization via Wasserstein-Based Coresets"}
-{"title": "Adaptive Rank Allocation: Speeding Up Modern Transformers with RaNA Adapters"}
 {"title": "PIN: Prolate Spheroidal Wave Function-based Implicit Neural Representations"}
 {"title": "RevisEval: Improving LLM-as-a-Judge via Response-Adapted References"}
 {"title": "MGMapNet: Multi-Granularity Representation Learning for End-to-End Vectorized HD Map Construction"}
@@ -1198,7 +1204,6 @@
 {"title": "3DMolFormer: A Dual-channel Framework for Structure-based Drug Discovery"}
 {"title": "SPA-BENCH: A COMPREHENSIVE BENCHMARK FOR SMARTPHONE AGENT EVALUATION"}
 {"title": "Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems"}
-{"title": "Methods with Local Steps and Random Reshuffling for Generally Smooth Non-Convex Federated Optimization"}
 {"title": "Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models"}
 {"title": "Null Counterfactual Factor Interactions for Goal-Conditioned Reinforcement Learning"}
 {"title": "Robust Gymnasium: A Unified Modular Benchmark for Robust Reinforcement Learning"}
@@ -1275,7 +1280,6 @@
 {"title": "RankSHAP: Shapley Value Based Feature Attributions for Learning to Rank"}
 {"title": "Graph Assisted Offline-Online Deep Reinforcement Learning for Dynamic Workflow Scheduling"}
 {"title": "Self-Evolving Multi-Agent Collaboration Networks for Software Development"}
-{"title": "Unlocking Point Processes through Point Set Diffusion"}
 {"title": "GenARM: Reward Guided Generation with Autoregressive Reward Model for Test-Time Alignment"}
 {"title": "Transformers Learn Low Sensitivity Functions: Investigations and Implications"}
 {"title": "TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies"}
@@ -1323,7 +1327,6 @@
 {"title": "Risk-Controlling Model Selection via Guided Bayesian Optimization"}
 {"title": "Affine Steerable Equivariant Layer for Canonicalization of Neural Networks"}
 {"title": "Learning under Temporal Label Noise"}
-{"title": "Methods for Convex $(L_0,L_1)$-Smooth Optimization: Clipping, Acceleration, and Adaptivity"}
 {"title": "ComaDICE: Offline Cooperative Multi-Agent Reinforcement Learning with Stationary Distribution Shift Regularization"}
 {"title": "KooNPro: A Variance-Aware Koopman Probabilistic Model Enhanced by Neural Process for Time Series Forecasting"}
 {"title": "Charting the Design Space of Neural Graph Representations for Subgraph Matching"}
@@ -1334,14 +1337,11 @@
 {"title": "Manifold Constraint Reduces Exposure Bias in Accelerated Diffusion Sampling"}
 {"title": "Expressivity of Neural Networks with Random Weights and Learned Biases"}
 {"title": "Time After Time: Deep-Q Effect Estimation for Interventions on When and What to do"}
-{"title": "DPLM-2: A Multimodal Diffusion Protein Language Model"}
 {"title": "Cross-Entropy Is All You Need To Invert the Data Generating Process"}
 {"title": "Regret-Optimal List Replicable Bandit Learning: Matching Upper and Lower Bounds"}
 {"title": "Privacy Auditing of Large Language Models"}
 {"title": "Physics-Informed Deep Inverse Operator Networks for Solving PDE Inverse Problems"}
-{"title": "On the Identification of Temporal Causal Representation with Instantaneous Dependence"}
 {"title": "Complementary Label Learning with Positive Label Guessing and Negative Label Enhancement"}
-{"title": "Synergy Between Sufficient Changes and Sparse Mixing Procedure for Disentangled Representation Learning"}
 {"title": "Painting with Words: Elevating Detailed Image Captioning with Benchmark and Alignment Learning"}
 {"title": "Approximation algorithms for combinatorial optimization with predictions"}
 {"title": "dEBORA: Efficient Bilevel Optimization-based low-Rank Adaptation"}
@@ -1377,7 +1377,6 @@
 {"title": "BrainUICL: An Unsupervised Individual Continual Learning Framework for EEG Applications"}
 {"title": "Hierarchical Autoregressive Transformers: Combining Byte- and Word-Level Processing for Robust, Adaptable Language Models"}
 {"title": "Benign Overfitting in Out-of-Distribution Generalization of Linear Models"}
-{"title": "Transformers Can Learn Temporal Difference Methods for In-Context Reinforcement Learning"}
 {"title": "Towards Understanding Why Label Smoothing Degrades Selective Classification and How to Fix It"}
 {"title": "Dynamic Negative Guidance of Diffusion Models"}
 {"title": "Learning How Hard to Think: Input-Adaptive Allocation of LM Computation"}
@@ -1421,12 +1420,10 @@
 {"title": "HALL-E: Hierarchical Neural Codec Language Model for Minute-Long Zero-Shot Text-to-Speech Synthesis"}
 {"title": "Optimal Brain Apoptosis"}
 {"title": "Efficient Off-Policy Learning for High-Dimensional Action Spaces"}
-{"title": "Enhancing Vision-Language Model with Unmasked Token Alignment"}
 {"title": "GDrag:Towards General-Purpose Interactive Editing with Anti-ambiguity Point Diffusion"}
 {"title": "A Stochastic Approach to the Subset Selection Problem via Mirror Descent"}
 {"title": "Comparing Targeting Strategies for Maximizing Social Welfare with Limited Resources"}
 {"title": "Forking Paths in Neural Text Generation"}
-{"title": "SmartPretrain: Model-Agnostic and Dataset-Agnostic Representation Learning for Motion Prediction"}
 {"title": "Adversarial Policy Optimization for Offline Preference-based Reinforcement Learning"}
 {"title": "GameGen-X: Interactive Open-world Game Video Generation"}
 {"title": "LoLCATs: On Low-Rank Linearizing of Large Language Models"}
@@ -1443,7 +1440,6 @@
 {"title": "Longhorn: State Space Models are Amortized Online Learners"}
 {"title": "Explain Yourself, Briefly! Self-Explaining Neural Networks with Concise Sufficient Reasons"}
 {"title": "CameraCtrl: Enabling Camera Control for Video Diffusion Models"}
-{"title": "DenseMatcher: Learning 3D Semantic Correspondence for Category-Level Manipulation from a Single Demo"}
 {"title": "Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation"}
 {"title": "Reconstructive Visual Instruction Tuning"}
 {"title": "RouteLLM: Learning to Route LLMs from Preference Data"}
@@ -1452,7 +1448,6 @@
 {"title": "ParFam -- (Neural Guided) Symbolic Regression via Continuous Global Optimization"}
 {"title": "Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series"}
 {"title": "Do LLMs have Consistent Values?"}
-{"title": "LevAttention: Time, Space and Streaming Efficient Algorithm for Heavy Attentions"}
 {"title": "MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code"}
 {"title": "Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations"}
 {"title": "Causal Identification for Complex Functional Longitudinal Studies"}
@@ -1578,7 +1573,6 @@
 {"title": "SC-OmniGS: Self-Calibrating Omnidirectional Gaussian Splatting"}
 {"title": "Reinforcement Learning from Imperfect Corrective Actions and Proxy Rewards"}
 {"title": "S4M: S4 for multivariate time series forecasting with Missing values"}
-{"title": "ProteinBench: A Holistic Evaluation of Protein Foundation Models"}
 {"title": "Leveraging Variable Sparsity to Refine Pareto Stationarity in Multi-Objective Optimization"}
 {"title": "Non-Equilibrium Dynamics of Hybrid Continuous-Discrete Ground-State Sampling"}
 {"title": "Backtracking Improves Generation Safety"}
@@ -1688,7 +1682,6 @@
 {"title": "DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation"}
 {"title": "OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision"}
 {"title": "STAFF: Speculative Coreset Selection for Task-Specific Fine-tuning"}
-{"title": "Turning Up the Heat: Min-p Sampling for Creative and Coherent LLM Outputs"}
 {"title": "Determine-Then-Ensemble: Necessity of Top-k Union for Large Language Model Ensembling"}
 {"title": "MAESTRO: Masked Encoding Set Transformer with Self-Distillation"}
 {"title": "Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning"}
@@ -1711,7 +1704,6 @@
 {"title": "Graph-based Document Structure Analysis"}
 {"title": "UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP"}
 {"title": "Langevin Soft Actor-Critic: Efficient Exploration through Uncertainty-Driven Critic Learning"}
-{"title": "Beyond-Expert Performance with Limited Demonstrations: Efficient Imitation Learning with Double Exploration"}
 {"title": "Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws"}
 {"title": "Global Well-posedness and Convergence Analysis of Score-based Generative Models via Sharp Lipschitz Estimates"}
 {"title": "Sylber: Syllabic Embedding Representation of Speech from Raw Audio"}
@@ -1720,7 +1712,6 @@
 {"title": "SLMRec: Distilling Large Language Models into Small for Sequential Recommendation"}
 {"title": "Bridging the Data Provenance Gap Across Text, Speech, and Video"}
 {"title": "Grounding Video Models to Actions through Goal Conditioned Exploration"}
-{"title": "SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement"}
 {"title": "Diff3DS: Generating View-Consistent 3D Sketch via Differentiable Curve Rendering"}
 {"title": "MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering"}
 {"title": "R2Det: Exploring Relaxed Rotation Equivariance in 2D Object Detection"}
@@ -1744,7 +1735,6 @@
 {"title": "3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds"}
 {"title": "SMT: Fine-Tuning Large Language Models with Sparse Matrices"}
 {"title": "RaSA: Rank-Sharing Low-Rank Adaptation"}
-{"title": "NeurFlow: Interpreting Neural Networks through Neuron Groups and Functional Interactions"}
 {"title": "Chain-of-Focus Prompting: Leveraging Sequential Visual Cues to Prompt Large Autoregressive Vision Models"}
 {"title": "Taming Transformer Without Using Learning Rate Warmup"}
 {"title": "Unhackable Temporal Reward for Scalable Video MLLMs"}
@@ -1775,7 +1765,6 @@
 {"title": "RandLoRA: Full rank parameter-efficient fine-tuning of large models"}
 {"title": "Rethinking Evaluation of Sparse Autoencoders through the Representation of Polysemous Words"}
 {"title": "Refine Knowledge of Large Language Models via Adaptive Contrastive Learning"}
-{"title": "Unified Convergence Analysis for Score-Based Diffusion Models with Deterministic Samplers"}
 {"title": "AlphaEdit: Null-Space Constrained Model Editing for Language Models"}
 {"title": "GridMix: Exploring Spatial Modulation for Neural Fields in PDE Modeling"}
 {"title": "Glauber Generative Model: Discrete Diffusion Models via Binary Classification"}
@@ -1794,7 +1783,6 @@
 {"title": "Narrowing Information Bottleneck Theory for Multimodal Image-Text Representations Interpretability"}
 {"title": "Animate-X: Universal Character Image Animation with Enhanced Motion Representation"}
 {"title": "From Models to Microtheories: Distilling a Model's Topical Knowledge for Grounded Question-Answering"}
-{"title": "Efficient Model-Based Reinforcement Learning Through Optimistic Thompson Sampling"}
 {"title": "Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models"}
 {"title": "CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding & Reasoning Capabilities of CodeLLMs"}
 {"title": "Oracle efficient truncated statistics"}
@@ -1822,7 +1810,6 @@
 {"title": "System 1.x: Learning to Balance Fast and Slow Planning with Language Models"}
 {"title": "FreSh: Frequency Shifting for Accelerated Neural Representation Learning"}
 {"title": "Zero-cost Proxy for Adversarial Robustness Evaluation"}
-{"title": "Words in Motion: Extracting Interpretable Control Vectors for Motion Transformers"}
 {"title": "Active Task Disambiguation with LLMs"}
 {"title": "Differentiable Rule Induction from Raw Sequence Inputs"}
 {"title": "How Does Critical Batch Size Scale in Pre-training?"}
@@ -1925,7 +1912,6 @@
 {"title": "Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models"}
 {"title": "Learning to Plan Before Answering: Self-Teaching LLMs to Learn Abstract Plans for Problem Solving"}
 {"title": "A Multi-Power Law for Loss Curve Prediction Across Learning Rate Schedules"}
-{"title": "Streaming Algorithms For $\\ell_p$ Flows and $\\ell_p$ Regression"}
 {"title": "MIRAGE: Evaluating and Explaining Inductive Reasoning Process in Language Models"}
 {"title": "Booster: Tackling Harmful Fine-tuning for Large Language Models via Attenuating Harmful Perturbation"}
 {"title": "Asymptotic Analysis of Two-Layer Neural Networks after One Gradient Step under Gaussian Mixtures Data with Structure"}
@@ -2168,7 +2154,6 @@
 {"title": "Humanizing the Machine: Proxy Attacks to Mislead LLM Detectors"}
 {"title": "Generalization and Distributed Learning of GFlowNets"}
 {"title": "Composing Unbalanced Flows for Flexible Docking and Relaxation"}
-{"title": "Local Loss Optimization in the Infinite Width: Stable Parameterization of Predictive Coding Networks and Target Propagation"}
 {"title": "A Statistical Framework for Ranking LLM-based Chatbots"}
 {"title": "Improved Training Technique for Latent Consistency Models"}
 {"title": "Diffusion$^2$: Dynamic 3D Content Generation via Score Composition of Video and Multi-view Diffusion Models"}
@@ -2264,7 +2249,6 @@
 {"title": "InstantPortrait: One-Step Portrait Editing via Diffusion Multi-Objective Distillation"}
 {"title": "A Distributional Approach to Uncertainty-Aware Preference Alignment Using Offline Demonstrations"}
 {"title": "Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models"}
-{"title": "DiffPC: Diffusion-based High Perceptual Fidelity Image Compression with Semantic Refinement"}
 {"title": "ARB-LLM: Alternating Refined Binarizations for Large Language Models"}
 {"title": "Optimized Multi-Token Joint Decoding With Auxiliary Model for LLM Inference"}
 {"title": "Kronecker Mask and Interpretive Prompts are Language-Action Video Learners"}
@@ -2294,7 +2278,6 @@
 {"title": "ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials"}
 {"title": "HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction"}
 {"title": "Surgical, Cheap, and Flexible: Mitigating False Refusal in Language Models via Single Vector Ablation"}
-{"title": "On the Crucial Role of Initialization for Matrix Factorization"}
 {"title": "Handling Delay in Real-Time Reinforcement Learning"}
 {"title": "NExUME: Adaptive Training and Inference for DNNs under Intermittent Power Environments"}
 {"title": "Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model"}
@@ -2339,7 +2322,6 @@
 {"title": "Fictitious Synthetic Data Can Improve LLM Factuality via Prerequisite Learning"}
 {"title": "Towards a Theoretical Understanding of Synthetic Data in LLM Post-Training: A Reverse-Bottleneck Perspective"}
 {"title": "How DNNs break the Curse of Dimensionality: Compositionality and Symmetry Learning"}
-{"title": "Adaptive backtracking for faster optimization"}
 {"title": "Privacy-Aware Lifelong Learning"}
 {"title": "Mitigating Spurious Correlations in Zero-Shot Multimodal Models"}
 {"title": "LeanAgent: Lifelong Learning for Formal Theorem Proving"}
@@ -2347,7 +2329,6 @@
 {"title": "InstaTrain: Adaptive Training via Ultra-Fast Natural Annealing within Dynamical Systems"}
 {"title": "Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining"}
 {"title": "ZooProbe: A Data Engine for Evaluating, Exploring, and Evolving Large-scale Training Data for Multimodal LLMs"}
-{"title": "CryoFM: A Flow-based Foundation Model for Cryo-EM Densities"}
 {"title": "PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks"}
 {"title": "Adversarial Training for Defense Against Label Poisoning Attacks"}
 {"title": "You Only Sample Once: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs"}
@@ -2406,14 +2387,12 @@
 {"title": "Learning Video-Conditioned Policy on Unlabelled Data with Joint Embedding Predictive Transformer"}
 {"title": "A Riemannian Framework for Learning Reduced-order Lagrangian Dynamics"}
 {"title": "AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation"}
-{"title": "A Theory of Initialisation's Impact on Specialisation"}
 {"title": "Closed-Form Merging of Parameter-Efficient Modules for Federated Continual Learning"}
 {"title": "FreCaS: Efficient Higher-Resolution Image Generation via Frequency-aware Cascaded Sampling"}
 {"title": "T2V2: A Unified Non-Autoregressive Model for Speech Recognition and Synthesis via Multitask Learning"}
 {"title": "SRSA: Skill Retrieval and Adaptation for Robotic Assembly Tasks"}
 {"title": "Concept Bottleneck Large Language Models"}
 {"title": "Approaching Rate-Distortion Limits in Neural Compression with Lattice Transform Coding"}
-{"title": "MELODI: Exploring Memory Compression for Long Contexts"}
 {"title": "Neural Interactive Proofs"}
 {"title": "Newton Meets Marchenko-Pastur: Massively Parallel Second-Order Optimization with Hessian Sketching and Debiasing"}
 {"title": "A Differentiable Metric for Discovering Groups and Unitary Representations"}
@@ -2450,7 +2429,6 @@
 {"title": "Accurate and Scalable Graph Neural Networks via Message Invariance"}
 {"title": "The Breakdown of Gaussian Universality in Classification of High-dimensional Linear Factor Mixtures"}
 {"title": "Teaching LLMs How to Learn with Contextual Fine-Tuning"}
-{"title": "LoCoDL: Communication-Efficient Distributed Learning with Local Training and Compression"}
 {"title": "Protein Language Model Fitness is a Matter of Preference"}
 {"title": "Biologically Constrained Barrel Cortex Model Integrates Whisker Inputs and Replicates Key Brain Network Dynamics"}
 {"title": "In Search of the Engram in LLMs: A Neuroscience Perspective on the Memory Functions in AI Models"}
@@ -2527,7 +2505,6 @@
 {"title": "GenDataAgent: On-the-fly Dataset Augmentation with Synthetic Data"}
 {"title": "Outlier Synthesis via Hamiltonian Monte Carlo for Out-of-Distribution Detection"}
 {"title": "Small Models are LLM Knowledge Triggers for Medical Tabular Prediction"}
-{"title": "Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models"}
 {"title": "Contextual Document Embeddings"}
 {"title": "Continuity-Preserving  Convolutional Autoencoders for Learning Continuous Latent Dynamical Models from Images"}
 {"title": "LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior"}
@@ -2536,7 +2513,6 @@
 {"title": "A Theoretical Perspective: How to Prevent Model Collapse in Self-consuming Training Loops"}
 {"title": "Learning to Discover Regulatory Elements for Gene Expression Prediction"}
 {"title": "Controllable Blur Data Augmentation Using 3D-Aware Motion Estimation"}
-{"title": "Beyond Worst-Case Dimensionality Reduction for Sparse Vectors"}
 {"title": "GANDALF: Generative AttentioN based Data Augmentation and predictive modeLing Framework for personalized cancer treatment"}
 {"title": "Learning-Augmented Frequent Directions"}
 {"title": "Topological Schr\u00f6dinger Bridge Matching"}
@@ -2561,13 +2537,10 @@
 {"title": "Unsupervised Disentanglement of Content and Style via Variance-Invariance Constraints"}
 {"title": "AdaManip: Adaptive Articulated Object Manipulation Environments and Policy Learning"}
 {"title": "ContraDiff: Planning Towards High Return States via Contrastive Learning"}
-{"title": "Modeling Unseen Environments with Language-guided Composable Causal Components in Reinforcement Learning"}
 {"title": "Framer: Interactive Frame Interpolation"}
 {"title": "PhyloVAE: Unsupervised Learning of Phylogenetic Trees via Variational Autoencoders"}
 {"title": "DartControl: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control"}
-{"title": "MambaExtend: A Training-Free Approach to Improve Long Context Extension of Mamba"}
 {"title": "StochSync: Stochastic Diffusion Synchronization for Image Generation in Arbitrary Spaces"}
-{"title": "Energy-Weighted Flow Matching for Offline Reinforcement Learning"}
 {"title": "Contrastive Learning from Synthetic Audio Doppelg\u00e4ngers"}
 {"title": "Nonlinear multiregion neural dynamics with parametric impulse response communication channels"}
 {"title": "Graph Neural Networks for Edge Signals: Orientation Equivariance and Invariance"}
@@ -2643,7 +2616,6 @@
 {"title": "Theory, Analysis, and Best Practices for Sigmoid Self-Attention"}
 {"title": "Federated Few-Shot Class-Incremental Learning"}
 {"title": "What Makes a Maze Look Like a Maze?"}
-{"title": "Sparse components distinguish visual pathways & their alignment to neural networks"}
 {"title": "LDAdam: Adaptive Optimization from Low-Dimensional Gradient Statistics"}
 {"title": "Conditional Testing based on Localized Conformal $p$-values"}
 {"title": "Revisiting text-to-image evaluation with Gecko: on metrics, prompts, and human rating"}
@@ -2654,7 +2626,6 @@
 {"title": "TLDR: Token-Level Detective Reward Model for Large Vision Language Models"}
 {"title": "Rethinking Spiking Neural Networks from an Ensemble Learning Perspective"}
 {"title": "One-for-All Few-Shot Anomaly Detection via Instance-Induced Prompt Learning"}
-{"title": "Self-Play Preference Optimization for Language Model Alignment"}
 {"title": "Training Large Language Models for Retrieval-Augmented Question Answering through Backtracking Correction"}
 {"title": "Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages"}
 {"title": "CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes"}
@@ -2695,7 +2666,6 @@
 {"title": "How Learnable Grids Recover Fine Detail in Low Dimensions: A Neural Tangent Kernel Analysis of Multigrid Parametric Encodings"}
 {"title": "Learning Geometric Reasoning Networks For Robot Task And Motion Planning"}
 {"title": "Rethinking Neural Multi-Objective Combinatorial Optimization via Neat Weight Embedding"}
-{"title": "Anyprefer: An Agentic Framework for Preference Data Synthesis"}
 {"title": "Towards Multiple Character Image Animation Through Enhancing Implicit Decoupling"}
 {"title": "Is Factuality Enhancement a Free Lunch For LLMs? Better Factuality Can Lead to Worse Context-Faithfulness"}
 {"title": "Implicit In-context Learning"}
@@ -2716,8 +2686,6 @@
 {"title": "Second-Order Fine-Tuning without Pain for LLMs: A Hessian Informed Zeroth-Order Optimizer"}
 {"title": "Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling"}
 {"title": "Efficient Sparse PCA via Block-Diagonalization"}
-{"title": "The Crucial Role of Samplers in Online Direct Preference Optimization"}
-{"title": "Towards Generalizable Reinforcement Learning via Causality-Guided Self-Adaptive Representations"}
 {"title": "Bridging the Gap between Variational Inference and Stochastic Gradient MCMC in Function Space"}
 {"title": "Topological Blindspots: Understanding and Extending Topological Deep Learning Through the Lens of Expressivity"}
 {"title": "The Effectiveness of Curvature-Based Rewiring and the Role of Hyperparameters in GNNs Revisited"}
@@ -2760,7 +2728,6 @@
 {"title": "CoInD: Enabling Logical Compositions in Diffusion Models"}
 {"title": "Physics-aligned field reconstruction with diffusion bridge"}
 {"title": "Find A Winning Sign: Sign Is All We Need to Win the Lottery"}
-{"title": "Comparing noisy neural population dynamics using optimal transport distances"}
 {"title": "Can Textual Gradient Work in Federated Learning?"}
 {"title": "Progressive Compression with Universally Quantized Diffusion Models"}
 {"title": "Bridging Context Gaps: Leveraging Coreference Resolution for Long Contextual Understanding"}
@@ -2887,7 +2854,6 @@
 {"title": "A Conditional Independence Test in the Presence of Discretization"}
 {"title": "Rethinking Visual Counterfactual Explanations Through Region Constraint"}
 {"title": "Minimal Variance Model Aggregation: A principled, non-intrusive, and versatile integration of black box models"}
-{"title": "Beyond Surface Structure: A Causal Assessment of LLMs' Comprehension ability"}
 {"title": "An Auditing Test to Detect Behavioral Shift in Language Models"}
 {"title": "Sensitivity Verification for Additive Decision Tree Ensembles"}
 {"title": "RNNs are not Transformers (Yet):  The Key Bottleneck on In-Context Retrieval"}
@@ -3170,7 +3136,6 @@
 {"title": "Almost Optimal Batch-Regret Tradeoff for Batch Linear Contextual Bandits"}
 {"title": "High-quality Text-to-3D Character Generation with SparseCubes and Sparse Transformers."}
 {"title": "DICE: End-to-end Deformation Capture of Hand-Face Interactions from a Single Image"}
-{"title": "Optimal Protocols for Continual Learning via Statistical Physics and Control Theory"}
 {"title": "SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?"}
 {"title": "UIFace: Unleashing Inherent Model Capabilities to Enhance Intra-Class Diversity in Synthetic Face Recognition"}
 {"title": "Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation"}
@@ -3191,7 +3156,6 @@
 {"title": "Your Weak LLM is Secretly a Strong Teacher for Alignment"}
 {"title": "Energy-Based Diffusion Language Models for Text Generation"}
 {"title": "Group Downsampling with Equivariant Anti-aliasing"}
-{"title": "MAST: model-agnostic sparsified training"}
 {"title": "Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance"}
 {"title": "One Model Transfer to All: On Robust Jailbreak Prompts Generation against LLMs"}
 {"title": "Data-adaptive Differentially Private Prompt Synthesis for In-Context Learning"}
@@ -3207,7 +3171,6 @@
 {"title": "FreeCG: Free the Design Space of Clebsch-Gordan Transform for Machine Learning Force Fields"}
 {"title": "Towards Understanding the Robustness of Diffusion-Based Purification: A Stochastic Perspective"}
 {"title": "Semantix: An Energy-guided Sampler for Semantic Style Transfer"}
-{"title": "BTBS-LNS: Binarized-Tightening, Branch and Search on Learning LNS Policies for MIP"}
 {"title": "Instructional Segment Embedding: Improving LLM Safety with Instruction Hierarchy"}
 {"title": "Nesterov acceleration in benignly non-convex landscapes"}
 {"title": "Neural Spacetimes for DAG Representation Learning"}
@@ -3272,13 +3235,11 @@
 {"title": "TODO: Enhancing LLM Alignment with Ternary Preferences"}
 {"title": "Towards Certification of Uncertainty Calibration under Adversarial Attacks"}
 {"title": "SynFlowNet: Design of Diverse and Novel Molecules with Synthesis Constraints"}
-{"title": "Flow Matching with Gaussian Process Priors for Probabilistic Time Series Forecasting"}
 {"title": "Unbounded: A Generative Infinite Game of Character Life Simulation"}
 {"title": "Reconciling Model Multiplicity for Downstream Decision Making"}
 {"title": "VideoShield: Regulating Diffusion-based Video Generation Models via Watermarking"}
 {"title": "Selective Attention Improves Transformer"}
 {"title": "Schur's Positive-Definite Network: Deep Learning in the SPD cone with structure"}
-{"title": "Decoupled Subgraph Federated Learning"}
 {"title": "Does SGD really happen in tiny subspaces?"}
 {"title": "Multimodal Quantitative Language for Generative Recommendation"}
 {"title": "UniMatch: Universal Matching from Atom to Task for Few-Shot Drug Discovery"}
@@ -3350,7 +3311,6 @@
 {"title": "Enhancing Uncertainty Estimation and Interpretability with Bayesian Non-negative Decision Layer"}
 {"title": "Language Models Learn to Mislead Humans via RLHF"}
 {"title": "Discrete Distribution Networks"}
-{"title": "Learning General-purpose Biomedical Volume Representations using Randomized Synthesis"}
 {"title": "Endless Jailbreaks with Bijection Learning"}
 {"title": "UniRestore3D: A Scalable Framework For General Shape Restoration"}
 {"title": "Optimal Transport for Time Series Imputation"}
@@ -3394,7 +3354,6 @@
 {"title": "Integral Performance Approximation for Continuous-Time Reinforcement Learning Control"}
 {"title": "GOAL: A Generalist Combinatorial Optimization Agent Learner"}
 {"title": "Deep Kernel Relative Test for Machine-generated Text Detection"}
-{"title": "SSOLE: Rethinking Orthogonal Low-rank Embedding for Self-Supervised Learning"}
 {"title": "Group Ligands Docking to Protein Pockets"}
 {"title": "VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents"}
 {"title": "Intervening Anchor Token: Decoding Strategy in Alleviating Hallucinations for MLLMs"}
@@ -3405,7 +3364,6 @@
 {"title": "Feature Averaging: An Implicit Bias of Gradient Descent Leading to Non-Robustness in Neural Networks"}
 {"title": "Semantic Temporal Abstraction via Vision-Language Model Guidance for Efficient Reinforcement Learning"}
 {"title": "Synthesizing Realistic fMRI: A Physiological Dynamics-Driven Hierarchical Diffusion Model for Efficient fMRI Acquisition"}
-{"title": "h4rm3l: A Language for Composable Jailbreak Attack Synthesis"}
 {"title": "Dataset Ownership Verification in Contrastive Pre-trained Models"}
 {"title": "Lines of Thought in Large Language Models"}
 {"title": "IgGM: A Generative Model for Functional Antibody and Nanobody Design"}
@@ -3462,11 +3420,9 @@
 {"title": "SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation"}
 {"title": "SPaR: Self-Play with Tree-Search Refinement to Improve Instruction-Following in Large Language Models"}
 {"title": "From Commands to Prompts: LLM-based Semantic File System for AIOS"}
-{"title": "Improving Data Efficiency via Curating LLM-Driven Rating Systems"}
 {"title": "Shh, don't say that! Domain Certification in LLMs"}
 {"title": "Memory Mosaics"}
 {"title": "Denoising Levy Probabilistic Models"}
-{"title": "SFS: Smarter Code Space Search improves LLM Inference Scaling"}
 {"title": "Progressive Mixed-Precision Decoding for Efficient LLM Inference"}
 {"title": "Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification"}
 {"title": "T2V-Turbo-v2: Enhancing Video Model Post-Training through Data, Reward, and Conditional Guidance Design"}
@@ -3475,10 +3431,8 @@
 {"title": "Does Editing Provide Evidence for Localization?"}
 {"title": "NRGBoost: Energy-Based Generative Boosted Trees"}
 {"title": "MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents"}
-{"title": "Strategist: Self-improvement of LLM Decision Making via Bi-Level Tree Search"}
 {"title": "Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization"}
 {"title": "KiVA: Kid-inspired Visual Analogies for Testing Large Multimodal Models"}
-{"title": "HERO: Human-Feedback Efficient Reinforcement Learning for Online Diffusion Model Finetuning"}
 {"title": "Should VLMs be Pre-trained with Image Data?"}
 {"title": "Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist"}
 {"title": "Gnothi Seauton: Empowering Faithful Self-Interpretability in Black-Box Transformers"}
@@ -3552,7 +3506,6 @@
 {"title": "Deep Incomplete Multi-view Learning via Cyclic Permutation of VAEs"}
 {"title": "Fewer May Be Better: Enhancing Offline Reinforcement Learning with Reduced Dataset"}
 {"title": "Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage"}
-{"title": "Automated Filtering of Human Feedback Data for Aligning Text-to-Image Diffusion Models"}
 {"title": "T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching"}
 {"title": "Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning"}
 {"title": "Towards Hierarchical Rectified Flow"}
@@ -3690,7 +3643,6 @@
 {"title": "HaDeMiF: Hallucination Detection and Mitigation in Large Language Models"}
 {"title": "BadJudge: Backdoor Vulnerabilities of LLM-As-A-Judge"}
 {"title": "Improving Pretraining Data Using Perplexity Correlations"}
-{"title": "Going Beyond Feature Similarity: Effective Dataset distillation based on Class-aware Conditional Mutual Information"}
 {"title": "Gramian Multimodal Representation Learning and Alignment"}
 {"title": "Improving Neural Network Accuracy by Concurrently Training with a Twin Network"}
 {"title": "Beyond correlation: The impact of human uncertainty in measuring the effectiveness of automatic evaluation and LLM-as-a-judge"}
@@ -3711,7 +3663,6 @@
 {"title": "Oscillatory State-Space Models"}
 {"title": "Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization"}
 {"title": "Designing Concise ConvNets with Columnar Stages"}
-{"title": "MMSearch: Unveiling the Potential of Large Models as Multi-modal Search Engines"}
 {"title": "Rethinking Light Decoder-based Solvers for Vehicle Routing Problems"}
 {"title": "Solving hidden monotone variational inequalities with surrogate losses"}
 {"title": "Sharpness-Aware Minimization: General Analysis and Improved Rates"}
@@ -3738,12 +3689,10 @@
 {"title": "Dynamic Contrastive Skill Learning with State-Transition Based Skill Clustering and Dynamic Length Adjustment"}
 {"title": "$q$-exponential family for policy optimization"}
 {"title": "CBMA: Improving Conformal Prediction through Bayesian Model Averaging"}
-{"title": "InverseBench: Benchmarking Plug-and-Play Diffusion Priors for Inverse Problems in Physical Sciences"}
 {"title": "Residual Deep Gaussian Processes on Manifolds"}
 {"title": "Standard Gaussian Process is All You Need for High-Dimensional Bayesian Optimization"}
 {"title": "End-to-end Learning of Gaussian Mixture Priors for Diffusion Sampler"}
 {"title": "Diffusion On Syntax Trees For Program Synthesis"}
-{"title": "Flow-based Variational Mutual Information: Fast and Flexible Approximations"}
 {"title": "Benchmarking Predictive Coding Networks -- Made Simple"}
 {"title": "Kernel-based Optimally Weighted Conformal Time-Series Prediction"}
 {"title": "Connecting Federated ADMM to Bayes"}

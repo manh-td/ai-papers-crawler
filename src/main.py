@@ -28,6 +28,9 @@ def fetch_strategy_1(url:str) -> list:
     papers = []
     for paper in tqdm(dom.xpath("//li/a"), desc=f"Processing {url}"):  # Adjust XPath based on the actual structure
         title = paper.xpath("text()")[0]
+        if "\n" in title:
+            logging.warning(f"Title contains newline character: {title}")
+            continue
         # logging.debug(f"Processing paper: {title}")
         # arxiv_paper = search_paper_by_title(title)
         # if not arxiv_paper:
