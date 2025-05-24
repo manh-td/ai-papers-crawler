@@ -3,3 +3,4 @@ lxml
 requests
 tqdm
 transformers
+bertopic
