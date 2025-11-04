@@ -4,10 +4,10 @@ on:
   schedule:
     # Run every day at 00:00 UTC
     - cron: '0 0 * * *'
-  push:
-    # Optionally specify branches if needed
-    branches:
-      - main  # Change 'master' to the default branch of your repository if it's different
+  # push:
+  #   # Optionally specify branches if needed
+  #   branches:
+  #     - main  # Change 'master' to the default branch of your repository if it's different
 
 jobs:
   execute-code:
