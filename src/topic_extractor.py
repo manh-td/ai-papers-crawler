@@ -64,7 +64,7 @@ def main():
     logging.info("Starting keyword extraction using Ollama (subprocess mode)...")
 
     papers_path = Path(ALL_PAPERS_DIR)
-    papers = load_jsonl(papers_path)[:10]
+    papers = load_jsonl(papers_path)
     Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
     CACHE_DIR = Path(OUTPUT_DIR) / "cache"
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
