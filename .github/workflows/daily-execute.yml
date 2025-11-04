@@ -4,10 +4,10 @@ on:
   schedule:
     # Run every day at 00:00 UTC
     - cron: '0 0 * * *'
-  # push:
-  #   # Optionally specify branches if needed
-  #   branches:
-  #     - main  # Change 'master' to the default branch of your repository if it's different
+  push:
+    # Optionally specify branches if needed
+    branches:
+      - main  # Change 'master' to the default branch of your repository if it's different
 
 jobs:
   execute-code:
@@ -20,6 +20,17 @@ jobs:
       - name: Install dependencies for Google API
         run: |
           pip install -r requirements.txt
+
+      - name: Install Ollama
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+          sudo systemctl enable ollama
+          sudo systemctl start ollama
+          sleep 5  # Give Ollama a few seconds to start
+
+      - name: Pull phi3:mini model
+        run: |
+          ollama pull phi3:mini
 
       - name: Execute script
         run: |

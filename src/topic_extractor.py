@@ -2,13 +2,14 @@ from pathlib import Path
 import subprocess
 import json
 from tqdm import tqdm
-from .utils import load_jsonl, write_json, logging
+from .utils import load_jsonl, write_json, write_jsonl, logging
 from .config import ALL_PAPERS_DIR, OUTPUT_DIR, LLM_MODEL, LLM_TIMEOUT, PROMPT, HUMAN_KEYWORDS
+
 
 def extract_keywords_with_ollama(title: str, model: str = LLM_MODEL) -> list:
     """
     Use Ollama via subprocess to extract a list of keywords from a paper title.
-    Returns a list of keywords, or ['Error'] on failure.
+    Returns a list of keywords, or an empty list on failure.
     """
     prompt = PROMPT.format(
         human_keywords=", ".join(HUMAN_KEYWORDS),
@@ -25,17 +26,16 @@ def extract_keywords_with_ollama(title: str, model: str = LLM_MODEL) -> list:
 
         if result.returncode != 0:
             logging.error(f"Ollama error for title: {title}\n{result.stderr.strip()}")
-            return ["Error"]
+            return []
 
         output = result.stdout.strip()
-        # Try to extract JSON safely
-        try:
-            json_start = output.find("{")
-            json_end = output.rfind("}") + 1
-        except Exception:
-            return None
+        # Extract JSON safely
+        json_start = output.find("{")
+        json_end = output.rfind("}") + 1
+        if json_start == -1 or json_end == -1:
+            logging.warning(f"No JSON object found in Ollama output for title '{title}': {output}")
+            return []
 
-        # Try to parse JSON output
         try:
             data = json.loads(output[json_start:json_end])
             keywords = data.get("keywords", [])
@@ -58,17 +58,18 @@ def extract_keywords_with_ollama(title: str, model: str = LLM_MODEL) -> list:
 
 def main():
     """
-    Loads all paper titles and uses Ollama to extract keywords for each.
-    Caches results per paper to avoid redundant calls.
+    Loads all paper titles, extracts keywords with Ollama, updates the original JSONL,
+    caches keywords per paper, and creates a deduplicated global keyword list.
     """
     logging.info("Starting keyword extraction using Ollama (subprocess mode)...")
 
-    papers = load_jsonl(ALL_PAPERS_DIR)[:2]  # limit for testing
+    papers_path = Path(ALL_PAPERS_DIR)
+    papers = load_jsonl(papers_path)[:10]
     Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
     CACHE_DIR = Path(OUTPUT_DIR) / "cache"
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
-    results = []
+    global_keywords_set = set()
 
     for paper in tqdm(papers, desc="Extracting keywords"):
         title = paper.get("title", "").strip()
@@ -95,15 +96,22 @@ def main():
         if not keywords:
             continue
 
-        results.append({
-            "conference": paper.get("conference", ""),
-            "title": title,
-            "keywords": keywords,
-        })
+        # Update paper with keywords
+        paper["keywords"] = keywords
 
-    output_path = Path(OUTPUT_DIR) / "ollama_keywords.json"
-    write_json(output_path, results)
-    logging.info(f"Saved extracted keywords to {output_path}")
+        # Add to global keywords set
+        global_keywords_set.update(keywords)
+
+    # Write updated papers to JSONL
+    updated_papers_path = Path(OUTPUT_DIR) / "papers_with_keywords.jsonl"
+    write_jsonl(updated_papers_path, papers)
+    logging.info(f"Saved updated papers to {updated_papers_path}")
+
+    # Write global keyword list (deduplicated)
+    global_keywords_list = sorted(global_keywords_set)
+    keywords_list_path = Path(OUTPUT_DIR) / "generated_keywords.json"
+    write_json(keywords_list_path, global_keywords_list)
+    logging.info(f"Saved deduplicated global keyword list to {keywords_list_path}")
 
 
 if __name__ == "__main__":
