@@ -92,7 +92,8 @@ def main():
         else:
             # Extract keywords and cache them
             keywords = extract_keywords_with_ollama(title)
-            cache_file.write_text(json.dumps({"keywords": keywords}), encoding="utf-8")
+            if len(keywords) > 0:
+                cache_file.write_text(json.dumps({"keywords": keywords}), encoding="utf-8")
 
         if not keywords:
             continue
