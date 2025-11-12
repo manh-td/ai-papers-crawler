@@ -2,6 +2,8 @@ from pathlib import Path
 import subprocess
 import json
 from tqdm import tqdm
+from timeout_decorator import timeout, TimeoutError
+
 from .utils import load_jsonl, write_json, write_jsonl, logging
 from .config import ALL_PAPERS_DIR, OUTPUT_DIR, LLM_MODEL, LLM_TIMEOUT, PROMPT, HUMAN_KEYWORDS
 
@@ -55,7 +57,7 @@ def extract_keywords_with_ollama(title: str, model: str = LLM_MODEL) -> list:
         logging.error(f"Unexpected error while extracting keywords for '{title}': {e}")
         return []
 
-
+@timeout(seconds=18000)
 def main():
     """
     Loads all paper titles, extracts keywords with Ollama, updates the original JSONL,
@@ -117,4 +119,9 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except TimeoutError:
+        logging.error("⏰ The crawling process timed out after 5 hours (18000 seconds). Exiting gracefully.")
+    except Exception as e:
+        logging.error(f"Unexpected error: {e}")
