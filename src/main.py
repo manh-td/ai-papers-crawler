@@ -78,7 +78,7 @@ def fetch_strategy_2(url: str) -> list:
     return papers
 
 
-@timeout(seconds=18000)
+@timeout(seconds=3600)
 def main():
     """
     Entry point for the AI Papers Crawler.
