@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 from lxml import etree
 from tqdm import tqdm
-from timeout_decorator import timeout, TimeoutError
 
 from .utils import logging, write_jsonl, load_jsonl
 from .config import CONFERENCE_LIST, YEARS, OUTPUT_DIR
@@ -77,8 +76,6 @@ def fetch_strategy_2(url: str) -> list:
 
     return papers
 
-
-@timeout(seconds=3600)
 def main():
     """
     Entry point for the AI Papers Crawler.
@@ -131,9 +128,4 @@ def main():
 
 
 if __name__ == "__main__":
-    try:
-        main()
-    except TimeoutError:
-        logging.error("⏰ The crawling process timed out after 5 hours (18000 seconds). Exiting gracefully.")
-    except Exception as e:
-        logging.error(f"Unexpected error: {e}")
+    main()

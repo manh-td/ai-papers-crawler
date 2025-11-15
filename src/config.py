@@ -50,3 +50,5 @@ Title: "{title}"
 
 Return ONLY the JSON object above. Include both relevant human keywords and new suggested keywords.
 """
+
+EVERYDAY_COUNT = 100

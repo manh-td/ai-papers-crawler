@@ -2,10 +2,9 @@ from pathlib import Path
 import subprocess
 import json
 from tqdm import tqdm
-from timeout_decorator import timeout, TimeoutError
 
 from .utils import load_jsonl, write_json, write_jsonl, logging
-from .config import ALL_PAPERS_DIR, OUTPUT_DIR, LLM_MODEL, LLM_TIMEOUT, PROMPT, HUMAN_KEYWORDS
+from .config import ALL_PAPERS_DIR, OUTPUT_DIR, LLM_MODEL, LLM_TIMEOUT, PROMPT, HUMAN_KEYWORDS, EVERYDAY_COUNT
 
 
 def extract_keywords_with_ollama(title: str, model: str = LLM_MODEL) -> list:
@@ -57,7 +56,6 @@ def extract_keywords_with_ollama(title: str, model: str = LLM_MODEL) -> list:
         logging.error(f"Unexpected error while extracting keywords for '{title}': {e}")
         return []
 
-@timeout(seconds=18000)
 def main():
     """
     Loads all paper titles, extracts keywords with Ollama, updates the original JSONL,
@@ -73,6 +71,7 @@ def main():
 
     global_keywords_set = set()
 
+    today_count = 0
     for paper in tqdm(papers, desc="Extracting keywords"):
         title = paper.get("title", "").strip()
         if not title:
@@ -106,6 +105,10 @@ def main():
         # Add to global keywords set
         global_keywords_set.update(keywords)
 
+        today_count += 1
+        if today_count > EVERYDAY_COUNT:
+            break
+
     # Write updated papers to JSONL
     updated_papers_path = Path(OUTPUT_DIR) / "papers_with_keywords.jsonl"
     write_jsonl(updated_papers_path, papers)
@@ -117,11 +120,5 @@ def main():
     write_json(keywords_list_path, global_keywords_list)
     logging.info(f"Saved deduplicated global keyword list to {keywords_list_path}")
 
-
 if __name__ == "__main__":
-    try:
-        main()
-    except TimeoutError:
-        logging.error("⏰ The crawling process timed out after 5 hours (18000 seconds). Exiting gracefully.")
-    except Exception as e:
-        logging.error(f"Unexpected error: {e}")
+    main()
