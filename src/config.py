@@ -18,10 +18,7 @@ ALL_PAPERS_DIR = "outputs/all_papers.jsonl"
 
 LLM_MODEL = "phi3:mini"
 LLM_TIMEOUT = 5 * 60
-HUMAN_KEYWORDS = [
-    "Reinforcement Learning",
-    "Text-to-SQL"
-]
+
 HUMAN_KEYWORDS = [
     "Reinforcement Learning",
     "Text-to-SQL",

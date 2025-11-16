@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from lxml import etree
 from tqdm import tqdm
+from pathlib import Path
 
 from .utils import logging, write_jsonl, load_jsonl
 from .config import CONFERENCE_LIST, YEARS, OUTPUT_DIR
@@ -82,7 +83,9 @@ def main():
     Iterates over configured conferences and years, fetching paper titles.
     """
     logging.info("Welcome to the AI Papers Crawler!")
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    output_path = Path(OUTPUT_DIR)
+    papers_output_path = output_path / "papers"
+    papers_output_path.mkdir(parents=True, exist_ok=True)
 
     all_papers = []
 
@@ -90,20 +93,20 @@ def main():
         fetch_func = fetch_strategy_2 if "emnlp" in conference.lower() else fetch_strategy_1
 
         for year in YEARS:
-            output_path = os.path.join(OUTPUT_DIR, f"{conference}{year}.jsonl")
+            papers_output_path = papers_output_path / f"{conference}{year}.jsonl"
 
             try:
-                if os.path.exists(output_path):
-                    logging.info(f"File {output_path} already exists. Skipping...")
-                    papers = load_jsonl(output_path)
+                if papers_output_path.exists():
+                    logging.info(f"File {papers_output_path} already exists. Skipping...")
+                    papers = load_jsonl(str(papers_output_path))
                 else:
                     url = conf_url.format(year=year)
                     papers = fetch_func(url)
 
                     if papers:
                         logging.info(f"Fetched {len(papers)} papers from {url}")
-                        write_jsonl(output_path, papers)
-                        logging.info(f"Saved papers to {output_path}")
+                        write_jsonl(str(papers_output_path), papers)
+                        logging.info(f"Saved papers to {str(papers_output_path)}")
                     else:
                         logging.warning(f"No papers found for {url}")
 
@@ -120,9 +123,9 @@ def main():
                 logging.error(f"Error processing {conference} {year}: {e}")
 
     try:
-        all_papers_path = os.path.join(OUTPUT_DIR, "all_papers.jsonl")
-        write_jsonl(all_papers_path, all_papers)
-        logging.info(f"Saved all papers to {all_papers_path}")
+        all_papers_path = papers_output_path / "all_papers.jsonl"
+        write_jsonl(str(all_papers_path), all_papers)
+        logging.info(f"Saved all papers to {str(all_papers_path)}")
     except Exception as e:
         logging.error(f"Error writing all_papers.jsonl: {e}")
 

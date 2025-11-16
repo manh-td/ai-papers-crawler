@@ -111,7 +111,7 @@ def main():
             break
 
     # Write updated papers to JSONL
-    updated_papers_path = Path(OUTPUT_DIR) / "papers_with_keywords.jsonl"
+    updated_papers_path = Path(OUTPUT_DIR) / "papers" / "papers_with_keywords.jsonl"
     write_jsonl(updated_papers_path, papers)
     logging.info(f"Saved updated papers to {updated_papers_path}")
 
