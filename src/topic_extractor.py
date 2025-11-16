@@ -90,11 +90,13 @@ def main():
                 keywords = extract_keywords_with_ollama(title)
                 if len(keywords) > 0:
                     cache_file.write_text(json.dumps({"keywords": keywords}), encoding="utf-8")
+                    today_count += 1
         else:
             # Extract keywords and cache them
             keywords = extract_keywords_with_ollama(title)
             if len(keywords) > 0:
                 cache_file.write_text(json.dumps({"keywords": keywords}), encoding="utf-8")
+                today_count += 1
 
         if not keywords:
             continue
@@ -105,7 +107,6 @@ def main():
         # Add to global keywords set
         global_keywords_set.update(keywords)
 
-        today_count += 1
         if today_count > EVERYDAY_COUNT:
             break
 
