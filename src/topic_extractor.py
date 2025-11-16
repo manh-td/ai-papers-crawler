@@ -105,7 +105,7 @@ def main():
         paper["keywords"] = keywords
 
         # Add to global keywords set
-        global_keywords_set.update(keywords)
+        global_keywords_set.update([keyword.lower() for keyword in keywords])
 
         if today_count > EVERYDAY_COUNT:
             break
