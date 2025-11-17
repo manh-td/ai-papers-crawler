@@ -14,7 +14,7 @@ CONFERENCE_LIST = [
     ("emnlp", "https://{year}.emnlp.org/program/accepted_main_conference/")
 ]
 
-ALL_PAPERS_DIR = "outputs/all_papers.jsonl"
+ALL_PAPERS_DIR = "outputs/papers/all_papers.jsonl"
 
 LLM_MODEL = "phi3:mini"
 LLM_TIMEOUT = 5 * 60
