@@ -2180,10 +2180,10 @@
 {"conference": "iclr2025", "title": "Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing", "keywords": ["Prompt tuning", "LLM alignment"]}
 {"conference": "iclr2025", "title": "Arithmetic Transformers Can Length-Generalize in Both Operand Length and Count", "keywords": ["transformer", "arithmetic generalization", "operand length"]}
 {"conference": "iclr2025", "title": "Pairwise Elimination with Instance-Dependent Guarantees for Bandits with Cost Subsidy", "keywords": ["Bandit problems", "Subsidy costs", "Instance-dependent"]}
-{"conference": "iclr2025", "title": "Fine-Tuning Attention Modules Only: Enhancing Weight Disentanglement in Task Arithmetic"}
+{"conference": "iclr2025", "title": "Fine-Tuning Attention Modules Only: Enhancing Weight Disentanglement in Task Arithmetic", "keywords": ["Fine-tuning", "attention modules", "weight disentanglement"]}
 {"conference": "iclr2025", "title": "Training Language Models on Synthetic Edit Sequences Improves Code Synthesis", "keywords": ["Language Model", "Code Generation", "Training"]}
 {"conference": "iclr2025", "title": "Provable unlearning in topic modeling and downstream tasks", "keywords": ["topic modeling", "unlearning", "machine learning"]}
-{"conference": "iclr2025", "title": "Training Free Exponential Context Extension via Cascading KV Cache"}
+{"conference": "iclr2025", "title": "Training Free Exponential Context Extension via Cascading KV Cache", "keywords": ["Caching", "Reinforcement Learning", "Knowledge Visualization"]}
 {"conference": "iclr2025", "title": "Sequential Controlled Langevin Diffusions", "keywords": ["Langrangean dynamics", "Stochastic control", "Optimization"]}
 {"conference": "iclr2025", "title": "Do Contemporary Causal Inference Models Capture Real-World Heterogeneity? Findings from a Large-Scale Benchmark", "keywords": ["Causal Inference", "Heterogeneity", "Benchmark"]}
 {"conference": "iclr2025", "title": "PooDLe\ud83d\udc29: Pooled and dense self-supervised learning from naturalistic videos", "keywords": ["self-supervised learning", "naturalistic videos"]}
@@ -2208,7 +2208,7 @@
 {"conference": "iclr2025", "title": "MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequences", "keywords": ["Hierarchical generation", "Visual sequences", "Long-term coherence"]}
 {"conference": "iclr2025", "title": "Scale-aware Recognition in Satellite Images under Resource Constraints", "keywords": ["Satellite imagery", "Image recognition", "Resource management"]}
 {"conference": "iclr2025", "title": "TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models", "keywords": ["Temporal Modeling", "Knowledge Distillation"]}
-{"conference": "iclr2025", "title": "Adversarial Latent Feature Augmentation for Fairness"}
+{"conference": "iclr2025", "title": "Adversarial Latent Feature Augmentation for Fairness", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
 {"conference": "iclr2025", "title": "REvolve: Reward Evolution with Large Language Models using Human Feedback", "keywords": ["Reinforcement Learning", "Human Feedback"]}
 {"conference": "iclr2025", "title": "Aligning Human Motion Generation with Human Perceptions", "keywords": ["Human motion generation", "Perception alignment", "Computer vision"]}
 {"conference": "iclr2025", "title": "PEARL: Parallel Speculative Decoding with Adaptive Draft Length", "keywords": ["Reinforcement Learning", "Parallel Computing"]}
@@ -2240,7 +2240,7 @@
 {"conference": "iclr2025", "title": "MaxInfoRL: Boosting exploration in reinforcement learning through information gain maximization", "keywords": ["reinforcement learning", "exploration", "information theory"]}
 {"conference": "iclr2025", "title": "Mitigate the Gap: Improving Cross-Modal Alignment in CLIP", "keywords": ["CLIP", "cross-modal alignment"]}
 {"conference": "iclr2025", "title": "Separation Power of Equivariant Neural Networks", "keywords": ["Reinforcement Learning", "Fine-tuning", "Data Efficiency"]}
-{"conference": "iclr2025", "title": "Can LLMs Really Learn to Translate a Low-Resource Language from One Grammar Book?"}
+{"conference": "iclr2025", "title": "Can LLMs Really Learn to Translate a Low-Resource Language from One Grammar Book?", "keywords": ["LLM", "language translation", "grammar"]}
 {"conference": "iclr2025", "title": "Toward Understanding In-context vs. In-weight Learning", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
 {"conference": "iclr2025", "title": "Error-quantified Conformal Inference for Time Series", "keywords": ["Time series analysis", "Conformal prediction"]}
 {"conference": "iclr2025", "title": "Enhancing Language Model Agents using Diversity of Thoughts", "keywords": ["Language Models", "Thinking Agents", "Diverse Perspectries"]}
@@ -2271,109 +2271,109 @@
 {"conference": "iclr2025", "title": "ODE-based Smoothing Neural Network for Reinforcement Learning Tasks", "keywords": ["Reinforcement Learning", "Neural Network"]}
 {"conference": "iclr2025", "title": "ReGenesis: LLMs can Grow into Reasoning Generalists via Self-Improvement", "keywords": ["LLM", "Self-improvement"]}
 {"conference": "iclr2025", "title": "Progressive Compositionality in Text-to-Image Generative Models", "keywords": ["Text-to-SQL", "Fine-tuning"]}
-{"conference": "iclr2025", "title": "Redefining the task of Bioactivity Prediction"}
-{"conference": "iclr2025", "title": "GROOT-2: Weakly Supervised Multimodal Instruction Following Agents"}
-{"conference": "iclr2025", "title": "ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials"}
-{"conference": "iclr2025", "title": "HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction"}
-{"conference": "iclr2025", "title": "Surgical, Cheap, and Flexible: Mitigating False Refusal in Language Models via Single Vector Ablation"}
-{"conference": "iclr2025", "title": "Handling Delay in Real-Time Reinforcement Learning"}
-{"conference": "iclr2025", "title": "NExUME: Adaptive Training and Inference for DNNs under Intermittent Power Environments"}
-{"conference": "iclr2025", "title": "Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model"}
-{"conference": "iclr2025", "title": "Geometry of Lightning Self-Attention: Identifiability and Dimension"}
-{"conference": "iclr2025", "title": "Attributing Culture-Conditioned Generations to Pretraining Corpora"}
-{"conference": "iclr2025", "title": "Long-time asymptotics of noisy SVGD outside the population limit"}
-{"conference": "iclr2025", "title": "Spreading Out-of-Distribution Detection on Graphs"}
-{"conference": "iclr2025", "title": "High-Dimensional Bayesian Optimisation with Gaussian Process Prior Variational Autoencoders"}
+{"conference": "iclr2025", "title": "Redefining the task of Bioactivity Prediction", "keywords": ["Bioinformatics", "Drug Discovery", "Machine Learning"]}
+{"conference": "iclr2025", "title": "GROOT-2: Weakly Supervised Multimodal Instruction Following Agents", "keywords": ["Weakly supervised", "Multimodal instruction following agents"]}
+{"conference": "iclr2025", "title": "ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials", "keywords": ["Machine Learning", "Crystalline Materials", "Charge Density"]}
+{"conference": "iclr2025", "title": "HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction", "keywords": ["computer graphics", "spherical harmonics"]}
+{"conference": "iclr2025", "title": "Surgical, Cheap, and Flexible: Mitigating False Refusal in Language Models via Single Vector Ablation", "keywords": ["Language Model", "Ablation Technique", "False Rejection"]}
+{"conference": "iclr2025", "title": "Handling Delay in Real-Time Reinforcement Learning", "keywords": ["Reinforcement Learning", "Real-Time", "Delay"]}
+{"conference": "iclr2025", "title": "NExUME: Adaptive Training and Inference for DNNs under Intermittent Power Environments", "keywords": ["Neural Network", "Power Outage Recovery", "Adaptive Learning"]}
+{"conference": "iclr2025", "title": "Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model", "keywords": ["multi-modal", "predictive modeling", "transfusion"]}
+{"conference": "iclr2025", "title": "Geometry of Lightning Self-Attention: Identifiability and Dimension", "keywords": ["self-attention", "dimension", "lightning"]}
+{"conference": "iclr2025", "title": "Attributing Culture-Conditioned Generations to Pretraining Corpora", "keywords": ["Natural Language Processing", "Cross-cultural Computational Linguistics"]}
+{"conference": "iclr2025", "title": "Long-time asymptotics of noisy SVGD outside the population limit", "keywords": ["SVGD", "asymptotics", "noise"]}
+{"conference": "iclr2025", "title": "Spreading Out-of-Distribution Detection on Graphs", "keywords": ["Graph Analysis", "Outlier Detection", "Data Mining"]}
+{"conference": "iclr2025", "title": "High-Dimensional Bayesian Optimisation with Gaussian Process Prior Variational Autoencoders", "keywords": ["Bayesian Optimization", "Gaussian Process", "Variational Autoencoder"]}
 {"conference": "iclr2025", "title": "Multi-level Certified Defense Against Poisoning Attacks in Offline Reinforcement Learning"}
 {"conference": "iclr2025", "title": "Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping"}
-{"conference": "iclr2025", "title": "Semantic Aware Representation Learning for Lifelong Learning"}
-{"conference": "iclr2025", "title": "Value-Incentivized Preference Optimization: A Unified Approach to Online and Offline RLHF"}
-{"conference": "iclr2025", "title": "Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA"}
-{"conference": "iclr2025", "title": "Optimal Non-Asymptotic Rates of Value Iteration for Average-Reward Markov Decision Processes"}
-{"conference": "iclr2025", "title": "Meta-Dynamical State Space Models for Integrative Neural Data Analysis"}
-{"conference": "iclr2025", "title": "Optimal Learning of Kernel Logistic Regression for Complex Classification Scenarios"}
+{"conference": "iclr2025", "title": "Semantic Aware Representation Learning for Lifelong Learning", "keywords": ["Reinforcement Learning", "Text-to-SQL", "Fine-tuning", "Semantic Awareness"]}
+{"conference": "iclr2025", "title": "Value-Incentivized Preference Optimization: A Unified Approach to Online and Offline RLHF", "keywords": ["Reinforcement Learning", "Value-Incentivized Preference Optimization", "Online and Offline RLHF"]}
+{"conference": "iclr2025", "title": "Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA", "keywords": ["Transformers", "Parameter Efficiency"]}
+{"conference": "iclr2025", "title": "Optimal Non-Asymptotic Rates of Value Iteration for Average-Reward Markov Decision Processes", "keywords": ["Reinforcement Learning", "Value Iteration"]}
+{"conference": "iclr2025", "title": "Meta-Dynamical State Space Models for Integrative Neural Data Analysis", "keywords": ["neural data analysis", "state space models", "Meta-learning"]}
+{"conference": "iclr2025", "title": "Optimal Learning of Kernel Logistic Regression for Complex Classification Scenarios", "keywords": ["Kernel Logistic Regression", "Complex Classification", "Learning Optimization"]}
 {"conference": "iclr2025", "title": "Scaling Optimal LR Across Token Horizons"}
-{"conference": "iclr2025", "title": "Subgraph Federated Learning for Local Generalization"}
-{"conference": "iclr2025", "title": "Is In-Context Learning Sufficient for Instruction Following in LLMs?"}
-{"conference": "iclr2025", "title": "Discovering Influential Neuron Path in Vision Transformers"}
-{"conference": "iclr2025", "title": "Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing"}
-{"conference": "iclr2025", "title": "REBIND: Enhancing Ground-state Molecular Conformation Prediction via Force-Based Graph Rewiring"}
-{"conference": "iclr2025", "title": "Locality Sensitive Avatars From Video"}
-{"conference": "iclr2025", "title": "Does Spatial Cognition Emerge in Frontier Models?"}
-{"conference": "iclr2025", "title": "Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models"}
-{"conference": "iclr2025", "title": "Release the Powers of Prompt Tuning: Cross-Modality Prompt Transfer"}
-{"conference": "iclr2025", "title": "GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models"}
-{"conference": "iclr2025", "title": "Learning Interpretable Hierarchical Dynamical Systems Models from Time Series Data"}
-{"conference": "iclr2025", "title": "NeSyC: A Neuro-symbolic Continual Learner For Complex Embodied Tasks in Open Domains"}
-{"conference": "iclr2025", "title": "A Decade's Battle on Dataset Bias: Are We There Yet?"}
-{"conference": "iclr2025", "title": "TabM: Advancing tabular deep learning with parameter-efficient ensembling"}
-{"conference": "iclr2025", "title": "Learning to Solve Differential Equation Constrained Optimization Problems"}
-{"conference": "iclr2025", "title": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models"}
-{"conference": "iclr2025", "title": "GameArena: Evaluating LLM Reasoning through Live Computer Games"}
-{"conference": "iclr2025", "title": "CTSyn: A Foundation Model for Cross Tabular Data Generation"}
+{"conference": "iclr2025", "title": "Subgraph Federated Learning for Local Generalization", "keywords": ["Federated Learning", "Local Generalization", "Graph Neural Networks"]}
+{"conference": "iclr2025", "title": "Is In-Context Learning Sufficient for Instruction Following in LLMs?", "keywords": ["In-Context Learning", "Instruction Following", "Large Language Models"]}
+{"conference": "iclr2025", "title": "Discovering Influential Neuron Path in Vision Transformers", "keywords": ["Vision Transformer", "Neuron Path", "Influential"]}
+{"conference": "iclr2025", "title": "Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing", "keywords": ["Model pruning", "Large Language Models", "Computational Efficiency"]}
+{"conference": "iclr2025", "title": "REBIND: Enhancing Ground-state Molecular Conformation Prediction via Force-Based Graph Rewiring", "keywords": ["Molecular Dynamics", "Graph Theory"]}
+{"conference": "iclr2025", "title": "Locality Sensitive Avatars From Video", "keywords": ["Localization", "Avatar Generation", "Video Analysis"]}
+{"conference": "iclr2025", "title": "Does Spatial Cognition Emerge in Frontier Models?", "keywords": ["Spatial cognition", "Frontier models"]}
+{"conference": "iclr2025", "title": "Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models", "keywords": ["Language Models", "Knowledge Representation", "Semantic Networks"]}
+{"conference": "iclr2025", "title": "Release the Powers of Prompt Tuning: Cross-Modality Prompt Transfer", "keywords": ["Prompt tuning", "Cross-modality transfer"]}
+{"conference": "iclr2025", "title": "GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models", "keywords": ["Diffusion models", "Computer Vision"]}
+{"conference": "iclr2025", "title": "Learning Interpretable Hierarchical Dynamical Systems Models from Time Series Data", "keywords": ["Time Series", "Hierarchical Modeling", "Reinforcement Learning"]}
+{"conference": "iclr2025", "title": "NeSyC: A Neuro-symbolic Continual Learner For Complex Embodied Tasks in Open Domains", "keywords": ["neurosymbolic", "continuous learning", "complex tasks"]}
+{"conference": "iclr2025", "title": "A Decade's Battle on Dataset Bias: Are We There Yet?", "keywords": ["dataset bias", "reinforcement learning", "fine-tuning"]}
+{"conference": "iclr2025", "title": "TabM: Advancing tabular deep learning with parameter-efficient ensembling", "keywords": ["tabular data", "deep learning", "ensembling"]}
+{"conference": "iclr2025", "title": "Learning to Solve Differential Equation Constrained Optimization Problems", "keywords": ["Differential equations", "Optimization problems", "Reinforcement Learning"]}
+{"conference": "iclr2025", "title": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models", "keywords": ["Language Models", "Imitation Learning", "Quantification"]}
+{"conference": "iclr2025", "title": "GameArena: Evaluating LLM Reasoning through Live Computer Games", "keywords": ["Reinforcement Learning", "LLM"]}
+{"conference": "iclr2025", "title": "CTSyn: A Foundation Model for Cross Tabular Data Generation", "keywords": ["Cross-Tabular", "Data Mining", "Generative Models"]}
 {"conference": "iclr2025", "title": "Bayesian Regularization of Latent Representation"}
-{"conference": "iclr2025", "title": "MCNC: Manifold-Constrained Reparameterization for Neural Compression"}
-{"conference": "iclr2025", "title": "Accelerating 3D Molecule Generation via Jointly Geometric Optimal Transport"}
-{"conference": "iclr2025", "title": "REEF: Representation Encoding Fingerprints for Large Language Models"}
-{"conference": "iclr2025", "title": "Diff-PIC: Revolutionizing Particle-In-Cell Nuclear Fusion Simulation with Diffusion Models"}
-{"conference": "iclr2025", "title": "Regret Bounds for Episodic Risk-Sensitive Linear Quadratic Regulator"}
-{"conference": "iclr2025", "title": "Fictitious Synthetic Data Can Improve LLM Factuality via Prerequisite Learning"}
-{"conference": "iclr2025", "title": "Towards a Theoretical Understanding of Synthetic Data in LLM Post-Training: A Reverse-Bottleneck Perspective"}
-{"conference": "iclr2025", "title": "How DNNs break the Curse of Dimensionality: Compositionality and Symmetry Learning"}
-{"conference": "iclr2025", "title": "Privacy-Aware Lifelong Learning"}
-{"conference": "iclr2025", "title": "Mitigating Spurious Correlations in Zero-Shot Multimodal Models"}
-{"conference": "iclr2025", "title": "LeanAgent: Lifelong Learning for Formal Theorem Proving"}
-{"conference": "iclr2025", "title": "BOFormer: Learning to Solve Multi-Objective Bayesian Optimization via Non-Markovian RL"}
-{"conference": "iclr2025", "title": "InstaTrain: Adaptive Training via Ultra-Fast Natural Annealing within Dynamical Systems"}
-{"conference": "iclr2025", "title": "Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining"}
-{"conference": "iclr2025", "title": "ZooProbe: A Data Engine for Evaluating, Exploring, and Evolving Large-scale Training Data for Multimodal LLMs"}
-{"conference": "iclr2025", "title": "PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks"}
-{"conference": "iclr2025", "title": "Adversarial Training for Defense Against Label Poisoning Attacks"}
-{"conference": "iclr2025", "title": "You Only Sample Once: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs"}
-{"conference": "iclr2025", "title": "Learning Harmonized Representations for Speculative Sampling"}
-{"conference": "iclr2025", "title": "Trajectory-LLM: A Language-based Data Generator for Trajectory Prediction in Autonomous Driving"}
-{"conference": "iclr2025", "title": "Polyrating: A Cost-Effective and Bias-Aware Rating System for LLM Evaluation"}
-{"conference": "iclr2025", "title": "Self-Supervised Diffusion Models for Electron-Aware Molecular Representation Learning"}
-{"conference": "iclr2025", "title": "Learning to Adapt Frozen CLIP for Few-Shot Test-Time Domain Adaptation"}
-{"conference": "iclr2025", "title": "L3Ms \u2014 Lagrange Large Language Models"}
-{"conference": "iclr2025", "title": "MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba"}
-{"conference": "iclr2025", "title": "Counterfactual Realizability"}
-{"conference": "iclr2025", "title": "Phidias: A Generative Model for Creating 3D  Content from Text, Image, and 3D Conditions with Reference-Augmented  Diffusion"}
-{"conference": "iclr2025", "title": "Nonlinear Sequence Embedding by Monotone Variational Inequality"}
-{"conference": "iclr2025", "title": "A Formal Framework for Understanding Length Generalization in Transformers"}
-{"conference": "iclr2025", "title": "Surprising Effectiveness of pretraining Ternary  Language Model at Scale"}
-{"conference": "iclr2025", "title": "Poisson-Dirac Neural Networks for Modeling Coupled Dynamical Systems across Domains"}
-{"conference": "iclr2025", "title": "FIRING-Net: A filtered feature recycling network for speech enhancement"}
-{"conference": "iclr2025", "title": "Generalization through variance: how noise shapes inductive biases in diffusion models"}
-{"conference": "iclr2025", "title": "Multi-Task Dense Predictions via Unleashing the Power of Diffusion"}
+{"conference": "iclr2025", "title": "MCNC: Manifold-Constrained Reparameterization for Neural Compression", "keywords": ["Reinforcement Learning", "Neural Networks", "Compression"]}
+{"conference": "iclr2025", "title": "Accelerating 3D Molecule Generation via Jointly Geometric Optimal Transport", "keywords": ["reinforcement learning", "optimization"]}
+{"conference": "iclr2025", "title": "REEF: Representation Encoding Fingerprints for Large Language Models", "keywords": ["Representation", "Encoding", "Language Model"]}
+{"conference": "iclr2025", "title": "Diff-PIC: Revolutionizing Particle-In-Cell Nuclear Fusion Simulation with Diffusion Models", "keywords": ["Particle-In-Cell", "Nuclear Fusion", "Diffusion"]}
+{"conference": "iclr2025", "title": "Regret Bounds for Episodic Risk-Sensitive Linear Quadratic Regulator", "keywords": ["Reinforcement Learning", "Risk Sensitivity"]}
+{"conference": "iclr2025", "title": "Fictitious Synthetic Data Can Improve LLM Factuality via Prerequisite Learning", "keywords": ["Synthetic data", "Pre-training", "Factual knowledge"]}
+{"conference": "iclr2025", "title": "Towards a Theoretical Understanding of Synthetic Data in LLM Post-Training: A Reverse-Bottleneck Perspective", "keywords": ["LLM", "synthetic data", "post-training"]}
+{"conference": "iclr2025", "title": "How DNNs break the Curse of Dimensionality: Compositionality and Symmetry Learning", "keywords": ["Deep Neural Network", "Compositionality", "Symmetry"]}
+{"conference": "iclr2025", "title": "Privacy-Aware Lifelong Learning", "keywords": ["lifelong learning", "privacy preservation", "Reinforcement Learning"]}
+{"conference": "iclr2025", "title": "Mitigating Spurious Correlations in Zero-Shot Multimodal Models", "keywords": ["Zero Shot", "Multimodal Learning", "Correlation Analysis"]}
+{"conference": "iclr2025", "title": "LeanAgent: Lifelong Learning for Formal Theorem Proving", "keywords": ["Reinforcement Learning", "Formal theorem proving"]}
+{"conference": "iclr2025", "title": "BOFormer: Learning to Solve Multi-Objective Bayesian Optimization via Non-Markovian RL", "keywords": ["Bayesian optimization", "Multi-objective reinforcement learning", "Non-Markovian"]}
+{"conference": "iclr2025", "title": "InstaTrain: Adaptive Training via Ultra-Fast Natural Annealing within Dynamical Systems", "keywords": ["Reinforcement Learning", "Natural Annealing"]}
+{"conference": "iclr2025", "title": "Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining", "keywords": ["Reinforcement Learning", "Model Predictive Control", "Data Efficiency"]}
+{"conference": "iclr2025", "title": "ZooProbe: A Data Engine for Evaluating, Exploring, and Evolving Large-scale Training Data for Multimodal LLMs", "keywords": ["Data Engineering", "Large-Scale Data Analysis", "Multimodal Language Learning"]}
+{"conference": "iclr2025", "title": "PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks", "keywords": ["multi-agent reinforcement learning", "task planning", "embodied agents"]}
+{"conference": "iclr2025", "title": "Adversarial Training for Defense Against Label Poisoning Attacks", "keywords": ["adversarial training", "label poisoning attacks"]}
+{"conference": "iclr2025", "title": "You Only Sample Once: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs", "keywords": ["Text-to-image synthesis", "Generative Adversarial Network (GAN)", "Diffusion"]}
+{"conference": "iclr2025", "title": "Learning Harmonized Representations for Speculative Sampling", "keywords": ["speculative sampling", "representations learning"]}
+{"conference": "iclr2025", "title": "Trajectory-LLM: A Language-based Data Generator for Trajectory Prediction in Autonomous Driving", "keywords": ["Reinforcement Learning", "Trajectory prediction", "Autonomous driving"]}
+{"conference": "iclr2025", "title": "Polyrating: A Cost-Effective and Bias-Aware Rating System for LLM Evaluation", "keywords": ["Large Language Models", "Bias in AI", "Evaluation Metrics"]}
+{"conference": "iclr2025", "title": "Self-Supervised Diffusion Models for Electron-Aware Molecular Representation Learning", "keywords": ["Diffusion", "Molecular Learning"]}
+{"conference": "iclr2025", "title": "Learning to Adapt Frozen CLIP for Few-Shot Test-Time Domain Adaptation", "keywords": ["domain adaptation", "few-shot learning", "test time"]}
+{"conference": "iclr2025", "title": "L3Ms \u2014 Lagrange Large Language Models", "keywords": ["Reinforcement Learning", "Text-to-SQL"]}
+{"conference": "iclr2025", "title": "MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba", "keywords": ["Fine-tuning", "Reinforcement Learning"]}
+{"conference": "iclr2025", "title": "Counterfactual Realizability", "keywords": ["Reinforcement Learning", "Fine-tuning", "Adversarial Networks"]}
+{"conference": "iclr2025", "title": "Phidias: A Generative Model for Creating 3D  Content from Text, Image, and 3D Conditions with Reference-Augmented  Diffusion", "keywords": ["Generative Model", "Diffusion", "3D Content"]}
+{"conference": "iclr2025", "title": "Nonlinear Sequence Embedding by Monotone Variational Inequality", "keywords": ["Variational Inequality", "Sequence Modeling", "Nonlinear Dynamics"]}
+{"conference": "iclr2025", "title": "A Formal Framework for Understanding Length Generalization in Transformers", "keywords": ["Transformer", "Length generalization", "Formal framework"]}
+{"conference": "iclr2025", "title": "Surprising Effectiveness of pretraining Ternary  Language Model at Scale", "keywords": ["machine learning", "natural language processing", "model efficiency"]}
+{"conference": "iclr2025", "title": "Poisson-Dirac Neural Networks for Modeling Coupled Dynamical Systems across Domains", "keywords": ["Neural networks", "Coupled systems", "Dynamical system"]}
+{"conference": "iclr2025", "title": "FIRING-Net: A filtered feature recycling network for speech enhancement", "keywords": ["speech enhancement", "filtered features"]}
+{"conference": "iclr2025", "title": "Generalization through variance: how noise shapes inductive biases in diffusion models", "keywords": ["noise", "inductive bias", "diffusion model"]}
+{"conference": "iclr2025", "title": "Multi-Task Dense Predictions via Unleashing the Power of Diffusion", "keywords": ["Diffusion", "Predictions", "Multi-Task"]}
 {"conference": "iclr2025", "title": "Noise Separation guided Candidate Label Reconstruction for Noisy Partial Label Learning"}
 {"conference": "iclr2025", "title": "Physics-informed Temporal Difference Metric Learning for Robot Motion Planning"}
-{"conference": "iclr2025", "title": "ClawMachine: Learning to Fetch Visual Tokens for Referential Comprehension"}
-{"conference": "iclr2025", "title": "Grokking at the Edge of Numerical Stability"}
-{"conference": "iclr2025", "title": "CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification"}
-{"conference": "iclr2025", "title": "Solving Video Inverse Problems Using Image Diffusion Models"}
-{"conference": "iclr2025", "title": "First-Person Fairness in Chatbots"}
-{"conference": "iclr2025", "title": "Gumbel Counterfactual Generation From Language Models"}
-{"conference": "iclr2025", "title": "Task Descriptors Help Transformers Learn Linear Models In-Context"}
-{"conference": "iclr2025", "title": "Neural Sampling from Boltzmann Densities: Fisher-Rao Curves in the Wasserstein Geometry"}
-{"conference": "iclr2025", "title": "Proteina: Scaling Flow-based Protein Structure Generative Models"}
-{"conference": "iclr2025", "title": "DECO: Unleashing the Potential of ConvNets for Query-based Detection and Segmentation"}
-{"conference": "iclr2025", "title": "Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models"}
-{"conference": "iclr2025", "title": "Logical Consistency of Large Language Models in Fact-Checking"}
-{"conference": "iclr2025", "title": "HShare: Fast LLM Decoding by Hierarchical Key-Value Sharing"}
-{"conference": "iclr2025", "title": "Exploring the Camera Bias of Person Re-identification"}
-{"conference": "iclr2025", "title": "P-SPIKESSM: HARNESSING PROBABILISTIC SPIKING STATE SPACE MODELS FOR LONG-RANGE DEPENDENCY TASKS"}
-{"conference": "iclr2025", "title": "Boosting Neural Combinatorial Optimization for Large-Scale Vehicle Routing Problems"}
-{"conference": "iclr2025", "title": "On the Relation between Trainability and Dequantization of Variational Quantum Learning Models"}
-{"conference": "iclr2025", "title": "MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark"}
-{"conference": "iclr2025", "title": "The Belief State Transformer"}
-{"conference": "iclr2025", "title": "Herald: A Natural Language Annotated Lean 4 Dataset"}
-{"conference": "iclr2025", "title": "UNSURE: self-supervised learning with Unknown Noise level  and Stein's Unbiased Risk Estimate"}
-{"conference": "iclr2025", "title": "Spurious Forgetting in Continual Learning of Language Models"}
-{"conference": "iclr2025", "title": "KOR-Bench: Benchmarking Language Models on Knowledge-Orthogonal Reasoning Tasks"}
-{"conference": "iclr2025", "title": "VideoGrain: Modulating Space-Time Attention for Multi-Grained Video Editing"}
-{"conference": "iclr2025", "title": "State Space Model Meets Transformer: A New Paradigm for 3D Object Detection"}
-{"conference": "iclr2025", "title": "UTILITY: Utilizing Explainable Reinforcement Learning to Improve Reinforcement Learning"}
+{"conference": "iclr2025", "title": "ClawMachine: Learning to Fetch Visual Tokens for Referential Comprehension", "keywords": ["Reinforcement Learning", "Fine-tuning", "Token"]}
+{"conference": "iclr2025", "title": "Grokking at the Edge of Numerical Stability", "keywords": ["Reinforcement Learning", "Text-to-SQL", "Numerical Analysis"]}
+{"conference": "iclr2025", "title": "CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification", "keywords": ["adversarial", "zero-shot classification", "latent space"]}
+{"conference": "iclr2025", "title": "Solving Video Inverse Problems Using Image Diffusion Models", "keywords": ["Reinforcement Learning", "Image Diffusion"]}
+{"conference": "iclr2025", "title": "First-Person Fairness in Chatbots", "keywords": ["Fairness", "Chatbot", "Natural Language Processing"]}
+{"conference": "iclr2025", "title": "Gumbel Counterfactual Generation From Language Models", "keywords": ["language models", "counterfactuals", "reinforcement learning"]}
+{"conference": "iclr2025", "title": "Task Descriptors Help Transformers Learn Linear Models In-Context", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
+{"conference": "iclr2025", "title": "Neural Sampling from Boltzmann Densities: Fisher-Rao Curves in the Wasserstein Geometry", "keywords": ["Boltzmann", "Wasserstein geometry", "sampling"]}
+{"conference": "iclr2025", "title": "Proteina: Scaling Flow-based Protein Structure Generative Models", "keywords": ["protein structure", "generative models", "deep learning"]}
+{"conference": "iclr2025", "title": "DECO: Unleashing the Potential of ConvNets for Query-based Detection and Segmentation", "keywords": ["Deep Learning", "Convolutional Neural Networks", "Query Processing"]}
+{"conference": "iclr2025", "title": "Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models", "keywords": ["Image Processing", "Multimodal Learning", "Pre-trained Models"]}
+{"conference": "iclr2025", "title": "Logical Consistency of Large Language Models in Fact-Checking", "keywords": ["Language models", "Fact-checking", "Consistency"]}
+{"conference": "iclr2025", "title": "HShare: Fast LLM Decoding by Hierarchical Key-Value Sharing", "keywords": ["LLM decoding", "Hierarchical sharing"]}
+{"conference": "iclr2025", "title": "Exploring the Camera Bias of Person Re-identification", "keywords": ["person re-identification", "camera bias"]}
+{"conference": "iclr2025", "title": "P-SPIKESSM: HARNESSING PROBABILISTIC SPIKING STATE SPACE MODELS FOR LONG-RANGE DEPENDENCY TASKS", "keywords": ["Probabilistic", "Long-Range Dependency", "Sequence Modeling"]}
+{"conference": "iclr2025", "title": "Boosting Neural Combinatorial Optimization for Large-Scale Vehicle Routing Problems", "keywords": ["Neural Network", "Optimization", "Vehicle Routing"]}
+{"conference": "iclr2025", "title": "On the Relation between Trainability and Dequantization of Variational Quantum Learning Models", "keywords": ["Quantum Machine Learning", "Variational Algorithms"]}
+{"conference": "iclr2025", "title": "MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark", "keywords": ["multi-task learning", "audio processing", "benchmark"]}
+{"conference": "iclr2025", "title": "The Belief State Transformer", "keywords": ["Reinforcement Learning", "Belief state"]}
+{"conference": "iclr2025", "title": "Herald: A Natural Language Annotated Lean 4 Dataset", "keywords": ["Natural language", "Dataset", "Lean"]}
+{"conference": "iclr2025", "title": "UNSURE: self-supervised learning with Unknown Noise level  and Stein's Unbiased Risk Estimate", "keywords": ["Reinforcement Learning", "Stein' extr"]}
+{"conference": "iclr2025", "title": "Spurious Forgetting in Continual Learning of Language Models", "keywords": ["Continual learning", "Language models", "Forgetting"]}
+{"conference": "iclr2025", "title": "KOR-Bench: Benchmarking Language Models on Knowledge-Orthogonal Reasoning Tasks", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
+{"conference": "iclr2025", "title": "VideoGrain: Modulating Space-Time Attention for Multi-Grained Video Editing", "keywords": ["video editing", "multimodal learning", "graph neural networks"]}
+{"conference": "iclr2025", "title": "State Space Model Meets Transformer: A New Paradigm for 3D Object Detection", "keywords": ["Reinforcement Learning", "Transformer"]}
+{"conference": "iclr2025", "title": "UTILITY: Utilizing Explainable Reinforcement Learning to Improve Reinforcement Learning", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
 {"conference": "iclr2025", "title": "Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion"}
 {"conference": "iclr2025", "title": "Language Models Are Implicitly Continuous"}
 {"conference": "iclr2025", "title": "MLPs Learn In-Context on Regression and Classification Tasks"}
