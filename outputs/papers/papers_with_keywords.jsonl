@@ -10069,7 +10069,7 @@
 {"conference": "iclr2020", "title": "Multilingual Alignment of Contextual Word Representations", "keywords": ["Reinforcement Learning", "Text-to-SQL", "Fine-tuning", "Multilingual Processing", "Natural Language Understanding"]}
 {"conference": "iclr2020", "title": "Mathematical Reasoning in Latent Space", "keywords": ["Reinforcement Learning", "Text-to-SQL", "Fine-tuning", "Latent Representations"]}
 {"conference": "iclr2020", "title": "Smooth markets: A basic mechanism for organizing gradient-based learners", "keywords": ["Reinforcement Learning", "Gradient Descent"]}
-{"conference": "iclr2020", "title": "Cross-lingual Alignment vs Joint Training: A Comparative Study and A Simple Unified Framework"}
+{"conference": "iclr2020", "title": "Cross-lingual Alignment vs Joint Training: A Comparative Study and A Simple Unified Framework", "keywords": ["Cross-lingual", "Alignment", "Training", "NLP"]}
 {"conference": "iclr2020", "title": "Learning to solve the credit assignment problem", "keywords": ["Reinforcement Learning", "Credit Assignment"]}
 {"conference": "iclr2020", "title": "Permutation Equivariant Models for Compositional Generalization in Language", "keywords": ["Compositional Generalization", "Language Modeling", "Reinforcement Learning"]}
 {"conference": "iclr2020", "title": "The Logical Expressiveness of Graph Neural Networks", "keywords": ["Graph Neural Networks", "Logical Reasoning", "Knowledge Representation"]}
@@ -10096,12 +10096,12 @@
 {"conference": "iclr2020", "title": "EMPIR: Ensembles of Mixed Precision Deep Networks for Increased Robustness Against Adversarial Attacks", "keywords": ["Adversarial Machine Learning", "Deep Neural Networks", "Mixed Precision"]}
 {"conference": "iclr2020", "title": "Intrinsic Motivation for Encouraging Synergistic Behavior", "keywords": ["intrinsic motivation", "synergy behavior", "reward system"]}
 {"conference": "iclr2020", "title": "An Inductive Bias for Distances: Neural Nets that Respect the Triangle Inequality", "keywords": ["Neural Networks", "Triangle Inequality"]}
-{"conference": "iclr2020", "title": "Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models"}
+{"conference": "iclr2020", "title": "Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models", "keywords": ["Neural Networks", "Attribution Methods", "Sequence Prediction"]}
 {"conference": "iclr2020", "title": "Data-dependent Gaussian Prior Objective for Language Generation", "keywords": ["Natural Language Processing", "Gaussian Distribution", "Language Model"]}
 {"conference": "iclr2020", "title": "Intensity-Free Learning of Temporal Point Processes", "keywords": ["Temporal Point Process", "Machine Learning", "Time Series Analysis"]}
 {"conference": "iclr2020", "title": "GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding", "keywords": ["graph embedding", "multi-level spectral", "accuracy"]}
 {"conference": "iclr2020", "title": "Masked Based Unsupervised Content Transfer", "keywords": ["Unsupervised Learning", "Content Generation"]}
-{"conference": "iclr2020", "title": "Adaptive Correlated Monte Carlo for Contextual Categorical Sequence Generation"}
+{"conference": "iclr2020", "title": "Adaptive Correlated Monte Carlo for Contextual Categorical Sequence Generation", "keywords": ["Monte Carlo", "sequence generation"]}
 {"conference": "iclr2020", "title": "Reinforcement Learning with Competitive  Ensembles of Information-Constrained Primitives"}
 {"conference": "iclr2020", "title": "A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms", "keywords": ["Reinforcement Learning", "Text-to-SQL", "Fine-tuning"]}
 {"conference": "iclr2020", "title": "Beyond Linearization: On Quadratic and Higher-Order Approximation of Wide Neural Networks", "keywords": ["neural networks", "approximation"]}
@@ -10132,10 +10132,10 @@
 {"conference": "iclr2020", "title": "Imitation Learning via Off-Policy Distribution Matching", "keywords": ["Imitation Learning", "Off-Policy", "Distribution"]}
 {"conference": "iclr2020", "title": "Iterative energy-based projection on a normal data manifold for anomaly localization", "keywords": ["anomaly detection", "energy-based methods"]}
 {"conference": "iclr2020", "title": "A Closer Look at Deep Policy Gradients", "keywords": ["Reinforcement Learning", "Deep Neural Networks"]}
-{"conference": "iclr2020", "title": "Tensor Decompositions for Temporal Knowledge Base Completion"}
+{"conference": "iclr2020", "title": "Tensor Decompositions for Temporal Knowledge Base Completion", "keywords": ["tensor", "knowledge base", "completion"]}
 {"conference": "iclr2020", "title": "Progressive Memory Banks for Incremental Domain Adaptation", "keywords": ["reinforcement learning", "incremental domain adaptation"]}
 {"conference": "iclr2020", "title": "IMPACT: Importance Weighted Asynchronous Architectures with Clipped Target Networks", "keywords": ["asynchronous architectures", "reinforcement learning", "importance weighting"]}
-{"conference": "iclr2020", "title": "AtomNAS: Fine-Grained End-to-End Neural Architecture Search"}
+{"conference": "iclr2020", "title": "AtomNAS: Fine-Grained End-to-End Neural Architecture Search", "keywords": ["Neural Networks", "Automated Design Space Exploration", "Performance Optimization"]}
 {"conference": "iclr2020", "title": "Black-box Off-policy Estimation for Infinite-Horizon Reinforcement Learning", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
 {"conference": "iclr2020", "title": "The Ingredients of Real World Robotic Reinforcement Learning", "keywords": ["Reinforcement Learning", "Robotics"]}
 {"conference": "iclr2020", "title": "Frequency-based Search-control in Dyna", "keywords": ["Dynamical Systems", "Search Algorithms", "Control Theory"]}
@@ -10153,108 +10153,108 @@
 {"conference": "iclr2020", "title": "Multi-Agent Interactions Modeling with Correlated Policies", "keywords": ["Reinforcement Learning", "Policy"]}
 {"conference": "iclr2020", "title": "Model-based reinforcement learning for biological sequence design", "keywords": ["reinforcement learning", "sequence analysis", "bioinformatics"]}
 {"conference": "iclr2020", "title": "Intriguing Properties of Adversarial Training at Scale", "keywords": ["Adversarial training", "Machine learning"]}
-{"conference": "iclr2020", "title": "Behaviour Suite for Reinforcement Learning"}
-{"conference": "iclr2020", "title": "Meta-Q-Learning"}
-{"conference": "iclr2020", "title": "Deep Double Descent: Where Bigger Models and More Data Hurt"}
-{"conference": "iclr2020", "title": "Understanding Architectures Learnt by Cell-based Neural Architecture Search"}
-{"conference": "iclr2020", "title": "Extreme Tensoring for Low-Memory Preconditioning "}
-{"conference": "iclr2020", "title": "Differentiable learning of numerical rules in knowledge graphs"}
-{"conference": "iclr2020", "title": "Neural Network Branching for Neural Network Verification "}
-{"conference": "iclr2020", "title": "Learning representations for binary-classification without backpropagation"}
-{"conference": "iclr2020", "title": "NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search"}
-{"conference": "iclr2020", "title": "Why Gradient Clipping Accelerates Training: A Theoretical Justification for Adaptivity"}
-{"conference": "iclr2020", "title": "Robust Local Features for Improving the Generalization of Adversarial Training"}
-{"conference": "iclr2020", "title": "Shifted and Squeezed 8-bit Floating Point format for Low-Precision Training of Deep Neural Networks"}
-{"conference": "iclr2020", "title": "A Neural Dirichlet Process Mixture Model for Task-Free Continual Learning"}
-{"conference": "iclr2020", "title": "Learning Space Partitions for Nearest Neighbor Search"}
-{"conference": "iclr2020", "title": "Geometric Analysis of Nonconvex Optimization Landscapes for Overcomplete Learning"}
-{"conference": "iclr2020", "title": "Principled Weight Initialization for Hypernetworks"}
-{"conference": "iclr2020", "title": "Order Learning and Its Application to Age Estimation"}
-{"conference": "iclr2020", "title": "Recurrent neural circuits for contour detection"}
-{"conference": "iclr2020", "title": "Hyper-SAGNN: a self-attention based graph neural network for hypergraphs"}
+{"conference": "iclr2020", "title": "Behaviour Suite for Reinforcement Learning", "keywords": ["Reinforcement Learning", "Behavior Suite"]}
+{"conference": "iclr2020", "title": "Meta-Q-Learning", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
+{"conference": "iclr2020", "title": "Deep Double Descent: Where Bigger Models and More Data Hurt", "keywords": ["reinforcement learning", "text-to-sql"]}
+{"conference": "iclr2020", "title": "Understanding Architectures Learnt by Cell-based Neural Architecture Search", "keywords": ["Neural Networks", "Cellular Automata", "Architecture Design"]}
+{"conference": "iclr2020", "title": "Extreme Tensoring for Low-Memory Preconditioning ", "keywords": ["Tensor Decomposition", "Low Memory Algorithm"]}
+{"conference": "iclr2020", "title": "Differentiable learning of numerical rules in knowledge graphs", "keywords": ["knowledge graph", "differentiable optimization", "rule induction"]}
+{"conference": "iclr2020", "title": "Neural Network Branching for Neural Network Verification ", "keywords": ["Neural network verification", "Branching strategies"]}
+{"conference": "iclr2020", "title": "Learning representations for binary-classification without backpropagation", "keywords": ["binary classification", "neural networks"]}
+{"conference": "iclr2020", "title": "NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search", "keywords": ["Neural Networks", "Reinforcement Learning", "Automated Design"]}
+{"conference": "iclr2020", "title": "Why Gradient Clipping Accelerates Training: A Theoretical Justification for Adaptivity", "keywords": ["Gradient Descent", "Adaptive Learning Rate", "Training Acceleration"]}
+{"conference": "iclr2020", "title": "Robust Local Features for Improving the Generalization of Adversarial Training", "keywords": ["Adversarial Training", "Generalization"]}
+{"conference": "iclr2020", "title": "Shifted and Squeezed 8-bit Floating Point format for Low-Precision Training of Deep Neural Networks", "keywords": ["Quantization", "Low-precision training"]}
+{"conference": "iclr2020", "title": "A Neural Dirichlet Process Mixture Model for Task-Free Continual Learning", "keywords": ["Neural", "Learning", "Continual"]}
+{"conference": "iclr2020", "title": "Learning Space Partitions for Nearest Neighbor Search", "keywords": ["Reinforcement Learning", "Nearest Neighbor"]}
+{"conference": "iclr2020", "title": "Geometric Analysis of Nonconvex Optimization Landscapes for Overcomplete Learning", "keywords": ["Nonconvex Optimization", "Overcome Learning"]}
+{"conference": "iclr2020", "title": "Principled Weight Initialization for Hypernetworks", "keywords": ["Hypernetworks", "Weight Initialization"]}
+{"conference": "iclr2020", "title": "Order Learning and Its Application to Age Estimation", "keywords": ["Reinforcement Learning", "Age estimation"]}
+{"conference": "iclr2020", "title": "Recurrent neural circuits for contour detection", "keywords": ["recurrent", "neural networks", "contour"]}
+{"conference": "iclr2020", "title": "Hyper-SAGNN: a self-attention based graph neural network for hypergraphs", "keywords": ["Graph Neural Network", "Hypergraphs", "Self-attention"]}
 {"conference": "iclr2020", "title": "Detecting and Diagnosing Adversarial Images with Class-Conditional Capsule Reconstructions"}
-{"conference": "iclr2020", "title": "DiffTaichi: Differentiable Programming for Physical Simulation"}
-{"conference": "iclr2020", "title": "Efficient and Information-Preserving Future Frame Prediction and Beyond"}
-{"conference": "iclr2020", "title": "Meta-Learning Deep Energy-Based Memory Models"}
-{"conference": "iclr2020", "title": "Bayesian Meta Sampling for Fast Uncertainty Adaptation"}
-{"conference": "iclr2020", "title": "Restricting the Flow: Information Bottlenecks for Attribution"}
-{"conference": "iclr2020", "title": "Multi-agent Reinforcement Learning for Networked System Control"}
-{"conference": "iclr2020", "title": "Composition-based Multi-Relational Graph Convolutional Networks"}
-{"conference": "iclr2020", "title": "Gradient $\\ell_1$ Regularization for Quantization Robustness"}
-{"conference": "iclr2020", "title": "Towards neural networks that provably know when they don't know"}
-{"conference": "iclr2020", "title": "Reanalysis of Variance Reduced Temporal Difference Learning"}
-{"conference": "iclr2020", "title": "Quantum Algorithms for Deep Convolutional Neural Networks"}
-{"conference": "iclr2020", "title": "Inductive representation learning on temporal graphs"}
-{"conference": "iclr2020", "title": "Bounds on Over-Parameterization for Guaranteed Existence of Descent Paths in Shallow ReLU Networks"}
-{"conference": "iclr2020", "title": "Consistency Regularization for Generative Adversarial Networks"}
-{"conference": "iclr2020", "title": "Chameleon: Adaptive Code Optimization for Expedited Deep Neural Network Compilation"}
-{"conference": "iclr2020", "title": "Learning to Guide Random Search"}
-{"conference": "iclr2020", "title": "Emergent Tool Use From Multi-Agent Autocurricula"}
+{"conference": "iclr2020", "title": "DiffTaichi: Differentiable Programming for Physical Simulation", "keywords": ["Physical Simulation", "Differential Equations", "Automatic Code Generation"]}
+{"conference": "iclr2020", "title": "Efficient and Information-Preserving Future Frame Prediction and Beyond", "keywords": ["future frame", "information preservation", "prediction"]}
+{"conference": "iclr2020", "title": "Meta-Learning Deep Energy-Based Memory Models", "keywords": ["reinforcement learning", "meta-learning"]}
+{"conference": "iclr2020", "title": "Bayesian Meta Sampling for Fast Uncertainty Adaptation", "keywords": ["Reinforcement Learning", "Meta-learning", "Uncertainty sampling"]}
+{"conference": "iclr2020", "title": "Restricting the Flow: Information Bottlenecks for Attribution", "keywords": ["Reinforcement Learning", "Text-to-SQL", "Fine-tuning"]}
+{"conference": "iclr2020", "title": "Multi-agent Reinforcement Learning for Networked System Control", "keywords": ["Reinforcement Learning", "Network control", "Multi-agent systems"]}
+{"conference": "iclr2020", "title": "Composition-based Multi-Relational Graph Convolutional Networks", "keywords": ["Graph Neural Network", "Multi-relational Data", "Convolutional Models"]}
+{"conference": "iclr2020", "title": "Gradient $\\ell_1$ Regularization for Quantization Robustness", "keywords": ["Quantization", "Regularization", "Robustness"]}
+{"conference": "iclr2020", "title": "Towards neural networks that provably know when they don't know", "keywords": ["Reinforcement Learning", "Provable Uncertainty"]}
+{"conference": "iclr2020", "title": "Reanalysis of Variance Reduced Temporal Difference Learning", "keywords": ["Temporal difference learning", "Variance reduction"]}
+{"conference": "iclr2020", "title": "Quantum Algorithms for Deep Convolutional Neural Networks", "keywords": ["quantum algorithms", "neural networks", "computation"]}
+{"conference": "iclr2020", "title": "Inductive representation learning on temporal graphs", "keywords": ["Graph Neural Networks", "Temporal Data Analysis", "Transfer Learning"]}
+{"conference": "iclr2020", "title": "Bounds on Over-Parameterization for Guaranteed Existence of Descent Paths in Shallow ReLU Networks", "keywords": ["Deep Learning", "Reinforcement Learning", "Regularization"]}
+{"conference": "iclr2020", "title": "Consistency Regularization for Generative Adversarial Networks", "keywords": ["Generative Models", "Adversarial Training", "GAN Consistency"]}
+{"conference": "iclr2020", "title": "Chameleon: Adaptive Code Optimization for Expedited Deep Neural Network Compilation", "keywords": ["Reinforcement Learning", "Neural Networks", "Optimization"]}
+{"conference": "iclr2020", "title": "Learning to Guide Random Search", "keywords": ["Reinforcement Learning", "Random Search"]}
+{"conference": "iclr2020", "title": "Emergent Tool Use From Multi-Agent Autocurricula", "keywords": ["Reinforcement Learning", "Multi-agent learning"]}
 {"conference": "iclr2020", "title": "Can gradient clipping mitigate label noise?"}
-{"conference": "iclr2020", "title": "From Inference to Generation: End-to-end Fully Self-supervised Generation of Human Face from Speech"}
-{"conference": "iclr2020", "title": "LAMOL: LAnguage MOdeling for Lifelong Language Learning"}
-{"conference": "iclr2020", "title": "Sparse Coding with Gated Learned ISTA"}
-{"conference": "iclr2020", "title": "FSPool: Learning Set Representations with Featurewise Sort Pooling"}
+{"conference": "iclr2020", "title": "From Inference to Generation: End-to-end Fully Self-supervised Generation of Human Face from Speech", "keywords": ["speech synthesis", "audio processing"]}
+{"conference": "iclr2020", "title": "LAMOL: LAnguage MOdeling for Lifelong Language Learning", "keywords": ["Language Model", "Learning Curve", "Transfer Learning"]}
+{"conference": "iclr2020", "title": "Sparse Coding with Gated Learned ISTA", "keywords": ["ISTA", "sparse coding", "deep learning"]}
+{"conference": "iclr2020", "title": "FSPool: Learning Set Representations with Featurewise Sort Pooling", "keywords": ["Set representations", "Feature learning", "Pooling"]}
 {"conference": "iclr2020", "title": "Pre-training Tasks for Embedding-based Large-scale Retrieval"}
-{"conference": "iclr2020", "title": "Robust And Interpretable Blind Image Denoising Via Bias-Free Convolutional Neural Networks"}
-{"conference": "iclr2020", "title": "DeepV2D: Video to Depth with Differentiable Structure from Motion"}
-{"conference": "iclr2020", "title": "AMRL: Aggregated Memory For Reinforcement Learning"}
-{"conference": "iclr2020", "title": "Learning to Represent Programs with Property Signatures"}
-{"conference": "iclr2020", "title": "V4D: 4D Convolutional Neural Networks for Video-level Representation Learning"}
-{"conference": "iclr2020", "title": "Selection via Proxy: Efficient Data Selection for Deep Learning"}
-{"conference": "iclr2020", "title": "PCMC-Net: Feature-based Pairwise Choice Markov Chains"}
-{"conference": "iclr2020", "title": "BackPACK: Packing more into Backprop"}
-{"conference": "iclr2020", "title": "Kernel of CycleGAN as a principal homogeneous space"}
-{"conference": "iclr2020", "title": "Higher-Order Function Networks for Learning Composable 3D Object Representations"}
-{"conference": "iclr2020", "title": "Decoding As Dynamic Programming For Recurrent Autoregressive Models"}
-{"conference": "iclr2020", "title": "Variational Recurrent Models for Solving Partially Observable Control Tasks"}
-{"conference": "iclr2020", "title": "Learning Heuristics for Quantified Boolean Formulas through Reinforcement Learning"}
-{"conference": "iclr2020", "title": "VL-BERT: Pre-training of Generic Visual-Linguistic Representations"}
-{"conference": "iclr2020", "title": "On the Convergence of FedAvg on Non-IID Data"}
+{"conference": "iclr2020", "title": "Robust And Interpretable Blind Image Denoising Via Bias-Free Convolutional Neural Networks", "keywords": ["Image Processing", "Denoising Techniques", "Machine Learning"]}
+{"conference": "iclr2020", "title": "DeepV2D: Video to Depth with Differentiable Structure from Motion", "keywords": ["Structure from motion", "Depth estimation", "Video processing"]}
+{"conference": "iclr2020", "title": "AMRL: Aggregated Memory For Reinforcement Learning", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
+{"conference": "iclr2020", "title": "Learning to Represent Programs with Property Signatures", "keywords": ["Program Learning", "Property Signature"]}
+{"conference": "iclr2020", "title": "V4D: 4D Convolutional Neural Networks for Video-level Representation Learning", "keywords": ["Convolutional neural networks", "Video representation learning"]}
+{"conference": "iclr2020", "title": "Selection via Proxy: Efficient Data Selection for Deep Learning", "keywords": ["data selection", "deep learning", "proxy method"]}
+{"conference": "iclr2020", "title": "PCMC-Net: Feature-based Pairwise Choice Markov Chains", "keywords": ["Markov Chains", "Feature Extraction", "Reinforcement Learning"]}
+{"conference": "iclr2020", "title": "BackPACK: Packing more into Backprop", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
+{"conference": "iclr2020", "title": "Kernel of CycleGAN as a principal homogeneous space", "keywords": ["CycleGAN", "kernel", "homogeneous"]}
+{"conference": "iclr2020", "title": "Higher-Order Function Networks for Learning Composable 3D Object Representations", "keywords": ["Reinforcement Learning", "Neural Networks", "Object Recognition"]}
+{"conference": "iclr2020", "title": "Decoding As Dynamic Programming For Recurrent Autoregressive Models", "keywords": ["Recurrent", "Autoregressive models", "Dynamic programming"]}
+{"conference": "iclr2020", "title": "Variational Recurrent Models for Solving Partially Observable Control Tasks", "keywords": ["Recurrent Neural Network", "Reinforcement Learning", "Variational Autoencoder"]}
+{"conference": "iclr2020", "title": "Learning Heuristics for Quantified Boolean Formulas through Reinforcement Learning", "keywords": ["Reinforcement Learning", "Quantified Boolean Formulas"]}
+{"conference": "iclr2020", "title": "VL-BERT: Pre-training of Generic Visual-Linguistic Representations", "keywords": ["NLP", "Multimodal Learning", "Pre-trained Models"]}
+{"conference": "iclr2020", "title": "On the Convergence of FedAvg on Non-IID Data", "keywords": ["Federated Learning", "Data Distribution", "Statistical Aggregation"]}
 {"conference": "iclr2020", "title": "Never Give Up: Learning Directed Exploration Strategies"}
 {"conference": "iclr2020", "title": "Depth-Width Trade-offs for ReLU Networks via Sharkovsky's Theorem"}
-{"conference": "iclr2020", "title": "Deep Learning For Symbolic Mathematics"}
-{"conference": "iclr2020", "title": "Incorporating BERT into Neural Machine Translation"}
-{"conference": "iclr2020", "title": "Escaping Saddle Points Faster with Stochastic Momentum"}
-{"conference": "iclr2020", "title": "Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping"}
-{"conference": "iclr2020", "title": "Unpaired Point Cloud Completion on Real Scans using Adversarial Training"}
-{"conference": "iclr2020", "title": "Dynamic Sparse Training: Find Efficient Sparse Network From Scratch With Trainable Masked Layers"}
-{"conference": "iclr2020", "title": "ProxSGD: Training Structured Neural Networks under Regularization and Constraints"}
-{"conference": "iclr2020", "title": "Single Episode Policy Transfer in Reinforcement Learning"}
-{"conference": "iclr2020", "title": "Don't Use Large Mini-batches, Use Local SGD"}
-{"conference": "iclr2020", "title": "Disentangling Factors of Variations Using Few Labels"}
-{"conference": "iclr2020", "title": "A Latent Morphology Model for Open-Vocabulary Neural Machine Translation"}
-{"conference": "iclr2020", "title": "Stable Rank Normalization for Improved Generalization in Neural Networks and GANs"}
-{"conference": "iclr2020", "title": "A Framework  for Robustness Certification  of Smoothed Classifiers Using  F-Divergences"}
-{"conference": "iclr2020", "title": "Co-Attentive Equivariant Neural Networks: Focusing Equivariance On Transformations Co-Occurring in Data"}
-{"conference": "iclr2020", "title": "Gradients as Features for Deep Representation Learning"}
+{"conference": "iclr2020", "title": "Deep Learning For Symbolic Mathematics", "keywords": ["deep learning", "symbolic mathematics", "knowledge distillation"]}
+{"conference": "iclr2020", "title": "Incorporating BERT into Neural Machine Translation", "keywords": ["machine translation", "BERT", "natural language processing"]}
+{"conference": "iclr2020", "title": "Escaping Saddle Points Faster with Stochastic Momentum", "keywords": ["Reinforcement Learning", "Stochastic Gradient Descent"]}
+{"conference": "iclr2020", "title": "Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping", "keywords": ["Learning", "Neural Networks", "Video Analysis"]}
+{"conference": "iclr2020", "title": "Unpaired Point Cloud Completion on Real Scans using Adversarial Training", "keywords": ["Point Cloud", "Adversarial Networks", "3D Reconstruction"]}
+{"conference": "iclr2020", "title": "Dynamic Sparse Training: Find Efficient Sparse Network From Scratch With Trainable Masked Layers", "keywords": ["sparse training", "masked layers", "neural networks"]}
+{"conference": "iclr2020", "title": "ProxSGD: Training Structured Neural Networks under Regularization and Constraints", "keywords": ["structured neural networks", "regularization", "training"]}
+{"conference": "iclr2020", "title": "Single Episode Policy Transfer in Reinforcement Learning", "keywords": ["Reinforcement Learning", "Policy Transfer", "Episodic Tasks"]}
+{"conference": "iclr2020", "title": "Don't Use Large Mini-batches, Use Local SGD", "keywords": ["Reinforcement Learning", "LocalSGD"]}
+{"conference": "iclr2020", "title": "Disentangling Factors of Variations Using Few Labels", "keywords": ["Few-Shot Learning", "Unsupervised Representation"]}
+{"conference": "iclr2020", "title": "A Latent Morphology Model for Open-Vocabulary Neural Machine Translation", "keywords": ["Neural Networks", "Machine Translation"]}
+{"conference": "iclr2020", "title": "Stable Rank Normalization for Improved Generalization in Neural Networks and GANs", "keywords": ["Neural networks", "GANs"]}
+{"conference": "iclr2020", "title": "A Framework  for Robustness Certification  of Smoothed Classifiers Using  F-Divergences", "keywords": ["Fine-tuning", "Reinforcement Learning"]}
+{"conference": "iclr2020", "title": "Co-Attentive Equivariant Neural Networks: Focusing Equivariance On Transformations Co-Occurring in Data", "keywords": ["Neural Networks", "Equivariant Models"]}
+{"conference": "iclr2020", "title": "Gradients as Features for Deep Representation Learning", "keywords": ["deep learning", "gradient descent", "feature extraction"]}
 {"conference": "iclr2020", "title": "Multi-Scale Representation Learning  for Spatial Feature Distributions using Grid Cells"}
-{"conference": "iclr2020", "title": "Large Batch Optimization for Deep Learning: Training BERT in 76 minutes"}
-{"conference": "iclr2020", "title": "The asymptotic spectrum of the Hessian of DNN throughout training"}
-{"conference": "iclr2020", "title": "Detecting Extrapolation with Local Ensembles"}
-{"conference": "iclr2020", "title": "Spectral  Embedding of Regularized Block Models"}
-{"conference": "iclr2020", "title": "Empirical Bayes Transductive Meta-Learning with Synthetic Gradients"}
-{"conference": "iclr2020", "title": "How much Position Information Do Convolutional Neural Networks Encode?"}
-{"conference": "iclr2020", "title": "RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis"}
-{"conference": "iclr2020", "title": "Weakly Supervised Disentanglement with Guarantees"}
-{"conference": "iclr2020", "title": "Directional Message Passing for Molecular Graphs"}
-{"conference": "iclr2020", "title": "Information Geometry of Orthogonal Initializations and Training"}
-{"conference": "iclr2020", "title": "BatchEnsemble: an Alternative Approach to Efficient Ensemble and Lifelong Learning"}
-{"conference": "iclr2020", "title": "Minimizing FLOPs to Learn Efficient Sparse Representations"}
-{"conference": "iclr2020", "title": "Quantifying Point-Prediction Uncertainty in Neural Networks via Residual Estimation with an I/O Kernel"}
-{"conference": "iclr2020", "title": "A Mutual Information Maximization Perspective of Language Representation Learning"}
-{"conference": "iclr2020", "title": "ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators"}
-{"conference": "iclr2020", "title": "Diverse Trajectory Forecasting with Determinantal Point Processes"}
-{"conference": "iclr2020", "title": "Graph Convolutional Reinforcement Learning"}
-{"conference": "iclr2020", "title": "Picking Winning Tickets Before Training by Preserving Gradient Flow"}
-{"conference": "iclr2020", "title": "Unsupervised Clustering using Pseudo-semi-supervised Learning"}
-{"conference": "iclr2020", "title": "Learning transport cost from subset correspondence"}
-{"conference": "iclr2020", "title": "Scalable and Order-robust Continual Learning with Additive Parameter Decomposition"}
-{"conference": "iclr2020", "title": "Scaling Autoregressive Video Models"}
-{"conference": "iclr2020", "title": "GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations"}
-{"conference": "iclr2020", "title": "Understanding Why Neural Networks Generalize Well Through GSNR of Parameters"}
-{"conference": "iclr2020", "title": "Linear Symmetric Quantization of Neural Networks for Low-precision Integer Hardware"}
-{"conference": "iclr2020", "title": "Reformer: The Efficient Transformer"}
+{"conference": "iclr2020", "title": "Large Batch Optimization for Deep Learning: Training BERT in 76 minutes", "keywords": ["Deep Learning", "Optimization", "BERT"]}
+{"conference": "iclr2020", "title": "The asymptotic spectrum of the Hessian of DNN throughout training", "keywords": ["Deep Neural Networks", "Hessian Aspect Spectrum", "Training Phase"]}
+{"conference": "iclr2020", "title": "Detecting Extrapolation with Local Ensembles", "keywords": ["Machine Learning", "Extrapolation", "Local Ensemble"]}
+{"conference": "iclr2020", "title": "Spectral  Embedding of Regularized Block Models", "keywords": ["spectral embedding", "block models"]}
+{"conference": "iclr2020", "title": "Empirical Bayes Transductive Meta-Learning with Synthetic Gradients", "keywords": ["Reinforcement Learning", "Meta-learning"]}
+{"conference": "iclr2020", "title": "How much Position Information Do Convolutional Neural Networks Encode?", "keywords": ["Convolutional Neural Networks", "Image Recognition", "Position Encoding"]}
+{"conference": "iclr2020", "title": "RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis", "keywords": ["Unsupervised learning", "Image synthesis"]}
+{"conference": "iclr2020", "title": "Weakly Supervised Disentanglement with Guarantees", "keywords": ["weak supervision", "disentanglement", "guarantees"]}
+{"conference": "iclr2020", "title": "Directional Message Passing for Molecular Graphs", "keywords": ["Molecular Data", "Graph Theory", "Message Passing"]}
+{"conference": "iclr2020", "title": "Information Geometry of Orthogonal Initializations and Training", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
+{"conference": "iclr2020", "title": "BatchEnsemble: an Alternative Approach to Efficient Ensemble and Lifelong Learning", "keywords": ["Reinforcement Learning", "Text-to-SQL", "Fine-tuning", "Ensemble learning", "Lifelong learning"]}
+{"conference": "iclr2020", "title": "Minimizing FLOPs to Learn Efficient Sparse Representations", "keywords": ["Machine Learning", "Sparsity", "Efficiency"]}
+{"conference": "iclr2020", "title": "Quantifying Point-Prediction Uncertainty in Neural Networks via Residual Estimation with an I/O Kernel", "keywords": ["Neural networks", "Uncertainty estimation"]}
+{"conference": "iclr2020", "title": "A Mutual Information Maximization Perspective of Language Representation Learning", "keywords": ["Mutual Information", "Language Modeling", "Natural Language Processing"]}
+{"conference": "iclr2020", "title": "ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators", "keywords": ["pre-training", "text encoders", "NLP"]}
+{"conference": "iclr2020", "title": "Diverse Trajectory Forecasting with Determinantal Point Processes", "keywords": ["Determinantal Point Processes", "forecasting"]}
+{"conference": "iclr2020", "title": "Graph Convolutional Reinforcement Learning", "keywords": ["Reinforcement Learning", "Graph", "Convolution"]}
+{"conference": "iclr2020", "title": "Picking Winning Tickets Before Training by Preserving Gradient Flow", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
+{"conference": "iclr2020", "title": "Unsupervised Clustering using Pseudo-semi-supervised Learning", "keywords": ["Unsupervised learning", "Pseudo-learning"]}
+{"conference": "iclr2020", "title": "Learning transport cost from subset correspondence", "keywords": ["subset matching", "transport problem"]}
+{"conference": "iclr2020", "title": "Scalable and Order-robust Continual Learning with Additive Parameter Decomposition", "keywords": ["Continual Learning", "Parameter Efficiency", "Model Compression"]}
+{"conference": "iclr2020", "title": "Scaling Autoregressive Video Models", "keywords": ["Autoregressive", "Video Processing", "Scalability"]}
+{"conference": "iclr2020", "title": "GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations", "keywords": ["Generative Model", "Scene Reconstruction", "Latent Space"]}
+{"conference": "iclr2020", "title": "Understanding Why Neural Networks Generalize Well Through GSNR of Parameters", "keywords": ["Neural Networks", "Generalization", "Overfitting"]}
+{"conference": "iclr2020", "title": "Linear Symmetric Quantization of Neural Networks for Low-precision Integer Hardware", "keywords": ["quantization", "neural networks", "hardware"]}
+{"conference": "iclr2020", "title": "Reformer: The Efficient Transformer", "keywords": ["Transformer", "Efficiency", "NLP"]}
 {"conference": "iclr2020", "title": "Automatically Discovering and Learning New Visual Categories with Ranking Statistics"}
 {"conference": "iclr2020", "title": "Difference-Seeking Generative Adversarial Network--Unseen Sample Generation"}
 {"conference": "iclr2020", "title": "Comparing Rewinding and Fine-tuning in Neural Network Pruning"}
