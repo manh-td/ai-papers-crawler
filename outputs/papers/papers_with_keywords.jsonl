@@ -10770,9 +10770,9 @@
 {"conference": "iclr2019", "title": "Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks", "keywords": ["Recurrent Neural Networks", "Neuron Integration", "Tree Structures"]}
 {"conference": "iclr2019", "title": "Variational Autoencoder with Arbitrary Conditioning", "keywords": ["Variational Autoencoder", "Conditioning", "Generative Modeling"]}
 {"conference": "iclr2019", "title": "Stable Recurrent Models", "keywords": ["Recurrent Neural Networks", "Sequence Modeling", "Stability in RNNs"]}
-{"conference": "iclr2019", "title": "A comprehensive, application-oriented study of catastrophic forgetting in DNNs"}
+{"conference": "iclr2019", "title": "A comprehensive, application-oriented study of catastrophic forgetting in DNNs", "keywords": ["catastrophic forgetting", "deep neural networks", "neural network", "knowledge transfer"]}
 {"conference": "iclr2019", "title": "Identifying and Controlling Important Neurons in Neural Machine Translation", "keywords": ["neural machine translation", "neurons", "control"]}
-{"conference": "iclr2019", "title": "Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning"}
+{"conference": "iclr2019", "title": "Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning", "keywords": ["Reinforcement Learning", "Multi-Agent", "Recursive Reasoning"]}
 {"conference": "iclr2019", "title": "Learning Recurrent Binary/Ternary Weights", "keywords": ["Recurrent Neural Networks", "Binary Neural Networks", "Weight Pruning"]}
 {"conference": "iclr2019", "title": "Learning what you can do before doing anything", "keywords": ["Reinforcement Learning", "Fine-tuning", "Action Priming"]}
 {"conference": "iclr2019", "title": "Dynamic Sparse Graph for Efficient Deep Learning", "keywords": ["Graph Neural Networks", "Sparse Representation", "Efficiency"]}
@@ -10927,7 +10927,7 @@
 {"conference": "iclr2018", "title": "Regularizing and Optimizing LSTM Language Models", "keywords": ["LSTM", "Regularization", "Optimization", "Sequence Modeling"]}
 {"conference": "iclr2018", "title": "Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers", "keywords": ["neural network optimization", "channel pruning", "convolutional layers"]}
 {"conference": "iclr2018", "title": "Learning Discrete Weights Using the Local Reparameterization Trick", "keywords": ["Reinforcement Learning", "Local Reparameterization", "Discrete Weights"]}
-{"conference": "iclr2018", "title": "Recasting Gradient-Based Meta-Learning as Hierarchical Bayes"}
+{"conference": "iclr2018", "title": "Recasting Gradient-Based Meta-Learning as Hierarchical Bayes", "keywords": ["meta-learning", "hierarchical models", "Bayesian methods"]}
 {"conference": "iclr2018", "title": "Skip RNN: Learning to Skip State Updates in Recurrent Neural Networks"}
 {"conference": "iclr2018", "title": "Training wide residual networks for deployment using a single bit for each weight", "keywords": ["neural networks", "quantization", "model compression"]}
 {"conference": "iclr2018", "title": "Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design", "keywords": ["Deep Learning", "Quantum Entanglement", "Network Design", "Neural Quantum Mechanics", "Quantum Information Processing"]}
@@ -10937,7 +10937,7 @@
 {"conference": "iclr2018", "title": "Learning Wasserstein Embeddings", "keywords": ["Wasserstein Embedding", "Machine Learning", "Optimization"]}
 {"conference": "iclr2018", "title": "Espresso: Efficient Forward Propagation for Binary Deep Neural Networks", "keywords": ["Reinforcement Learning", "Binary Deep Neural Networks"]}
 {"conference": "iclr2018", "title": "Critical Percolation as a Framework to Analyze the Training of Deep Networks", "keywords": ["Percolation", "Training", "Deep Learning"]}
-{"conference": "iclr2018", "title": "Towards better understanding of gradient-based attribution methods for Deep Neural Networks"}
+{"conference": "iclr2018", "title": "Towards better understanding of gradient-based attribution methods for Deep Neural Networks", "keywords": ["Deep Neural Networks", "gradient methods", "attribution"]}
 {"conference": "iclr2018", "title": "An Online Learning Approach to Generative Adversarial Networks", "keywords": ["Generative Adversarial Networks", "Online Learning", "GAN Training", "Adaptive GANs"]}
 {"conference": "iclr2018", "title": "Progressive Reinforcement Learning with Distillation for Multi-Skilled Motion Control", "keywords": ["Reinforcement Learning", "Motion Control", "Distillation"]}
 {"conference": "iclr2018", "title": "Improving GANs Using Optimal Transport", "keywords": ["GANs", "Optimal Transport", "Improvement"]}
@@ -10947,7 +10947,7 @@
 {"conference": "iclr2018", "title": "Deep Rewiring: Training very sparse deep networks", "keywords": ["Deep Learning", "Sparse Networks", "Neural Network Optimization"]}
 {"conference": "iclr2018", "title": "SpectralNet: Spectral Clustering using Deep Neural Networks", "keywords": ["SpectralNet", "Deep Learning", "Clustering"]}
 {"conference": "iclr2018", "title": "A Bayesian Perspective on Generalization and Stochastic Gradient Descent", "keywords": ["Bayesian", "Generalization", "Stochastic Gradient Descent"]}
-{"conference": "iclr2018", "title": "Mixed Precision Training"}
+{"conference": "iclr2018", "title": "Mixed Precision Training", "keywords": ["Mixed Precision Training", "Neural Networks", "Computational Efficiency"]}
 {"conference": "iclr2018", "title": "Adaptive Dropout with Rademacher Complexity Regularization", "keywords": ["Dropout", "Neural Networks", "Generalization"]}
 {"conference": "iclr2018", "title": "Robustness of Classifiers to Universal Perturbations: A Geometric Perspective", "keywords": ["Classifiers", "Perturbations", "Robustness", "Geometry"]}
 {"conference": "iclr2018", "title": "Detecting Statistical Interactions from Neural Network Weights", "keywords": ["Neural Networks", "Statistical Methods", "Machine Learning"]}
@@ -10973,16 +10973,16 @@
 {"conference": "iclr2018", "title": "Large scale distributed neural network training through online distillation", "keywords": ["Distillation", "Neural Networks", "Online Learning"]}
 {"conference": "iclr2018", "title": "SGD Learns Over-parameterized Networks that Provably Generalize on Linearly Separable Data", "keywords": ["Stochastic Gradient Descent", "Generalization", "Over-parameterized Networks"]}
 {"conference": "iclr2018", "title": "Multi-level Residual Networks from Dynamical Systems View", "keywords": ["Recurrent Neural Networks", "Dynamical Systems", "Residual Learning"]}
-{"conference": "iclr2018", "title": "Gradient Estimators for Implicit Models"}
+{"conference": "iclr2018", "title": "Gradient Estimators for Implicit Models", "keywords": ["Implicit Models", "Reinforcement Learning", "Actor-Critic Methods"]}
 {"conference": "iclr2018", "title": "Coulomb GANs: Provably Optimal Nash Equilibria via Potential Fields", "keywords": ["GAN", "Nash Equilibria", "Potential Fields"]}
 {"conference": "iclr2018", "title": "Learning Latent Representations in Neural Networks for Clustering through Pseudo Supervision and Graph-based Activity Regularization", "keywords": ["Neural Networks", "Pseudo Supervision", "Graph-based", "Activity Regularization"]}
 {"conference": "iclr2018", "title": "Parallelizing Linear Recurrent Neural Nets Over Sequence Length", "keywords": ["Recurrent Neural Networks", "Sequence Modeling", "Parallelization"]}
 {"conference": "iclr2018", "title": "On the Discrimination-Generalization Tradeoff in GANs", "keywords": ["Generative Adversarial Networks", "Tradeoff", "Discrimination"]}
-{"conference": "iclr2018", "title": "Depthwise Separable Convolutions for Neural Machine Translation"}
+{"conference": "iclr2018", "title": "Depthwise Separable Convolutions for Neural Machine Translation", "keywords": ["Convolution", "Machine Translation", "Neural Networks", "Depthwise Separable Convolutions", "Feature Extraction"]}
 {"conference": "iclr2018", "title": "FusionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension", "keywords": ["Fully-aware attention", "Machine comprehension", "Neural network integration"]}
 {"conference": "iclr2018", "title": "Emergence of grid-like representations by training recurrent neural networks to perform spatial localization", "keywords": ["recurrent neural networks", "spatial localization", "grid-like representations"]}
 {"conference": "iclr2018", "title": "The High-Dimensional Geometry of Binary Neural Networks", "keywords": ["Binary Neural Networks", "Geometry", "Dimensionality Reduction"]}
-{"conference": "iclr2018", "title": "Understanding Short-Horizon Bias in Stochastic Meta-Optimization"}
+{"conference": "iclr2018", "title": "Understanding Short-Horizon Bias in Stochastic Meta-Optimization", "keywords": ["Stochastic", "Meta-Optimization", "Bias"]}
 {"conference": "iclr2018", "title": "Deep Sensing: Active Sensing using Multi-directional Recurrent Neural Networks", "keywords": ["Multi-directional Recurrent Neural Networks", "Active Sensing", "Deep Learning"]}
 {"conference": "iclr2018", "title": "Mitigating Adversarial Effects Through Randomization", "keywords": ["Adversarial Learning", "Randomization", "Generalization"]}
 {"conference": "iclr2018", "title": "The Implicit Bias of Gradient Descent on Separable Data", "keywords": ["gradient descent", "separable data", "implicit bias"]}
@@ -10991,7 +10991,7 @@
 {"conference": "iclr2018", "title": "On the importance of single directions for generalization", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
 {"conference": "iclr2018", "title": "AmbientGAN: Generative models from lossy measurements", "keywords": ["generative models", "measurements", "GAN"]}
 {"conference": "iclr2018", "title": "An image representation based convolutional network for DNA classification", "keywords": ["image classification", "DNA sequence analysis", "bioinformatics"]}
-{"conference": "iclr2018", "title": "Parameter Space Noise for Exploration"}
+{"conference": "iclr2018", "title": "Parameter Space Noise for Exploration", "keywords": ["Reinforcement Learning", "Parameter Space", "Exploration", "Noise", "Policy Optimization"]}
 {"conference": "iclr2018", "title": "Identifying Analogies Across Domains", "keywords": ["Reinforcement Learning", "Text-to-SQL", "Fine-tuning", "Domain Adaptation", "Analogical Reasoning"]}
 {"conference": "iclr2018", "title": "Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples", "keywords": ["Confidence-calibration", "Out-of-distribution detection", "Machine learning models", "Reinforcement Learning"]}
 {"conference": "iclr2018", "title": "A Scalable Laplace Approximation for Neural Networks", "keywords": ["Laplace Approximation", "Neural Networks", "Scalability"]}
@@ -10999,22 +10999,22 @@
 {"conference": "iclr2018", "title": "Learning Sparse Neural Networks through L_0 Regularization", "keywords": ["Sparse Neural Networks", "L_0 Regularization", "Neural Network Optimization"]}
 {"conference": "iclr2018", "title": "Activation Maximization Generative Adversarial Nets", "keywords": ["Generative Adversarial Networks", "Activation Maximization", "Visualization"]}
 {"conference": "iclr2018", "title": "VoiceLoop: Voice Fitting and Synthesis via a Phonological Loop", "keywords": ["Phonological Loop", "Voice Synthesis", "Voice Fitting"]}
-{"conference": "iclr2018", "title": "Emergent Translation in Multi-Agent Communication"}
+{"conference": "iclr2018", "title": "Emergent Translation in Multi-Agent Communication", "keywords": ["Multi-Agent", "Communication", "Translation"]}
 {"conference": "iclr2018", "title": "cGANs with Projection Discriminator", "keywords": ["Generative Adversarial Networks", "Projection Discriminator", "Conditional GAN"]}
 {"conference": "iclr2018", "title": "Learning to Represent Programs with Graphs", "keywords": ["Graph Neural Networks", "Program Analysis", "Code Generation"]}
 {"conference": "iclr2018", "title": "Fix your classifier: the marginal value of training the last weight layer", "keywords": ["Reinforcement Learning", "Fine-tuning", "Transfer learning"]}
-{"conference": "iclr2018", "title": "On the State of the Art of Evaluation in Neural Language Models"}
+{"conference": "iclr2018", "title": "On the State of the Art of Evaluation in Neural Language Models", "keywords": ["Neural Language Models", "Evaluation", "State of the Art", "Text Generation", "Machine Learning"]}
 {"conference": "iclr2018", "title": "Stabilizing Adversarial Nets with Prediction Methods", "keywords": ["adversarial networks", "prediction methods", "model robustness"]}
-{"conference": "iclr2018", "title": "Emergent Communication in a Multi-Modal, Multi-Step Referential Game"}
+{"conference": "iclr2018", "title": "Emergent Communication in a Multi-Modal, Multi-Step Referential Game", "keywords": ["reinforcement learning", "communication", "multi-modal"]}
 {"conference": "iclr2018", "title": "Monotonic Chunkwise Attention", "keywords": ["Monotonic Chunkwise Attention", "Attention Mechanism", "Sequence Translation"]}
 {"conference": "iclr2018", "title": "Emergent Communication through Negotiation", "keywords": ["Negotiation", "Communication", "AI"]}
 {"conference": "iclr2018", "title": "PixelNN: Example-based Image Synthesis", "keywords": ["Deep Learning", "Generative Models", "Convolutional Neural Networks"]}
 {"conference": "iclr2018", "title": "WRPN: Wide Reduced-Precision Networks", "keywords": ["Reinforcement Learning", "Fine-tuning", "Quantization"]}
-{"conference": "iclr2018", "title": "Self-ensembling for visual domain adaptation"}
-{"conference": "iclr2018", "title": "Learning a neural response metric for retinal prosthesis"}
+{"conference": "iclr2018", "title": "Self-ensembling for visual domain adaptation", "keywords": ["Self-ensembling", "Visual Domain Adaptation", "Transfer Learning", "Unsupervised Learning"]}
+{"conference": "iclr2018", "title": "Learning a neural response metric for retinal prosthesis", "keywords": ["neural response", "retinal prosthesis", "machine learning"]}
 {"conference": "iclr2018", "title": "Loss-aware Weight Quantization of Deep Networks", "keywords": ["quantization", "deep learning", "neural networks"]}
 {"conference": "iclr2018", "title": "Eigenoption Discovery through the Deep Successor Representation", "keywords": ["reinforcement learning", "eigenoption", "deep learning", "successor representation"]}
-{"conference": "iclr2018", "title": "Variational Continual Learning"}
+{"conference": "iclr2018", "title": "Variational Continual Learning", "keywords": ["Variational Continual Learning", "Continual Learning", "Reinforcement Learning"]}
 {"conference": "iclr2018", "title": "TreeQN and ATreeC: Differentiable Tree-Structured Models for Deep Reinforcement Learning", "keywords": ["TreeQN", "ATreeC", "deep reinforcement learning"]}
 {"conference": "iclr2018", "title": "Improving the Universality and Learnability of Neural Programmer-Interpreters with Combinator Abstraction", "keywords": ["Neural Programmer-Interpreters", "Combinator Abstraction", "Universality", "Learnability"]}
 {"conference": "iclr2018", "title": " Neural Map: Structured Memory for Deep Reinforcement Learning", "keywords": ["Reinforcement Learning", "Neural Map", "Memory"]}
@@ -11031,16 +11031,16 @@
 {"conference": "iclr2018", "title": "Wasserstein Auto-Encoders", "keywords": ["Wasserstein", "Auto-Encoders", "Generative Models"]}
 {"conference": "iclr2018", "title": "Many Paths to Equilibrium: GANs Do Not Need to Decrease a Divergence At Every Step", "keywords": ["Generative Adversarial Networks", "Equilibrium", "GAN Training"]}
 {"conference": "iclr2018", "title": "Large Scale Optimal Transport and Mapping Estimation"}
-{"conference": "iclr2018", "title": "Deep Bayesian Bandits Showdown:  An Empirical Comparison of Bayesian Deep Networks for Thompson Sampling"}
-{"conference": "iclr2018", "title": "mixup: Beyond Empirical Risk Minimization"}
+{"conference": "iclr2018", "title": "Deep Bayesian Bandits Showdown:  An Empirical Comparison of Bayesian Deep Networks for Thompson Sampling", "keywords": ["Deep Learning", "Bayesian Methods", "Thompson Sampling"]}
+{"conference": "iclr2018", "title": "mixup: Beyond Empirical Risk Minimization", "keywords": ["mixup", "empirical risk", "data augmentation"]}
 {"conference": "iclr2018", "title": "Mastering the Dungeon: Grounded Language Learning by Mechanical Turker Descent", "keywords": ["Dungeon", "Language Learning", "Mechatronics", "Turkers", "Descent"]}
 {"conference": "iclr2018", "title": "Can Neural Networks Understand Logical Entailment?"}
 {"conference": "iclr2018", "title": "Synthetic and Natural Noise Both Break Neural Machine Translation", "keywords": ["Neural Machine Translation", "Synthetic Noise", "Natural Noise"]}
 {"conference": "iclr2018", "title": "Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments", "keywords": ["Reinforcement Learning", "Meta-Learning", "Nonstationary"]}
 {"conference": "iclr2018", "title": "Smooth Loss Functions for Deep Top-k Classification", "keywords": ["Smooth Loss Functions", "Deep Top-k Classification", "Top-k Ranking"]}
 {"conference": "iclr2018", "title": "Beyond Word Importance:  Contextual Decomposition to Extract Interactions from LSTMs", "keywords": ["Long Short-Term Memory", "Contextual Decomposition", "Interactions", "Neural Networks", "Feature Extraction"]}
-{"conference": "iclr2018", "title": "Critical Points of Linear Neural Networks: Analytical Forms and Landscape Properties"}
-{"conference": "iclr2018", "title": "Unsupervised Neural Machine Translation"}
+{"conference": "iclr2018", "title": "Critical Points of Linear Neural Networks: Analytical Forms and Landscape Properties", "keywords": ["Neural Networks", "Optimization", "Landscape"]}
+{"conference": "iclr2018", "title": "Unsupervised Neural Machine Translation", "keywords": ["Unsupervised Learning", "Neural Machine Translation", "Unsupervised NMT"]}
 {"conference": "iclr2018", "title": "Trust-PCL: An Off-Policy Trust Region Method for Continuous Control", "keywords": ["Reinforcement Learning", "Trust Region Method"]}
 {"conference": "iclr2018", "title": "PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples", "keywords": ["Adversarial Examples", "Generative Models", "Data Defense"]}
 {"conference": "iclr2018", "title": "Stochastic Variational Video Prediction", "keywords": ["Stochastic", "Variational", "Video", "Prediction"]}
@@ -11054,11 +11054,11 @@
 {"conference": "iclr2018", "title": "SCAN: Learning Hierarchical Compositional Visual Concepts", "keywords": ["Visual Concepts", "Learning Hierarchical", "Compositional Models"]}
 {"conference": "iclr2018", "title": "META LEARNING SHARED HIERARCHIES", "keywords": ["meta-learning", "hierarchies", "shared representation"]}
 {"conference": "iclr2018", "title": "Certifying Some Distributional Robustness with Principled Adversarial Training"}
-{"conference": "iclr2018", "title": "Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play"}
+{"conference": "iclr2018", "title": "Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play", "keywords": ["Self-Play", "Curricula", "Intrinsic Motivation"]}
 {"conference": "iclr2018", "title": "Spherical CNNs", "keywords": ["Spherical CNNs", "Geometric Deep Learning", "Data Analysis"]}
 {"conference": "iclr2018", "title": "Generating Natural Adversarial Examples", "keywords": ["Generating", "Adversarial Examples", "Natural Language Processing", "Data Augmentation"]}
 {"conference": "iclr2018", "title": "Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples", "keywords": ["Neural-Guided", "Deductive Search", "Program Synthesis", "Real-Time", "Examples"]}
-{"conference": "iclr2018", "title": "A Hierarchical Model for Device Placement"}
+{"conference": "iclr2018", "title": "A Hierarchical Model for Device Placement", "keywords": ["Device Placement", "Hierarchical Model", "Optimization"]}
 {"conference": "iclr2018", "title": "Emergence of Linguistic Communication from  Referential Games with Symbolic and Pixel Input", "keywords": ["Reinforcement Learning", "Fine-tuning", "Symbolic Representation"]}
 {"conference": "iclr2018", "title": "Adversarial Dropout Regularization", "keywords": ["Reinforcement Learning", "Dropout Regularization", "Adversarial Training"]}
 {"conference": "iclr2018", "title": "Variational Message Passing with Structured Inference Networks", "keywords": ["Variational Message Passing", "Structured Inference", "Neural Networks"]}
@@ -11067,16 +11067,16 @@
 {"conference": "iclr2018", "title": "Variational Network Quantization", "keywords": ["variational", "quantization", "network"]}
 {"conference": "iclr2018", "title": "Latent Space Oddity: on the Curvature of Deep Generative Models", "keywords": ["Deep Generative Models", "Latent Space", "Curvature"]}
 {"conference": "iclr2018", "title": "An efficient framework for learning sentence representations", "keywords": ["sentence representations", "learning framework"]}
-{"conference": "iclr2018", "title": "Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection"}
-{"conference": "iclr2018", "title": "Deep Active Learning for Named Entity Recognition"}
+{"conference": "iclr2018", "title": "Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection", "keywords": ["Unsupervised Learning", "Anomaly Detection", "Deep Learning"]}
+{"conference": "iclr2018", "title": "Deep Active Learning for Named Entity Recognition", "keywords": ["Active Learning", "Named Entity Recognition", "Deep Learning"]}
 {"conference": "iclr2018", "title": "Neural Language Modeling by Jointly Learning Syntax and Lexicon", "keywords": ["Neural Language Modeling", "Syntax Learning", "Lexicon"]}
 {"conference": "iclr2018", "title": "Predicting Floor-Level for 911 Calls with Neural Networks and Smartphone Sensor Data", "keywords": ["neural networks", "sensors", "predictive modeling"]}
 {"conference": "iclr2018", "title": "Measuring the Intrinsic Dimension of Objective Landscapes", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
-{"conference": "iclr2018", "title": "Thermometer Encoding: One Hot Way To Resist Adversarial Examples"}
+{"conference": "iclr2018", "title": "Thermometer Encoding: One Hot Way To Resist Adversarial Examples", "keywords": ["adversarial examples", "one hot encoding", "resistance", "thermometer"]}
 {"conference": "iclr2018", "title": "Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning", "keywords": ["Reinforcement Learning", "Safe Learning", "Autonomous Systems"]}
 {"conference": "iclr2018", "title": "Semantic Interpolation in Implicit Models", "keywords": ["Implicit Models", "Semantic Interpolation", "Generative Models"]}
 {"conference": "iclr2018", "title": "Certified Defenses against Adversarial Examples ", "keywords": ["adversarial examples", "certification", "reinforcement learning", "text-to-sql", "fine-tuning"]}
-{"conference": "iclr2018", "title": "Variance Reduction for Policy Gradient with Action-Dependent Factorized Baselines"}
+{"conference": "iclr2018", "title": "Variance Reduction for Policy Gradient with Action-Dependent Factorized Baselines", "keywords": ["Policy Gradient", "Variance Reduction", "Reinforcement Learning", "Factorized Baselines"]}
 {"conference": "iclr2018", "title": "Debiasing Evidence Approximations: On Importance-weighted Autoencoders and Jackknife Variational Inference", "keywords": ["autoencoders", "Jackknife Variational Inference", "bias", "importance weighting"]}
 {"conference": "iclr2018", "title": "Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models", "keywords": ["Adversarial Attacks", "Generative Models", "Classifier"]}
 {"conference": "iclr2018", "title": "Model-Ensemble Trust-Region Policy Optimization", "keywords": ["reinforcement learning", "trust-region", "policy optimization"]}
@@ -11084,92 +11084,92 @@
 {"conference": "iclr2018", "title": "Ask the Right Questions: Active Question Reformulation with Reinforcement Learning", "keywords": ["Reinforcement Learning", "Active Question Reformulation"]}
 {"conference": "iclr2018", "title": "Multi-View Data Generation Without View Supervision", "keywords": ["Reinforcement Learning", "Text-to-SQL", "Fine-tuning", "Data Augmentation", "Unsupervised Learning", "Cross-Domain Data Synthesis"]}
 {"conference": "iclr2018", "title": "i-RevNet: Deep Invertible Networks"}
-{"conference": "iclr2018", "title": "Divide-and-Conquer Reinforcement Learning"}
-{"conference": "iclr2018", "title": "Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning"}
-{"conference": "iclr2018", "title": "Evaluating the Robustness of Neural Networks: An Extreme Value Theory Approach"}
-{"conference": "iclr2018", "title": "A Compressed Sensing View of Unsupervised Text Embeddings, Bag-of-n-Grams, and LSTMs"}
-{"conference": "iclr2018", "title": "Multi-Mention Learning for Reading Comprehension with Neural Cascades"}
-{"conference": "iclr2018", "title": "Fast and Accurate Reading Comprehension by Combining Self-Attention and Convolution"}
+{"conference": "iclr2018", "title": "Divide-and-Conquer Reinforcement Learning", "keywords": ["Reinforcement Learning", "Divide-and-Conquer", "Algorithm"]}
+{"conference": "iclr2018", "title": "Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning", "keywords": ["Multi-task Learning", "Distributed Representations", "Natural Language Processing"]}
+{"conference": "iclr2018", "title": "Evaluating the Robustness of Neural Networks: An Extreme Value Theory Approach", "keywords": ["Extreme Value Theory", "Neural Networks", "Robustness"]}
+{"conference": "iclr2018", "title": "A Compressed Sensing View of Unsupervised Text Embeddings, Bag-of-n-Grams, and LSTMs", "keywords": ["Unsupervised Text Embeddings", "Bag-of-n-Grams", "LSTMs", "Natural Language Processing", "Dimensionality Reduction"]}
+{"conference": "iclr2018", "title": "Multi-Mention Learning for Reading Comprehension with Neural Cascades", "keywords": ["Multi-Mention Learning", "Reading Comprehension", "Neural Cascades"]}
+{"conference": "iclr2018", "title": "Fast and Accurate Reading Comprehension by Combining Self-Attention and Convolution", "keywords": ["Self-Attention", "Convolution", "Reading Comprehension"]}
 {"conference": "iclr2018", "title": "A PAC-Bayesian Approach to Spectrally-Normalized Margin Bounds for Neural Networks"}
-{"conference": "iclr2018", "title": "Deep Learning as a Mixed Convex-Combinatorial Optimization Problem"}
-{"conference": "iclr2018", "title": "Deep Neural Networks as Gaussian Processes"}
-{"conference": "iclr2018", "title": "Global Optimality Conditions for Deep Neural Networks"}
-{"conference": "iclr2018", "title": "Meta-Learning for Semi-Supervised Few-Shot Classification"}
-{"conference": "iclr2018", "title": "Matrix capsules with EM routing"}
-{"conference": "iclr2018", "title": "Simulating Action Dynamics with Neural Process Networks"}
-{"conference": "iclr2018", "title": "Understanding image motion with group representations "}
+{"conference": "iclr2018", "title": "Deep Learning as a Mixed Convex-Combinatorial Optimization Problem", "keywords": ["Deep Learning", "Optimization", "Convexity"]}
+{"conference": "iclr2018", "title": "Deep Neural Networks as Gaussian Processes", "keywords": ["Deep Neural Networks", "Gaussian Processes", "Bayesian Optimization"]}
+{"conference": "iclr2018", "title": "Global Optimality Conditions for Deep Neural Networks", "keywords": ["Deep Learning", "Global Optimization", "Training Algorithms"]}
+{"conference": "iclr2018", "title": "Meta-Learning for Semi-Supervised Few-Shot Classification", "keywords": ["Meta-Learning", "Few-Shot Classification", "Semi-Supervised"]}
+{"conference": "iclr2018", "title": "Matrix capsules with EM routing", "keywords": ["Matrix capsules", "EM routing", "Neural networks", "Kernel alignment"]}
+{"conference": "iclr2018", "title": "Simulating Action Dynamics with Neural Process Networks", "keywords": ["Neural Networks", "Simulation", "Action Dynamics", "Reinforcement Learning"]}
+{"conference": "iclr2018", "title": "Understanding image motion with group representations ", "keywords": ["computer vision", "motion analysis", "representation theory"]}
 {"conference": "iclr2018", "title": "Generalizing Across Domains via Cross-Gradient Training"}
-{"conference": "iclr2018", "title": "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting"}
-{"conference": "iclr2018", "title": "Neural Speed Reading via Skim-RNN"}
-{"conference": "iclr2018", "title": "On the Convergence of Adam and Beyond"}
-{"conference": "iclr2018", "title": "HexaConv"}
-{"conference": "iclr2018", "title": "Fidelity-Weighted Learning"}
-{"conference": "iclr2018", "title": "Learning Approximate Inference Networks for Structured Prediction"}
-{"conference": "iclr2018", "title": "Skip Connections Eliminate Singularities"}
-{"conference": "iclr2018", "title": "Do GANs learn the distribution? Some Theory and Empirics"}
-{"conference": "iclr2018", "title": "Breaking the Softmax Bottleneck: A High-Rank RNN Language Model"}
+{"conference": "iclr2018", "title": "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting", "keywords": ["Diffusion Convolutional Recurrent Neural Network", "Traffic Forecasting", "Data-Driven Analysis"]}
+{"conference": "iclr2018", "title": "Neural Speed Reading via Skim-RNN", "keywords": ["skim-reading", "RNN", "neural network"]}
+{"conference": "iclr2018", "title": "On the Convergence of Adam and Beyond", "keywords": ["Reinforcement Learning", "Adam", "Optimization"]}
+{"conference": "iclr2018", "title": "HexaConv", "keywords": ["HexaConv", "representation", "attention mechanism"]}
+{"conference": "iclr2018", "title": "Fidelity-Weighted Learning", "keywords": ["Fidelity", "Learning", "Optimization", "Adaptation"]}
+{"conference": "iclr2018", "title": "Learning Approximate Inference Networks for Structured Prediction", "keywords": ["Structured Prediction", "Neural Networks", "Approximate Inference"]}
+{"conference": "iclr2018", "title": "Skip Connections Eliminate Singularities", "keywords": ["skip connections", "network layers", "singularity"]}
+{"conference": "iclr2018", "title": "Do GANs learn the distribution? Some Theory and Empirics", "keywords": ["GANs", "Theory", "Empirics", "Distribution", "Deep Learning"]}
+{"conference": "iclr2018", "title": "Breaking the Softmax Bottleneck: A High-Rank RNN Language Model", "keywords": ["Reinforcement Learning", "Text-to-SQL", "fine-tuning", "Language Models", "Recurrent Neural Networks", "Attention Mechanisms"]}
 {"conference": "iclr2018", "title": "Dynamic Neural Program Embeddings for Program Repair"}
-{"conference": "iclr2018", "title": "Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training"}
-{"conference": "iclr2018", "title": "Towards Deep Learning Models Resistant to Adversarial Attacks"}
-{"conference": "iclr2018", "title": "Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks"}
-{"conference": "iclr2018", "title": "Temporal Difference Models: Model-Free Deep RL for Model-Based Control"}
-{"conference": "iclr2018", "title": "Towards Reverse-Engineering Black-Box Neural Networks"}
+{"conference": "iclr2018", "title": "Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training", "keywords": ["Distributed Training", "Gradient Compression", "Communication Bandwidth"]}
+{"conference": "iclr2018", "title": "Towards Deep Learning Models Resistant to Adversarial Attacks", "keywords": ["Adversarial Attacks", "Deep Learning", "Model Resistance"]}
+{"conference": "iclr2018", "title": "Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks", "keywords": ["Unsupervised GANs", "Memory Networks", "Generation", "Learning"]}
+{"conference": "iclr2018", "title": "Temporal Difference Models: Model-Free Deep RL for Model-Based Control", "keywords": ["Reinforcement Learning", "Temporal Difference", "Deep RL", "Model-Based Control"]}
+{"conference": "iclr2018", "title": "Towards Reverse-Engineering Black-Box Neural Networks", "keywords": ["Neural Networks", "Model Interpretability", "Backpropagation"]}
 {"conference": "iclr2018", "title": "Online Learning Rate Adaptation with Hypergradient Descent"}
-{"conference": "iclr2018", "title": "Variational Inference of Disentangled Latent Concepts from Unlabeled Observations"}
-{"conference": "iclr2018", "title": "Unsupervised Representation Learning by Predicting Image Rotations"}
-{"conference": "iclr2018", "title": "Generalizing Hamiltonian Monte Carlo with Neural Networks"}
-{"conference": "iclr2018", "title": "FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling"}
-{"conference": "iclr2018", "title": "Hierarchical Density Order Embeddings"}
-{"conference": "iclr2018", "title": "Interactive Grounded Language Acquisition and Generalization in a 2D World"}
+{"conference": "iclr2018", "title": "Variational Inference of Disentangled Latent Concepts from Unlabeled Observations", "keywords": ["Variational Inference", "Disentangled Latent", "Unlabeled Observations"]}
+{"conference": "iclr2018", "title": "Unsupervised Representation Learning by Predicting Image Rotations", "keywords": ["Unsupervised Learning", "Image Representation", "Rotation Prediction"]}
+{"conference": "iclr2018", "title": "Generalizing Hamiltonian Monte Carlo with Neural Networks", "keywords": ["Hamiltonian Monte Carlo", "Neural Networks", "Generalization"]}
+{"conference": "iclr2018", "title": "FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling", "keywords": ["Graph Convolutional Networks", "Importance Sampling", "Fast Learning"]}
+{"conference": "iclr2018", "title": "Hierarchical Density Order Embeddings", "keywords": ["Reinforcement Learning", "Hierarchical Density Order Embeddings", "Hierarchical Representations", "Embeddings"]}
+{"conference": "iclr2018", "title": "Interactive Grounded Language Acquisition and Generalization in a 2D World", "keywords": ["language acquisition", "generalization", "interactive"]}
 {"conference": "iclr2018", "title": "Generating Wikipedia by Summarizing Long Sequences"}
-{"conference": "iclr2018", "title": "All-but-the-Top: Simple and Effective Postprocessing for Word Representations"}
-{"conference": "iclr2018", "title": "Not-So-Random Features"}
-{"conference": "iclr2018", "title": "Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning"}
-{"conference": "iclr2018", "title": "Modular Continual Learning in a Unified Visual Environment"}
-{"conference": "iclr2018", "title": "Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks"}
-{"conference": "iclr2018", "title": "The Role of Minimal Complexity Functions in Unsupervised Learning of Semantic Mappings"}
+{"conference": "iclr2018", "title": "All-but-the-Top: Simple and Effective Postprocessing for Word Representations", "keywords": ["word embeddings", "postprocessing", "language models"]}
+{"conference": "iclr2018", "title": "Not-So-Random Features", "keywords": ["Reinforcement Learning", "Text-to-SQL", "Feature Selection"]}
+{"conference": "iclr2018", "title": "Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning", "keywords": ["Reinforcement Learning", "Multi-task Learning", "Skill Acquisition"]}
+{"conference": "iclr2018", "title": "Modular Continual Learning in a Unified Visual Environment", "keywords": ["Continual Learning", "Visual Reasoning", "Modularity"]}
+{"conference": "iclr2018", "title": "Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks", "keywords": ["Stochastic gradient descent", "variational inference", "deep networks"]}
+{"conference": "iclr2018", "title": "The Role of Minimal Complexity Functions in Unsupervised Learning of Semantic Mappings", "keywords": ["Unsupervised Learning", "Semantic Mappings", "Minimal Complexity"]}
 {"conference": "iclr2018", "title": "Boosting the Actor with Dual Critic"}
-{"conference": "iclr2018", "title": "Neural Sketch Learning for Conditional Program Generation"}
-{"conference": "iclr2018", "title": "MGAN: Training Generative Adversarial Nets with Multiple Generators"}
-{"conference": "iclr2018", "title": "Towards Neural Phrase-based Machine Translation"}
-{"conference": "iclr2018", "title": "Graph Attention Networks"}
-{"conference": "iclr2018", "title": "Efficient Sparse-Winograd Convolutional Neural Networks"}
-{"conference": "iclr2018", "title": "Compositional Obverter Communication Learning from Raw Visual Input"}
-{"conference": "iclr2018", "title": "Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks"}
-{"conference": "iclr2018", "title": "RESIDUAL LOSS PREDICTION: REINFORCEMENT LEARNING WITH NO INCREMENTAL FEEDBACK"}
-{"conference": "iclr2018", "title": "Non-Autoregressive Neural Machine Translation"}
+{"conference": "iclr2018", "title": "Neural Sketch Learning for Conditional Program Generation", "keywords": ["Neural Networks", "Program Generation", "Conditional Sampling"]}
+{"conference": "iclr2018", "title": "MGAN: Training Generative Adversarial Nets with Multiple Generators", "keywords": ["Generative Adversarial Networks", "Multiple Generators", "GAN"]}
+{"conference": "iclr2018", "title": "Towards Neural Phrase-based Machine Translation", "keywords": ["Machine Translation", "Natural Language Processing", "Neural Networks"]}
+{"conference": "iclr2018", "title": "Graph Attention Networks", "keywords": ["Graph Attention Networks", "Reinforcement Learning", "Neural Networks", "Feature Extraction"]}
+{"conference": "iclr2018", "title": "Efficient Sparse-Winograd Convolutional Neural Networks", "keywords": ["Sparse-Winograd", "Convolutional Neural Networks", "Efficient"]}
+{"conference": "iclr2018", "title": "Compositional Obverter Communication Learning from Raw Visual Input", "keywords": ["computer vision", "reinforcement learning", "neural networks"]}
+{"conference": "iclr2018", "title": "Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks", "keywords": ["Image Recognition", "Neural Networks", "Anomaly Detection"]}
+{"conference": "iclr2018", "title": "RESIDUAL LOSS PREDICTION: REINFORCEMENT LEARNING WITH NO INCREMENTAL FEEDBACK", "keywords": ["Reinforcement Learning", "Reinforcement Learning", "Text-to-SQL", "Fine-tuning", "Residual Loss", "Prediction"]}
+{"conference": "iclr2018", "title": "Non-Autoregressive Neural Machine Translation", "keywords": ["Non-Autoregressive", "Neural Machine Translation", "Attention Mechanism"]}
 {"conference": "iclr2018", "title": "Overcoming Catastrophic Interference using Conceptor-Aided Backpropagation"}
-{"conference": "iclr2018", "title": "On the Expressive Power of Overlapping Architectures of Deep Learning"}
-{"conference": "iclr2018", "title": "Memory Architectures in Recurrent Neural Network Language Models"}
-{"conference": "iclr2018", "title": "Sparse Persistent RNNs: Squeezing Large Recurrent Networks On-Chip"}
-{"conference": "iclr2018", "title": "Interpretable Counting for Visual Question Answering"}
-{"conference": "iclr2018", "title": "Countering Adversarial Images using Input Transformations"}
-{"conference": "iclr2018", "title": "Learning One-hidden-layer Neural Networks with Landscape Design"}
-{"conference": "iclr2018", "title": "Twin Networks: Matching the Future for Sequence Generation"}
-{"conference": "iclr2018", "title": "Stochastic Activation Pruning for Robust Adversarial Defense"}
-{"conference": "iclr2018", "title": "Viterbi-based Pruning for Sparse Matrix with Fixed and High Index Compression Ratio"}
-{"conference": "iclr2018", "title": "Proximal Backpropagation"}
+{"conference": "iclr2018", "title": "On the Expressive Power of Overlapping Architectures of Deep Learning", "keywords": ["Deep Learning", "Architectures", "Neural Networks", "Transformers", "Overlap", "Model Composition"]}
+{"conference": "iclr2018", "title": "Memory Architectures in Recurrent Neural Network Language Models", "keywords": ["Recurrent Neural Networks", "Memory Models", "Language Processing"]}
+{"conference": "iclr2018", "title": "Sparse Persistent RNNs: Squeezing Large Recurrent Networks On-Chip", "keywords": ["Recurrent Networks", "Sparse Representations", "Persistent Memory"]}
+{"conference": "iclr2018", "title": "Interpretable Counting for Visual Question Answering", "keywords": ["Visual Question Answering", "Counting", "Interpretable"]}
+{"conference": "iclr2018", "title": "Countering Adversarial Images using Input Transformations", "keywords": ["Adversarial Images", "Image Processing", "Input Transformations", "Machine Learning", "Data Augmentation"]}
+{"conference": "iclr2018", "title": "Learning One-hidden-layer Neural Networks with Landscape Design", "keywords": ["Learning", "Neural Networks", "Design", "Artificial Intelligence"]}
+{"conference": "iclr2018", "title": "Twin Networks: Matching the Future for Sequence Generation", "keywords": ["Twin Networks", "Sequence Generation"]}
+{"conference": "iclr2018", "title": "Stochastic Activation Pruning for Robust Adversarial Defense", "keywords": ["Adversarial Defense", "Stochastic Pruning", "Neural Networks"]}
+{"conference": "iclr2018", "title": "Viterbi-based Pruning for Sparse Matrix with Fixed and High Index Compression Ratio", "keywords": ["Viterbi", "pruning", "sparse matrix", "compression", "fixed ratio"]}
+{"conference": "iclr2018", "title": "Proximal Backpropagation", "keywords": ["Reinforcement Learning", "Proximal Backpropagation", "Gradient Descent"]}
 {"conference": "iclr2018", "title": "Learning Intrinsic Sparse Structures within Long Short-Term Memory"}
-{"conference": "iclr2018", "title": "Variational image compression with a scale hyperprior"}
-{"conference": "iclr2018", "title": "Distributed Prioritized Experience Replay"}
-{"conference": "iclr2018", "title": "FearNet: Brain-Inspired Model for Incremental Learning"}
-{"conference": "iclr2018", "title": "Don't Decay the Learning Rate, Increase the Batch Size"}
-{"conference": "iclr2018", "title": "A Simple Neural Attentive Meta-Learner"}
-{"conference": "iclr2018", "title": "Action-dependent Control Variates for Policy Optimization via Stein Identity"}
-{"conference": "iclr2018", "title": "Generative Models of Visually Grounded Imagination"}
-{"conference": "iclr2018", "title": "The Kanerva Machine: A Generative Distributed Memory"}
+{"conference": "iclr2018", "title": "Variational image compression with a scale hyperprior", "keywords": ["variational compression", "hyperprior", "image data"]}
+{"conference": "iclr2018", "title": "Distributed Prioritized Experience Replay", "keywords": ["Reinforcement Learning", "Experience Replay", "Distributed"]}
+{"conference": "iclr2018", "title": "FearNet: Brain-Inspired Model for Incremental Learning", "keywords": ["Brain-Inspired Model", "Incremental Learning", "FearNetwork"]}
+{"conference": "iclr2018", "title": "Don't Decay the Learning Rate, Increase the Batch Size", "keywords": ["Reinforcement Learning", "Fine-tuning", "Batch Size"]}
+{"conference": "iclr2018", "title": "A Simple Neural Attentive Meta-Learner", "keywords": ["Meta-Learning", "Neural Networks", "Attention Mechanism"]}
+{"conference": "iclr2018", "title": "Action-dependent Control Variates for Policy Optimization via Stein Identity", "keywords": ["Reinforcement Learning", "Policy Optimization", "Stein Identity", "Control Variates"]}
+{"conference": "iclr2018", "title": "Generative Models of Visually Grounded Imagination", "keywords": ["Generative Models", "Imagination", "Computer Vision"]}
+{"conference": "iclr2018", "title": "The Kanerva Machine: A Generative Distributed Memory", "keywords": ["Kanerva", "Generative", "Memory"]}
 {"conference": "iclr2018", "title": "N2N learning: Network to Network Compression via Policy Gradient Reinforcement Learning"}
-{"conference": "iclr2018", "title": "Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning"}
-{"conference": "iclr2018", "title": "Wavelet Pooling for Convolutional Neural Networks"}
-{"conference": "iclr2018", "title": "Progressive Growing of GANs for Improved Quality, Stability, and Variation"}
-{"conference": "iclr2018", "title": "Active Learning for Convolutional Neural Networks: A Core-Set Approach"}
-{"conference": "iclr2018", "title": "Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm"}
-{"conference": "iclr2018", "title": "Can recurrent neural networks warp time?"}
+{"conference": "iclr2018", "title": "Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning", "keywords": ["Text-to-Speech", "Deep Voice", "Convolutional Neural Networks"]}
+{"conference": "iclr2018", "title": "Wavelet Pooling for Convolutional Neural Networks", "keywords": ["Convolutional Neural Networks", "Feature Extraction", "Dimensionality Reduction"]}
+{"conference": "iclr2018", "title": "Progressive Growing of GANs for Improved Quality, Stability, and Variation", "keywords": ["GAN", "generative model", "training"]}
+{"conference": "iclr2018", "title": "Active Learning for Convolutional Neural Networks: A Core-Set Approach", "keywords": ["Active Learning", "Convolutional Neural Networks", "Core-Set"]}
+{"conference": "iclr2018", "title": "Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm", "keywords": ["Meta-Learning", "Universality", "Gradient Descent", "Deep Representations"]}
+{"conference": "iclr2018", "title": "Can recurrent neural networks warp time?", "keywords": ["Recurrent Neural Networks", "Temporal Data", "Time Series Analysis"]}
 {"conference": "iclr2018", "title": "Gaussian Process Behaviour in Wide Deep Neural Networks"}
-{"conference": "iclr2018", "title": "Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy"}
-{"conference": "iclr2018", "title": "Learning From Noisy Singly-labeled Data"}
-{"conference": "iclr2018", "title": "On Unifying Deep Generative Models"}
-{"conference": "iclr2018", "title": "Compositional Attention Networks for Machine Reasoning"}
+{"conference": "iclr2018", "title": "Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy", "keywords": ["Knowledge Distillation", "Network Accuracy", "Low-Precision"]}
+{"conference": "iclr2018", "title": "Learning From Noisy Singly-labeled Data", "keywords": ["noisy", "labeled data", "learning", "singly-labeled", "data", "reinforcement learning", "fine-tuning"]}
+{"conference": "iclr2018", "title": "On Unifying Deep Generative Models", "keywords": ["Deep Generative Models", "Generative Adversarial Networks", "Variational Autoencoders"]}
+{"conference": "iclr2018", "title": "Compositional Attention Networks for Machine Reasoning", "keywords": ["Attention Networks", "Machine Reasoning", "Neural Models", "Compositional Reasoning"]}
 {"conference": "iclr2018", "title": "A Deep Reinforced Model for Abstractive Summarization"}
 {"conference": "iclr2018", "title": "Expressive power of recurrent neural networks"}
 {"conference": "iclr2018", "title": "Combining Symbolic Expressions and Black-box Function Evaluations in Neural Programs"}
