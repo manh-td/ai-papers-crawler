@@ -13287,7 +13287,7 @@
 {"conference": "neurips2025", "title": "A Generalist Intracortical Motor Decoder", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
 {"conference": "neurips2025", "title": "Thoughts Are All Over the Place: On the Underthinking of Long Reasoning Models", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
 {"conference": "neurips2025", "title": "Compositional Neural Network Verification via Assume-Guarantee Reasoning", "keywords": ["Neural Networks", "Verification", "Reasoning"]}
-{"conference": "neurips2025", "title": "A*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings"}
+{"conference": "neurips2025", "title": "A*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings", "keywords": ["Reinforcement Learning", "Text-to-SQL"]}
 {"conference": "neurips2025", "title": "SuffixDecoding: Extreme Speculative Decoding for Emerging AI Applications", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
 {"conference": "neurips2025", "title": "Puppeteer: Rig and Animate Your 3D Models", "keywords": ["rigging", "animation"]}
 {"conference": "neurips2025", "title": "Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search", "keywords": ["neural architecture search", "language model"]}
@@ -13332,7 +13332,7 @@
 {"conference": "neurips2025", "title": "A Generalized Binary Tree Mechanism for Private Approximation of All-Pair Shortest Distances", "keywords": ["Binary Trees", "Private Information Protocols", "Distance Algorithms"]}
 {"conference": "neurips2025", "title": "The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control", "keywords": ["Reinforcement Learning", "World Generation", "Control"]}
 {"conference": "neurips2025", "title": "Coarse-to-fine Q-Network with Action Sequence for Data-Efficient Reinforcement Learning", "keywords": ["Reinforcement Learning", "Q-Network", "Action Sequence"]}
-{"conference": "neurips2025", "title": "Dual-Res Tandem Mamba-3D: Bilateral Breast Lesion Detection and Classification on Non-contrast Chest CT"}
+{"conference": "neurips2025", "title": "Dual-Res Tandem Mamba-3D: Bilateral Breast Lesion Detection and Classification on Non-contrast Chest CT", "keywords": ["breast imaging", "mammography", "lesion detection"]}
 {"conference": "neurips2025", "title": "A Principle of Targeted Intervention for Multi-Agent Reinforcement Learning", "keywords": ["Reinforcement Learning", "Multi-Agent System", "Intervention Strategy"]}
 {"conference": "neurips2025", "title": "Scalable Neural Network Geometric Robustness Validation via H\u00f6lder Optimisation", "keywords": ["Neural Network", "Geometric Transformation", "Robustness"]}
 {"conference": "neurips2025", "title": "ConfTuner: Training Large Language Models to Express Their Confidence Verbally", "keywords": ["Language Model", "Confidence"]}
@@ -13393,9 +13393,9 @@
 {"conference": "neurips2025", "title": "Heterogeneous Swarms: Jointly Optimizing Model Roles and Weights for Multi-LLM Systems", "keywords": ["Reinforcement Learning", "Heterogeneous Swarms", "Model Optimization"]}
 {"conference": "neurips2025", "title": "Estimation and Inference in Distributional Reinforcement Learning", "keywords": ["Reinforcement Learning", "Distributional RL"]}
 {"conference": "neurips2025", "title": "Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought", "keywords": ["Reinforcement Learning", "Chain Reasoning"]}
-{"conference": "neurips2025", "title": "Test3R: Learning to Reconstruct 3D at Test Time"}
+{"conference": "neurips2025", "title": "Test3R: Learning to Reconstruct 3D at Test Time", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
 {"conference": "neurips2025", "title": "Online Statistical Inference in Decision Making with Matrix Context", "keywords": ["statistical inference", "decision making", "matrix context"]}
-{"conference": "neurips2025", "title": "Neural Combinatorial Optimization for Time Dependent Traveling Salesman Problem"}
+{"conference": "neurips2025", "title": "Neural Combinatorial Optimization for Time Dependent Traveling Salesman Problem", "keywords": ["Reinforcement Learning", "Optimization", "Traveling TSP"]}
 {"conference": "neurips2025", "title": "Asymptotic Theory of Geometric and Adaptive $k$-Means Clustering", "keywords": ["K-means clustering", "Geometry in machine learning"]}
 {"conference": "neurips2025", "title": "The Adaptive Complexity of Minimizing Relative Fisher Information", "keywords": ["Reinforcement Learning", "Fine-tuning", "Machine learning"]}
 {"conference": "neurips2025", "title": "Who Speaks for the Trigger? Dynamic Expert Routing in Backdoored Mixture-of-Experts Transformers", "keywords": ["Transformer", "Backdoor Pose As, Expert Routing"]}
@@ -13434,7 +13434,7 @@
 {"conference": "neurips2025", "title": "Towards Robust Uncertainty Calibration for Composed Image Retrieval", "keywords": ["Computer Vision", "Robustness in AI"]}
 {"conference": "neurips2025", "title": "Every Rollout Counts: Optimal Resource Allocation for Efficient Test-Time Scaling", "keywords": ["Rollout", "Resource Allocation", "Test-Time"]}
 {"conference": "neurips2025", "title": "Exploiting Vocabulary Frequency Imbalance in Language Model Pre-training", "keywords": ["Natural language processing", "Vocabulary frequency"]}
-{"conference": "neurips2025", "title": "Hyperbolic Fine-Tuning for Large Language Models"}
+{"conference": "neurips2025", "title": "Hyperbolic Fine-Tuning for Large Language Models", "keywords": ["Fine-tuning", "Large language models", "Hyperbolic"]}
 {"conference": "neurips2025", "title": "Learning to Factorize Spatio-Temporal Foundation Models", "keywords": ["Spatio-temporal", "Factorization", "Reinforcement Learning"]}
 {"conference": "neurips2025", "title": "Plenodium: Underwater 3D Scene Reconstruction with Plenoptic Medium Representation", "keywords": ["Computer Vision", "Underwater Imaging", "3D Modeling"]}
 {"conference": "neurips2025", "title": "Implicit Reward as the Bridge: A Unified View of SFT and DPO Connections", "keywords": ["Reinforcement Learning", "Implicit Reward"]}
@@ -13464,7 +13464,7 @@
 {"conference": "neurips2025", "title": "Asymptotic theory of SGD with a general learning-rate", "keywords": ["Stochastic Gradient Descent", "Learning Rate"]}
 {"conference": "neurips2025", "title": "Attention with Trained Embeddings Provably Selects Important Tokens"}
 {"conference": "neurips2025", "title": "Improving the Euclidean Diffusion Generation of Manifold Data by Mitigating Score Function Singularity", "keywords": ["Density Estimation", "Diffusion Processes", "Manifold Learning"]}
-{"conference": "neurips2025", "title": "Partition-Then-Adapt: Combating Prediction Bias for Reliable Multi-Modal Test-Time Adaptation"}
+{"conference": "neurips2025", "title": "Partition-Then-Adapt: Combating Prediction Bias for Reliable Multi-Modal Test-Time Adaptation", "keywords": ["Test-time adaptation", "Prediction bias"]}
 {"conference": "neurips2025", "title": "Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection", "keywords": ["Registration", "Anomaly Detection", "Rotation-Invariance"]}
 {"conference": "neurips2025", "title": "Activation-Informed Merging of Large Language Models", "keywords": ["Language Modeling", "Human-in-the-Loop", "Contextual Understanding"]}
 {"conference": "neurips2025", "title": "SAD Neural Networks: Divergent Gradient Flows and Asymptotic Optimality via o-minimal Structures", "keywords": ["SAD Neural Networks", "Divergent Gradient Flows", "Asymptotic Optimality", "o-minimal Structures", "Deep Learning"]}
@@ -13485,106 +13485,106 @@
 {"conference": "neurips2025", "title": "Spiral: Semantic-Aware Progressive LiDAR Scene Generation and Understanding", "keywords": ["LiDAR", "Scene Generation", "Semantic Mapping"]}
 {"conference": "neurips2025", "title": "Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis", "keywords": ["Text-to-SQL", "Shallow Flow Matching", "Synthesis"]}
 {"conference": "neurips2025", "title": "Optimal community detection in dense bipartite graphs", "keywords": ["graph theory", "community detection", "dense networks"]}
-{"conference": "neurips2025", "title": "NopeRoomGS: Indoor 3D Gaussian Splatting Optimization without Camera Pose Input"}
-{"conference": "neurips2025", "title": "Improved Balanced Classification with Theoretically Grounded Loss Functions"}
-{"conference": "neurips2025", "title": "Latent Retrieval Augmented Generation of Cross-Domain Protein Binders"}
-{"conference": "neurips2025", "title": "Enhancing Infrared Vision: Progressive Prompt Fusion Network and Benchmark"}
-{"conference": "neurips2025", "title": "SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation"}
-{"conference": "neurips2025", "title": "SATURN: SAT-based Reinforcement Learning to Unleash LLMs Reasoning"}
-{"conference": "neurips2025", "title": "C-NAV: Towards Self-Evolving Continual Object Navigation in Open World"}
-{"conference": "neurips2025", "title": "CoFFT: Chain of Foresight-Focus Thought for Visual Language Models"}
-{"conference": "neurips2025", "title": "Alligat0R: Pre-Training through Covisibility Segmentation for Relative Camera Pose Regression"}
-{"conference": "neurips2025", "title": "Structural Information-based Hierarchical Diffusion for Offline Reinforcement Learning"}
-{"conference": "neurips2025", "title": "MOSDT: Self-Distillation-Based Decision Transformer for Multi-Agent Offline Safe Reinforcement Learning"}
-{"conference": "neurips2025", "title": "CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models"}
-{"conference": "neurips2025", "title": "Prompt Tuning Decision Transformers with Structured and Scalable Bandits"}
-{"conference": "neurips2025", "title": "DIFFSSR: Stereo Image Super-resolution Using Differential Transformer"}
-{"conference": "neurips2025", "title": "LLM Meeting Decision Trees on Tabular Data"}
-{"conference": "neurips2025", "title": "Impact of Dataset Properties on Membership Inference Vulnerability of Deep Transfer Learning"}
-{"conference": "neurips2025", "title": "SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning"}
-{"conference": "neurips2025", "title": "Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding"}
-{"conference": "neurips2025", "title": "Efficient Prompt Compression with Evaluator Heads for Long-Context Transformer Inference"}
-{"conference": "neurips2025", "title": "Evaluating Robustness of Monocular Depth Estimation with Procedural Scene Perturbations"}
-{"conference": "neurips2025", "title": "PLMTrajRec: A Scalable and Generalizable Trajectory Recovery Method with Pre-trained Language Models"}
-{"conference": "neurips2025", "title": "Learning to Integrate Diffusion ODEs by Averaging the Derivatives"}
-{"conference": "neurips2025", "title": "STEAD: Robust Provably Secure Linguistic Steganography with Diffusion Language Model"}
-{"conference": "neurips2025", "title": "Decomposing Interventional Causality into Synergistic, Redundant, and Unique Components"}
-{"conference": "neurips2025", "title": "Bayes optimal learning of attention-indexed models"}
-{"conference": "neurips2025", "title": "Efficient Randomized Experiments Using Foundation Models"}
-{"conference": "neurips2025", "title": "Curl Descent : Non-Gradient Learning Dynamics with Sign-Diverse Plasticity"}
-{"conference": "neurips2025", "title": "Riemannian Consistency Model"}
-{"conference": "neurips2025", "title": "NeuSymEA: Neuro-symbolic Entity Alignment via Variational Inference"}
-{"conference": "neurips2025", "title": "LLM Interpretability with Identifiable Temporal-Instantaneous Representation"}
-{"conference": "neurips2025", "title": "Learning Dense Hand Contact Estimation from Imbalanced Data"}
-{"conference": "neurips2025", "title": "FuncGenFoil: Airfoil Generation and Editing Model in Function Space"}
-{"conference": "neurips2025", "title": "GAMMA: Gated Multi-hop Message Passing for Homophily-Agnostic Node Representation in GNNs"}
+{"conference": "neurips2025", "title": "NopeRoomGS: Indoor 3D Gaussian Splatting Optimization without Camera Pose Input", "keywords": ["Gaussian Splatting", "Optimization", "Indoor 3D"]}
+{"conference": "neurips2025", "title": "Improved Balanced Classification with Theoretically Grounded Loss Functions", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
+{"conference": "neurips2025", "title": "Latent Retrieval Augmented Generation of Cross-Domain Protein Binders", "keywords": ["protein", "binding", "cross-domain"]}
+{"conference": "neurips2025", "title": "Enhancing Infrared Vision: Progressive Prompt Fusion Network and Benchmark", "keywords": ["prompt fusion", "infrared vision"]}
+{"conference": "neurips2025", "title": "SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation", "keywords": ["Reinforcement Learning", "SceneDesigner", "Multi-Object Image Generation", "Pose Manipulation"]}
+{"conference": "neurips2025", "title": "SATURN: SAT-based Reinforcement Learning to Unleash LLMs Reasoning", "keywords": ["Reinforcement Learning", "LLMs", "SAT"]}
+{"conference": "neurips2025", "title": "C-NAV: Towards Self-Evolving Continual Object Navigation in Open World", "keywords": ["Continuous Learning", "Object Perception", "Simulation Environments"]}
+{"conference": "neurips2025", "title": "CoFFT: Chain of Foresight-Focus Thought for Visual Language Models", "keywords": ["visual language models", "reinforcement learning"]}
+{"conference": "neurips2025", "title": "Alligat0R: Pre-Training through Covisibility Segmentation for Relative Camera Pose Regression", "keywords": ["regression", "relative camera pose"]}
+{"conference": "neurips2025", "title": "Structural Information-based Hierarchical Diffusion for Offline Reinforcement Learning", "keywords": ["Reinforcement Learning", "Hierarchical Diffusion"]}
+{"conference": "neurips2025", "title": "MOSDT: Self-Distillation-Based Decision Transformer for Multi-Agent Offline Safe Reinforcement Learning", "keywords": ["Reinforcement Learning", "Multi-Agent Systems", "Decision Making"]}
+{"conference": "neurips2025", "title": "CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models", "keywords": ["Group Relative Policies", "Reinforcement Learning"]}
+{"conference": "neurips2025", "title": "Prompt Tuning Decision Transformers with Structured and Scalable Bandits", "keywords": ["Decision Transformers", "Bandits", "Prompt Tuning"]}
+{"conference": "neurips2025", "title": "DIFFSSR: Stereo Image Super-resolution Using Differential Transformer", "keywords": ["Super-Resolution", "Stereo Vision"]}
+{"conference": "neurips2025", "title": "LLM Meeting Decision Trees on Tabular Data", "keywords": ["Reinforcement Learning", "Decision Trees", "Tabular Data", "Feature Selection"]}
+{"conference": "neurips2025", "title": "Impact of Dataset Properties on Membership Inference Vulnerability of Deep Transfer Learning", "keywords": ["Membership Inference", "Deep Learning", "Transfer Learning"]}
+{"conference": "neurips2025", "title": "SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning", "keywords": ["Reinforcement Learning", "Spatial Reasoning"]}
+{"conference": "neurips2025", "title": "Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
+{"conference": "neurips2025", "title": "Efficient Prompt Compression with Evaluator Heads for Long-Context Transformer Inference", "keywords": ["Transformer", "Prompt compression", "Long-context inference"]}
+{"conference": "neurips2025", "title": "Evaluating Robustness of Monocular Depth Estimation with Procedural Scene Perturbations", "keywords": ["monocular depth estimation", "scene perturbations"]}
+{"conference": "neurips2025", "title": "PLMTrajRec: A Scalable and Generalizable Trajectory Recovery Method with Pre-trained Language Models", "keywords": ["Pre-trained language models", "Trajectory recovery"]}
+{"conference": "neurips2025", "title": "Learning to Integrate Diffusion ODEs by Averaging the Derivatives", "keywords": ["Ordinary differential equations", "Diffusion processes", "Averaging techniques"]}
+{"conference": "neurips2025", "title": "STEAD: Robust Provably Secure Linguistic Steganography with Diffusion Language Model", "keywords": ["Linguistic", "Steganography", "Language Models", "Security"]}
+{"conference": "neurips2025", "title": "Decomposing Interventional Causality into Synergistic, Redundant, and Unique Components", "keywords": ["Causal Impact Analysis", "Interventional Experiment Design"]}
+{"conference": "neurips2025", "title": "Bayes optimal learning of attention-indexed models", "keywords": ["Reinforcement Learning", "Attention Mechanisms", "Unsupervised Pre-training"]}
+{"conference": "neurips2025", "title": "Efficient Randomized Experiments Using Foundation Models", "keywords": ["Randomized Experiments", "Foundation Models", "Precision Tuning"]}
+{"conference": "neurips2025", "title": "Curl Descent : Non-Gradient Learning Dynamics with Sign-Diverse Plasticity", "keywords": ["Curve Descent", "Non-gradient"]}
+{"conference": "neurips2025", "title": "Riemannian Consistency Model", "keywords": ["Reinforcement Learning", "Text-to-SQL", "Fine-tuning", "Deep Learning", "Model Generalization"]}
+{"conference": "neurips2025", "title": "NeuSymEA: Neuro-symbolic Entity Alignment via Variational Inference", "keywords": ["entity alignment", "neural networks", "variational inference"]}
+{"conference": "neurips2025", "title": "LLM Interpretability with Identifiable Temporal-Instantaneous Representation", "keywords": ["Interpretable AI", "Temporal Data Analysis"]}
+{"conference": "neurips2025", "title": "Learning Dense Hand Contact Estimation from Imbalanced Data", "keywords": ["Hand Tracking", "Imbalanced Data", "Density Mapping"]}
+{"conference": "neurips2025", "title": "FuncGenFoil: Airfoil Generation and Editing Model in Function Space", "keywords": ["Function space", "Airfoil generation"]}
+{"conference": "neurips2025", "title": "GAMMA: Gated Multi-hop Message Passing for Homophily-Agnostic Node Representation in GNNs", "keywords": ["Graph Neural Network", "Node Embedding", "Homophily"]}
 {"conference": "neurips2025", "title": "MoCha: Towards Movie-Grade Talking Character Generation"}
 {"conference": "neurips2025", "title": "PAC-Bayes Bounds for Multivariate Linear Regression and Linear Autoencoders"}
-{"conference": "neurips2025", "title": "ELECTRA: A Cartesian Network for 3D Charge Density Prediction with Floating Orbitals"}
-{"conference": "neurips2025", "title": "Enforcing convex constraints in Graph Neural Networks"}
-{"conference": "neurips2025", "title": "Omnidirectional 3D Scene Reconstruction from Single Image"}
+{"conference": "neurips2025", "title": "ELECTRA: A Cartesian Network for 3D Charge Density Prediction with Floating Orbitals", "keywords": ["charge density", "floating orbitals", "electronegativity prediction"]}
+{"conference": "neurips2025", "title": "Enforcing convex constraints in Graph Neural Networks", "keywords": ["Graph Neural Networks", "Convex Constraints"]}
+{"conference": "neurips2025", "title": "Omnidirectional 3D Scene Reconstruction from Single Image", "keywords": ["Computer Vision", "Single-Image Processing", "Scene Reconstruction"]}
 {"conference": "neurips2025", "title": "Breaking the Performance Ceiling in Reinforcement Learning requires Inference Strategies"}
-{"conference": "neurips2025", "title": "JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models"}
-{"conference": "neurips2025", "title": "Time-o1: Time-Series Forecasting Needs Transformed Label Alignment"}
-{"conference": "neurips2025", "title": "Harmony in Divergence: Towards Fast, Accurate, and Memory-efficient Zeroth-order LLM Fine-tuning"}
-{"conference": "neurips2025", "title": "What are you sinking? A geometric approach on attention sink"}
-{"conference": "neurips2025", "title": "One-Step Diffusion-Based Image Compression with Semantic Distillation"}
-{"conference": "neurips2025", "title": "A Latent Multilayer Graphical Model For Complex, Interdependent Systems"}
-{"conference": "neurips2025", "title": "Cost-aware LLM-based Online Dataset Annotation"}
-{"conference": "neurips2025", "title": "Prior-Guided Flow Matching for Target-Aware Molecule Design with Learnable Atom Number"}
-{"conference": "neurips2025", "title": "Projection-Manifold Regularized Latent Diffusion for Robust General Image Fusion"}
-{"conference": "neurips2025", "title": "Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models"}
-{"conference": "neurips2025", "title": "Practical and Effective Code Watermarking for Large Language Models"}
-{"conference": "neurips2025", "title": "GeoRemover: Removing Objects and Their Causal Visual Artifacts"}
-{"conference": "neurips2025", "title": "HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts"}
-{"conference": "neurips2025", "title": "Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence"}
-{"conference": "neurips2025", "title": "Hierarchical Semantic-Augmented Navigation: Optimal Transport and Graph-Driven Reasoning for Vision-Language Navigation"}
-{"conference": "neurips2025", "title": "A Minimalist Example of Edge-of-Stability and Progressive Sharpening"}
-{"conference": "neurips2025", "title": "MoBA: Mixture of Block Attention for Long-Context LLMs"}
-{"conference": "neurips2025", "title": "Real-World Reinforcement Learning of Active Perception Behaviors"}
-{"conference": "neurips2025", "title": "WeatherPrompt: Multi-modality Representation Learning for All-Weather Drone Visual Geo-Localization"}
-{"conference": "neurips2025", "title": "Learning Interestingness in Automated Mathematical Theory Formation"}
-{"conference": "neurips2025", "title": "Robust Sampling for Active Statistical Inference"}
-{"conference": "neurips2025", "title": "CausalPFN: Amortized Causal Effect Estimation via In-Context Learning"}
-{"conference": "neurips2025", "title": "Multi-Agent Imitation by Learning and Sampling from Factorized Soft Q-Function"}
-{"conference": "neurips2025", "title": "Seeing the Arrow of Time in Large Multimodal Models"}
-{"conference": "neurips2025", "title": "Diffusion-Driven Two-Stage Active Learning for Low-Budget Semantic Segmentation"}
-{"conference": "neurips2025", "title": "Stochastic Forward-Forward Learning through Representational Dimensionality Compression"}
-{"conference": "neurips2025", "title": "Holistic Order Prediction in Natural Scenes"}
-{"conference": "neurips2025", "title": "Metis: A Foundation Speech Generation Model with Masked Generative Pre-training"}
-{"conference": "neurips2025", "title": "Flexible Language Modeling in Continuous Space with Transformer-based Autoregressive Flows"}
-{"conference": "neurips2025", "title": "Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control"}
-{"conference": "neurips2025", "title": "Checklists Are Better Than Reward Models For Aligning Language Models"}
-{"conference": "neurips2025", "title": "GeRaF: Neural Geometry Reconstruction from Radio Frequency Signals"}
-{"conference": "neurips2025", "title": "Brain-Inspired fMRI-to-Text Decoding via Incremental and Wrap-Up Language Modeling"}
-{"conference": "neurips2025", "title": "Personalized Decision Modeling: Utility Optimization or Textualized-Symbolic Reasoning"}
-{"conference": "neurips2025", "title": "From Replication to Redesign: Exploring Pairwise Comparisons for LLM-Based Peer Review"}
-{"conference": "neurips2025", "title": "Equilibrium Policy Generalization: A Reinforcement Learning Framework for Cross-Graph Zero-Shot Generalization in Pursuit-Evasion Games"}
-{"conference": "neurips2025", "title": "AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation"}
-{"conference": "neurips2025", "title": "DEFT: Decompositional Efficient Fine-Tuning for Text-to-Image Models"}
-{"conference": "neurips2025", "title": "Information-Driven Design of Imaging Systems"}
-{"conference": "neurips2025", "title": "ShapeX: Shapelet-Driven Post Hoc Explanations for Time Series Classification Models"}
-{"conference": "neurips2025", "title": "Flow Matching Neural Processes"}
-{"conference": "neurips2025", "title": "VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning"}
-{"conference": "neurips2025", "title": "HeavyWater and SimplexWater: Distortion-free LLM Watermarks for Low-Entropy Distributions"}
-{"conference": "neurips2025", "title": "Continual Model Merging without Data: Dual Projections for Balancing Stability and Plasticity"}
-{"conference": "neurips2025", "title": "DualMPNN: Harnessing Structural Alignments for High-Recovery Inverse Protein Folding"}
-{"conference": "neurips2025", "title": "Accelerated Evolving Set Processes for Local PageRank Computation"}
-{"conference": "neurips2025", "title": "Alias-Free ViT: Fractional Shift Invariance via Linear Attention"}
-{"conference": "neurips2025", "title": "DePass: Unified Feature Attributing by Simple Decomposed Forward Pass"}
-{"conference": "neurips2025", "title": "Curriculum Abductive Learning"}
-{"conference": "neurips2025", "title": "Boosting the Uniqueness of Neural Networks Fingerprints with Informative Triggers"}
-{"conference": "neurips2025", "title": "DynaAct: Large Language Model Reasoning with Dynamic Action Spaces"}
+{"conference": "neurips2025", "title": "JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models", "keywords": ["Reinforcement Learning", "Text-to-SQL"]}
+{"conference": "neurips2025", "title": "Time-o1: Time-Series Forecasting Needs Transformed Label Alignment", "keywords": ["time series", "forecasting", "label alignment"]}
+{"conference": "neurips2025", "title": "Harmony in Divergence: Towards Fast, Accurate, and Memory-efficient Zeroth-order LLM Fine-tuning", "keywords": ["Zero-Order Optimization", "Low Memory Footprint", "Speed of FINE-TUNING"]}
+{"conference": "neurips2025", "title": "What are you sinking? A geometric approach on attention sink", "keywords": ["attention mechanism", "geometry", "sink"]}
+{"conference": "neurips2025", "title": "One-Step Diffusion-Based Image Compression with Semantic Distillation", "keywords": ["Diffusion", "Image Processing", "Semantic Learning"]}
+{"conference": "neurips2025", "title": "A Latent Multilayer Graphical Model For Complex, Interdependent Systems", "keywords": ["Latent models", "Graphical modeling", "Multilayer networks"]}
+{"conference": "neurips2025", "title": "Cost-aware LLM-based Online Dataset Annotation", "keywords": ["LLM (Language Learning Model)", "Online", "Annotation"]}
+{"conference": "neurips2025", "title": "Prior-Guided Flow Matching for Target-Aware Molecule Design with Learnable Atom Number", "keywords": ["Prior-Guided Flow Matching", "Molecule Design", "Learnable Atom Number"]}
+{"conference": "neurips2025", "title": "Projection-Manifold Regularized Latent Diffusion for Robust General Image Fusion", "keywords": ["Latent Diffusion", "Image Fusion", "Regularization"]}
+{"conference": "neurips2025", "title": "Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models", "keywords": ["Neural Networks", "Guidance Mechanism", "Diffusion Process"]}
+{"conference": "neurips2025", "title": "Practical and Effective Code Watermarking for Large Language Models", "keywords": ["Code Obfuscation", "Machine Learning Security"]}
+{"conference": "neurips2025", "title": "GeoRemover: Removing Objects and Their Causal Visual Artifacts", "keywords": ["object removal", "visual artifact", "geospatial data"]}
+{"conference": "neurips2025", "title": "HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts", "keywords": ["Hyperbolic LLM", "Mixture-of-Experts"]}
+{"conference": "neurips2025", "title": "Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence", "keywords": ["Visual Transformer", "Spatial Reasoning", "Image Encoding"]}
+{"conference": "neurips2025", "title": "Hierarchical Semantic-Augmented Navigation: Optimal Transport and Graph-Driven Reasoning for Vision-Language Navigation", "keywords": ["Hierarchical Semantic", "Vision-Language", "Navigation"]}
+{"conference": "neurips2025", "title": "A Minimalist Example of Edge-of-Stability and Progressive Sharpening", "keywords": ["reinforcement learning", "progressive sharpening"]}
+{"conference": "neurips2025", "title": "MoBA: Mixture of Block Attention for Long-Context LLMs", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
+{"conference": "neurips2025", "title": "Real-World Reinforcement Learning of Active Perception Behaviors", "keywords": ["Reinforcement Learning", "Active Perception"]}
+{"conference": "neurips2025", "title": "WeatherPrompt: Multi-modality Representation Learning for All-Weather Drone Visual Geo-Localization", "keywords": ["Visual Localization", "Multi-modal Interpretation", "Geospatial Analysis"]}
+{"conference": "neurips2025", "title": "Learning Interestingness in Automated Mathematical Theory Formation", "keywords": ["Reinforcement Learning", "Text-to-SQL", "Fine-tuning", "Interestingness"]}
+{"conference": "neurips2025", "title": "Robust Sampling for Active Statistical Inference", "keywords": ["sampling", "active learning", "statistical inference"]}
+{"conference": "neurips2025", "title": "CausalPFN: Amortized Causal Effect Estimation via In-Context Learning", "keywords": ["reinforcement learning", "contextual modeling", "causal inference"]}
+{"conference": "neurips2025", "title": "Multi-Agent Imitation by Learning and Sampling from Factorized Soft Q-Function", "keywords": ["Reinforcement Learning", "Imitation Learning"]}
+{"conference": "neurips2025", "title": "Seeing the Arrow of Time in Large Multimodal Models", "keywords": ["Temporal Reasoning", "Multimodal Analysis", "Data Interpretation"]}
+{"conference": "neurips2025", "title": "Diffusion-Driven Two-Stage Active Learning for Low-Budget Semantic Segmentation", "keywords": ["Active learning", "Semantic segmentation", "Diffusion model"]}
+{"conference": "neurips2025", "title": "Stochastic Forward-Forward Learning through Representational Dimensionality Compression", "keywords": ["Reinforcement Learning", "fine-tuning"]}
+{"conference": "neurips2025", "title": "Holistic Order Prediction in Natural Scenes", "keywords": ["computer vision", "scene understanding", "object recognition"]}
+{"conference": "neurips2025", "title": "Metis: A Foundation Speech Generation Model with Masked Generative Pre-training", "keywords": ["Masked Language Models", "Generative Pretraining"]}
+{"conference": "neurips2025", "title": "Flexible Language Modeling in Continuous Space with Transformer-based Autoregressive Flows", "keywords": ["Transformer", "Autoregressive flows", "Language modeling"]}
+{"conference": "neurips2025", "title": "Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control", "keywords": ["Spiking Neural Network", "Control Systems", "Continuous Models"]}
+{"conference": "neurips2025", "title": "Checklists Are Better Than Reward Models For Aligning Language Models", "keywords": ["checklists", "reward models", "language models"]}
+{"conference": "neurips2025", "title": "GeRaF: Neural Geometry Reconstruction from Radio Frequency Signals", "keywords": ["Neural Networks", "Radio Technology", "Signal Processing"]}
+{"conference": "neurips2025", "title": "Brain-Inspired fMRI-to-Text Decoding via Incremental and Wrap-Up Language Modeling", "keywords": ["Brain imaging", "fmri decoding", "natural language processing"]}
+{"conference": "neurips2025", "title": "Personalized Decision Modeling: Utility Optimization or Textualized-Symbolic Reasoning", "keywords": ["Reinforcement Learning", "Text-to-SQL", "Utility Optimization"]}
+{"conference": "neurips2025", "title": "From Replication to Redesign: Exploring Pairwise Comparisons for LLM-Based Peer Review", "keywords": ["LLM", "peer review", "pairwise comparison"]}
+{"conference": "neurips2025", "title": "Equilibrium Policy Generalization: A Reinforcement Learning Framework for Cross-Graph Zero-Shot Generalization in Pursuit-Evasion Games", "keywords": ["Reinforcement Learning", "Zero-Shot Generalization"]}
+{"conference": "neurips2025", "title": "AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation", "keywords": ["medical imaging", "machine learning", "anatomical ontology"]}
+{"conference": "neurips2025", "title": "DEFT: Decompositional Efficient Fine-Tuning for Text-to-Image Models", "keywords": ["Text-to-SQL", "Fine-tuning"]}
+{"conference": "neurips2025", "title": "Information-Driven Design of Imaging Systems", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
+{"conference": "neurips2025", "title": "ShapeX: Shapelet-Driven Post Hoc Explanations for Time Series Classification Models", "keywords": ["Time series", "Classification models", "Explanation methods"]}
+{"conference": "neurips2025", "title": "Flow Matching Neural Processes", "keywords": ["Neural Process", "Flow Patterns"]}
+{"conference": "neurips2025", "title": "VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning", "keywords": ["Reinforcement Learning", "Vision-Language Models", "Efficiency"]}
+{"conference": "neurips2025", "title": "HeavyWater and SimplexWater: Distortion-free LLM Watermarks for Low-Entropy Distributions", "keywords": ["Reinforcement Learning", "Fine-tuning"]}
+{"conference": "neurips2025", "title": "Continual Model Merging without Data: Dual Projections for Balancing Stability and Plasticity", "keywords": ["Reinforcement Learning", "Continual Model"]}
+{"conference": "neurips2025", "title": "DualMPNN: Harnessing Structural Alignments for High-Recovery Inverse Protein Folding", "keywords": ["Protein folding", "Inverse design"]}
+{"conference": "neurips2025", "title": "Accelerated Evolving Set Processes for Local PageRank Computation", "keywords": ["Evolving Sets", "PageRank", "Local Search"]}
+{"conference": "neurips2025", "title": "Alias-Free ViT: Fractional Shift Invariance via Linear Attention", "keywords": ["Vision Transformer", "Attention Mechanism", "Linear Model"]}
+{"conference": "neurips2025", "title": "DePass: Unified Feature Attributing by Simple Decomposed Forward Pass", "keywords": ["feature attributing", "decomposition techniques", "neural networks"]}
+{"conference": "neurips2025", "title": "Curriculum Abductive Learning", "keywords": ["Abductive learning", "Reinforcement Learning"]}
+{"conference": "neurips2025", "title": "Boosting the Uniqueness of Neural Networks Fingerprints with Informative Triggers", "keywords": ["Neural networks", "Machine learning triggers", "Model differentiation"]}
+{"conference": "neurips2025", "title": "DynaAct: Large Language Model Reasoning with Dynamic Action Spaces", "keywords": ["Reinforcement Learning", "Dynamic Action Spaces", "Large Language Models"]}
 {"conference": "neurips2025", "title": "Online Portfolio Selection with ML Predictions"}
-{"conference": "neurips2025", "title": "Measuring and Controlling Solution Degeneracy across Task-Trained Recurrent Neural Networks"}
-{"conference": "neurips2025", "title": "On the Expressive Power of Mixture-of-Experts for Structured Complex Tasks"}
-{"conference": "neurips2025", "title": "Towards Generalizable Retina Vessel Segmentation with Deformable Graph Priors"}
-{"conference": "neurips2025", "title": "FedLPA: Local Prior Alignment for Heterogeneous Federated Generalized Category Discovery"}
+{"conference": "neurips2025", "title": "Measuring and Controlling Solution Degeneracy across Task-Trained Recurrent Neural Networks", "keywords": ["Recurrent Neural Network", "Solution Degeneracy", "Task Training"]}
+{"conference": "neurips2025", "title": "On the Expressive Power of Mixture-of-Experts for Structured Complex Tasks", "keywords": ["Reinforcement Learning", "Mixture-ofdependent"]}
+{"conference": "neurips2025", "title": "Towards Generalizable Retina Vessel Segmentation with Deformable Graph Priors", "keywords": ["graph priors", "retinal segmentation"]}
+{"conference": "neurips2025", "title": "FedLPA: Local Prior Alignment for Heterogeneous Federated Generalized Category Discovery", "keywords": ["federated learning", "generalization", "alignment"]}
 {"conference": "neurips2025", "title": "Mozart: Modularized and Efficient MoE Training on 3.5D Wafer-Scale Chiplet Architectures"}
-{"conference": "neurips2025", "title": "Imagined Autocurricula"}
-{"conference": "neurips2025", "title": "Knowledge Distillation Detection for Open-weights Models"}
-{"conference": "neurips2025", "title": "Datasets, Documents, and Repetitions: The Practicalities of Unequal Data Quality"}
-{"conference": "neurips2025", "title": "RepLDM: Reprogramming Pretrained Latent Diffusion Models for High-Quality, High-Efficiency, High-Resolution Image Generation"}
+{"conference": "neurips2025", "title": "Imagined Autocurricula", "keywords": ["Autocurriculum", "Imitation Learning", "Curriculrancy"]}
+{"conference": "neurips2025", "title": "Knowledge Distillation Detection for Open-weights Models", "keywords": ["knowledge distillation", "open-weights models", "transfer learning"]}
+{"conference": "neurips2025", "title": "Datasets, Documents, and Repetitions: The Practicalities of Unequal Data Quality", "keywords": ["datasets", "repetitions", "data quality"]}
+{"conference": "neurips2025", "title": "RepLDM: Reprogramming Pretrained Latent Diffusion Models for High-Quality, High-Efficiency, High-Resolution Image Generation", "keywords": ["Latent Diffusion", "Image Generation"]}
 {"conference": "neurips2025", "title": "Transferring Linear Features Across Language Models With Model Stitching"}
 {"conference": "neurips2025", "title": "DIPO: Dual-State Images Controlled Articulated Object Generation Powered by Diverse Data"}
 {"conference": "neurips2025", "title": "EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting"}
